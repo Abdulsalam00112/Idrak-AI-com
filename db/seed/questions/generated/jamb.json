@@ -1,0 +1,3247 @@
+[
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 12cm and width 4cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "52"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a rectangle = length × width = 12 × 4 = 48cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 10 and x − y = 6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 8, y = 2"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 8"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 8, y = 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding both equations: 2x = 16, so x = 8. Substituting: 8 + y = 10, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦60,000 for 1 year at 6% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10800"
+      },
+      {
+        "id": "B",
+        "text": "7200"
+      },
+      {
+        "id": "C",
+        "text": "3600"
+      },
+      {
+        "id": "D",
+        "text": "7200"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (60000 × 6 × 1) / 100 = ₦3600.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 10 and 25.",
+    "options": [
+      {
+        "id": "A",
+        "text": "250"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 10 and 25 is 50.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦25,000 for 3 years at 10% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "5000"
+      },
+      {
+        "id": "C",
+        "text": "15000"
+      },
+      {
+        "id": "D",
+        "text": "7500"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (25000 × 10 × 3) / 100 = ₦7500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "If 5x + 12 = 42, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 42 − 12 = 30, so x = 30 ÷ 5 = 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 4:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:10"
+      },
+      {
+        "id": "B",
+        "text": "2:5"
+      },
+      {
+        "id": "C",
+        "text": "2:6"
+      },
+      {
+        "id": "D",
+        "text": "3:5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 4 and 10 is 2. Dividing both terms by 2: 4÷2 : 10÷2 = 2:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦3,000 and wants to make a profit of 25%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4125"
+      },
+      {
+        "id": "B",
+        "text": "3750"
+      },
+      {
+        "id": "C",
+        "text": "4050"
+      },
+      {
+        "id": "D",
+        "text": "3375"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 25% of ₦3000 = ₦750. Selling price = ₦3000 + ₦750 = ₦3750.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 16cm and width 6cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "102"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 16 × 6 = 96cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:35 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "3:7"
+      },
+      {
+        "id": "D",
+        "text": "15:35"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 15 and 35 is 5. Dividing both terms by 5: 15÷5 : 35÷5 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦1,200 and wants to make a profit of 40%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1680"
+      },
+      {
+        "id": "B",
+        "text": "1920"
+      },
+      {
+        "id": "C",
+        "text": "1800"
+      },
+      {
+        "id": "D",
+        "text": "1440"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Profit = 40% of ₦1200 = ₦480. Selling price = ₦1200 + ₦480 = ₦1680.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 73, 21, 16, 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "134"
+      },
+      {
+        "id": "B",
+        "text": "33.5"
+      },
+      {
+        "id": "C",
+        "text": "28.5"
+      },
+      {
+        "id": "D",
+        "text": "38.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Average = sum of numbers ÷ count = 134 ÷ 4 = 33.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "294"
+      },
+      {
+        "id": "B",
+        "text": "21"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 14 and 21 is 42.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 18 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 18 and 24 is 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 13 and x − y = -1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 6, y = 8"
+      },
+      {
+        "id": "B",
+        "text": "x = 6, y = 7"
+      },
+      {
+        "id": "C",
+        "text": "x = 7, y = 6"
+      },
+      {
+        "id": "D",
+        "text": "x = 7, y = 7"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Adding both equations: 2x = 12, so x = 6. Substituting: 6 + y = 13, so y = 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 5cm and 12cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 5² + 12² = 25 + 144 = 169, so hypotenuse = 13cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "384"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 16 and 24 is 48.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 77, 10, 86, 51.",
+    "options": [
+      {
+        "id": "A",
+        "text": "61"
+      },
+      {
+        "id": "B",
+        "text": "51"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "224"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 224 ÷ 4 = 56.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 13cm and width 5cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "70"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 13 × 5 = 65cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 11 and x − y = 7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 9, y = 3"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 9"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 10, y = 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Adding both equations: 2x = 18, so x = 9. Substituting: 9 + y = 11, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 31, 43, 77, 87.",
+    "options": [
+      {
+        "id": "A",
+        "text": "64.5"
+      },
+      {
+        "id": "B",
+        "text": "54.5"
+      },
+      {
+        "id": "C",
+        "text": "59.5"
+      },
+      {
+        "id": "D",
+        "text": "238"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 238 ÷ 4 = 59.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 12cm and 16cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "28"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 12² + 16² = 144 + 256 = 400, so hypotenuse = 20cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 9 and x − y = 1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 5, y = 5"
+      },
+      {
+        "id": "B",
+        "text": "x = 4, y = 5"
+      },
+      {
+        "id": "C",
+        "text": "x = 6, y = 4"
+      },
+      {
+        "id": "D",
+        "text": "x = 5, y = 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Adding both equations: 2x = 10, so x = 5. Substituting: 5 + y = 9, so y = 4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 16 and 24 is 8.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 12 and 18.",
+    "options": [
+      {
+        "id": "A",
+        "text": "216"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "36"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The LCM of 12 and 18 is 36.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 6cm and width 3cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area of a rectangle = length × width = 6 × 3 = 18cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:25 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:5"
+      },
+      {
+        "id": "B",
+        "text": "3:6"
+      },
+      {
+        "id": "C",
+        "text": "15:25"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 15 and 25 is 5. Dividing both terms by 5: 15÷5 : 25÷5 = 3:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 6:8 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:4"
+      },
+      {
+        "id": "B",
+        "text": "3:5"
+      },
+      {
+        "id": "C",
+        "text": "4:4"
+      },
+      {
+        "id": "D",
+        "text": "6:8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 6 and 8 is 2. Dividing both terms by 2: 6÷2 : 8÷2 = 3:4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "If 2x + 4 = 22, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "11"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "2x = 22 − 4 = 18, so x = 18 ÷ 2 = 9.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦2,500 and wants to make a profit of 15%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3125"
+      },
+      {
+        "id": "B",
+        "text": "2875"
+      },
+      {
+        "id": "C",
+        "text": "3062.5"
+      },
+      {
+        "id": "D",
+        "text": "2687.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 15% of ₦2500 = ₦375. Selling price = ₦2500 + ₦375 = ₦2875.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'hinder'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "eager"
+      },
+      {
+        "id": "B",
+        "text": "hardship"
+      },
+      {
+        "id": "C",
+        "text": "obstruct"
+      },
+      {
+        "id": "D",
+        "text": "rare"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Hinder' means 'obstruct'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'meticulous'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "careful"
+      },
+      {
+        "id": "B",
+        "text": "friendly"
+      },
+      {
+        "id": "C",
+        "text": "careful and precise"
+      },
+      {
+        "id": "D",
+        "text": "agreed by all"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Meticulous' means 'careful and precise'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "What does the idiom 'to call it a day' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to become nervous about doing something planned"
+      },
+      {
+        "id": "B",
+        "text": "to endure a painful situation bravely"
+      },
+      {
+        "id": "C",
+        "text": "to stop doing something for the day"
+      },
+      {
+        "id": "D",
+        "text": "to achieve two things with a single action"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'To call it a day' means to stop doing something for the day.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'feasible'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "hardworking"
+      },
+      {
+        "id": "B",
+        "text": "agreed by all"
+      },
+      {
+        "id": "C",
+        "text": "possible and practicable"
+      },
+      {
+        "id": "D",
+        "text": "enthusiastic"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Feasible' means 'possible and practicable'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'stagnant'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "motionless and inactive"
+      },
+      {
+        "id": "B",
+        "text": "detailed"
+      },
+      {
+        "id": "C",
+        "text": "consistent"
+      },
+      {
+        "id": "D",
+        "text": "sentimental and wistful"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Stagnant' means 'motionless and inactive'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'gullible'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "hardworking"
+      },
+      {
+        "id": "B",
+        "text": "easily deceived"
+      },
+      {
+        "id": "C",
+        "text": "misleading"
+      },
+      {
+        "id": "D",
+        "text": "honest and frank"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Gullible' means 'easily deceived'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'eloquent'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "articulate"
+      },
+      {
+        "id": "B",
+        "text": "agreed by all"
+      },
+      {
+        "id": "C",
+        "text": "luxurious"
+      },
+      {
+        "id": "D",
+        "text": "obstruct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Eloquent' means 'articulate'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'adversity'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "cruel"
+      },
+      {
+        "id": "B",
+        "text": "strict"
+      },
+      {
+        "id": "C",
+        "text": "prosperity"
+      },
+      {
+        "id": "D",
+        "text": "inarticulate"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Adversity' means 'hardship'; its opposite is 'prosperity'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'ambiguous'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sad"
+      },
+      {
+        "id": "B",
+        "text": "gloomy"
+      },
+      {
+        "id": "C",
+        "text": "clear"
+      },
+      {
+        "id": "D",
+        "text": "interested"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Ambiguous' means 'unclear'; its opposite is 'clear'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'uniform'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "mild and tolerant"
+      },
+      {
+        "id": "B",
+        "text": "gloomy"
+      },
+      {
+        "id": "C",
+        "text": "consistent"
+      },
+      {
+        "id": "D",
+        "text": "infamous"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Uniform' means 'consistent'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'elaborate'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "childish"
+      },
+      {
+        "id": "B",
+        "text": "detailed"
+      },
+      {
+        "id": "C",
+        "text": "ill will"
+      },
+      {
+        "id": "D",
+        "text": "thrifty"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Elaborate' means 'detailed'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'elaborate'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "energetic"
+      },
+      {
+        "id": "B",
+        "text": "simple"
+      },
+      {
+        "id": "C",
+        "text": "friendly"
+      },
+      {
+        "id": "D",
+        "text": "careless"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Elaborate' means 'detailed'; its opposite is 'simple'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "What does the idiom 'to jump on the bandwagon' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to achieve two things with a single action"
+      },
+      {
+        "id": "B",
+        "text": "to take on more responsibility than you can handle"
+      },
+      {
+        "id": "C",
+        "text": "to stop doing something for the day"
+      },
+      {
+        "id": "D",
+        "text": "to join a popular activity or trend"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'To jump on the bandwagon' means to join a popular activity or trend.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'wary'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "hardship"
+      },
+      {
+        "id": "B",
+        "text": "agreed by all"
+      },
+      {
+        "id": "C",
+        "text": "cautious"
+      },
+      {
+        "id": "D",
+        "text": "practical"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Wary' means 'cautious'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'vigilant'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "luxurious"
+      },
+      {
+        "id": "B",
+        "text": "eager"
+      },
+      {
+        "id": "C",
+        "text": "unclear"
+      },
+      {
+        "id": "D",
+        "text": "watchful"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Vigilant' means 'watchful'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'bleak'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "careless"
+      },
+      {
+        "id": "B",
+        "text": "cheerful"
+      },
+      {
+        "id": "C",
+        "text": "interesting"
+      },
+      {
+        "id": "D",
+        "text": "hostile"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Bleak' means 'gloomy'; its opposite is 'cheerful'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'immense'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "reluctant"
+      },
+      {
+        "id": "B",
+        "text": "goodwill"
+      },
+      {
+        "id": "C",
+        "text": "tiny"
+      },
+      {
+        "id": "D",
+        "text": "skeptical"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Immense' means 'huge'; its opposite is 'tiny'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'mundane'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ordinary"
+      },
+      {
+        "id": "B",
+        "text": "enthusiastic"
+      },
+      {
+        "id": "C",
+        "text": "thrifty"
+      },
+      {
+        "id": "D",
+        "text": "rare"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Mundane' means 'ordinary'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the correct option: She is interested ___ learning new languages.",
+    "options": [
+      {
+        "id": "A",
+        "text": "for"
+      },
+      {
+        "id": "B",
+        "text": "on"
+      },
+      {
+        "id": "C",
+        "text": "at"
+      },
+      {
+        "id": "D",
+        "text": "in"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Interested' is correctly followed by the preposition 'in'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'candid'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "honest and frank"
+      },
+      {
+        "id": "B",
+        "text": "infamous"
+      },
+      {
+        "id": "C",
+        "text": "calm and peaceful"
+      },
+      {
+        "id": "D",
+        "text": "thrifty"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Candid' means 'honest and frank'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the correct option: Neither of the answers ___ correct.",
+    "options": [
+      {
+        "id": "A",
+        "text": "are"
+      },
+      {
+        "id": "B",
+        "text": "is"
+      },
+      {
+        "id": "C",
+        "text": "have been"
+      },
+      {
+        "id": "D",
+        "text": "were"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Neither' is singular and takes a singular verb: 'is'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the correct option: If I ___ you, I would apologize.",
+    "options": [
+      {
+        "id": "A",
+        "text": "will be"
+      },
+      {
+        "id": "B",
+        "text": "was"
+      },
+      {
+        "id": "C",
+        "text": "am"
+      },
+      {
+        "id": "D",
+        "text": "were"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "This is a hypothetical (subjunctive) conditional, which conventionally uses 'were' regardless of subject.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'languid'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "mild and tolerant"
+      },
+      {
+        "id": "B",
+        "text": "gloomy"
+      },
+      {
+        "id": "C",
+        "text": "sluggish"
+      },
+      {
+        "id": "D",
+        "text": "plentiful"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Languid' means 'sluggish'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "What does the idiom 'to burn the midnight oil' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to become nervous about doing something planned"
+      },
+      {
+        "id": "B",
+        "text": "to take on more responsibility than you can handle"
+      },
+      {
+        "id": "C",
+        "text": "to stop doing something for the day"
+      },
+      {
+        "id": "D",
+        "text": "to work late into the night"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'To burn the midnight oil' means to work late into the night.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'indifferent'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "friendly"
+      },
+      {
+        "id": "B",
+        "text": "sluggish"
+      },
+      {
+        "id": "C",
+        "text": "cheerful"
+      },
+      {
+        "id": "D",
+        "text": "unconcerned"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Indifferent' means 'unconcerned'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'impartial'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "biased"
+      },
+      {
+        "id": "B",
+        "text": "reckless"
+      },
+      {
+        "id": "C",
+        "text": "varied"
+      },
+      {
+        "id": "D",
+        "text": "clear"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Impartial' means 'unbiased'; its opposite is 'biased'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'arbitrary'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ordinary"
+      },
+      {
+        "id": "B",
+        "text": "random and unreasoned"
+      },
+      {
+        "id": "C",
+        "text": "luxurious"
+      },
+      {
+        "id": "D",
+        "text": "cheerful"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Arbitrary' means 'random and unreasoned'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'abundant'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "scarce"
+      },
+      {
+        "id": "B",
+        "text": "modern"
+      },
+      {
+        "id": "C",
+        "text": "tiny"
+      },
+      {
+        "id": "D",
+        "text": "cheerful"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Abundant' means 'plentiful'; its opposite is 'scarce'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'abrupt'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "skeptical"
+      },
+      {
+        "id": "B",
+        "text": "apathetic"
+      },
+      {
+        "id": "C",
+        "text": "gradual"
+      },
+      {
+        "id": "D",
+        "text": "reputable"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Abrupt' means 'sudden'; its opposite is 'gradual'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'brittle'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "unfriendly"
+      },
+      {
+        "id": "B",
+        "text": "fragile"
+      },
+      {
+        "id": "C",
+        "text": "cheerful"
+      },
+      {
+        "id": "D",
+        "text": "delicate"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Brittle' means 'fragile'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'diligent'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "infamous"
+      },
+      {
+        "id": "B",
+        "text": "hardworking"
+      },
+      {
+        "id": "C",
+        "text": "cautious"
+      },
+      {
+        "id": "D",
+        "text": "delicate"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Diligent' means 'hardworking'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'diminish'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "decrease"
+      },
+      {
+        "id": "B",
+        "text": "delicate"
+      },
+      {
+        "id": "C",
+        "text": "hardship"
+      },
+      {
+        "id": "D",
+        "text": "obstruct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Diminish' means 'decrease'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase nearest in meaning to 'obsolete'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sound and legitimate"
+      },
+      {
+        "id": "B",
+        "text": "outdated"
+      },
+      {
+        "id": "C",
+        "text": "obstruct"
+      },
+      {
+        "id": "D",
+        "text": "agreed by all"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Obsolete' means 'outdated'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'cautious'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "apathetic"
+      },
+      {
+        "id": "B",
+        "text": "abundant"
+      },
+      {
+        "id": "C",
+        "text": "reckless"
+      },
+      {
+        "id": "D",
+        "text": "careless"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Cautious' means 'careful'; its opposite is 'reckless'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "English Language",
+    "questionText": "What does the idiom 'to kill two birds with one stone' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to feel slightly unwell"
+      },
+      {
+        "id": "B",
+        "text": "to be very expensive"
+      },
+      {
+        "id": "C",
+        "text": "to make a greater effort than expected"
+      },
+      {
+        "id": "D",
+        "text": "to achieve two things with a single action"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'To kill two birds with one stone' means to achieve two things with a single action.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the SI unit of frequency?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Light"
+      },
+      {
+        "id": "B",
+        "text": "Hertz"
+      },
+      {
+        "id": "C",
+        "text": "An ammeter"
+      },
+      {
+        "id": "D",
+        "text": "The law of conservation of energy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Frequency is measured in Hertz (Hz), representing cycles per second.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "waves",
+      "units"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What type of lens diverges light rays?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A concave lens"
+      },
+      {
+        "id": "B",
+        "text": "Mass"
+      },
+      {
+        "id": "C",
+        "text": "100°C"
+      },
+      {
+        "id": "D",
+        "text": "Acceleration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A concave (diverging) lens spreads out parallel light rays.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "optics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "Can sound travel through a vacuum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, sound needs a material medium"
+      },
+      {
+        "id": "B",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "id": "C",
+        "text": "The law of conservation of energy"
+      },
+      {
+        "id": "D",
+        "text": "Mass divided by volume"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sound is a mechanical wave and requires a medium (solid, liquid or gas) to travel; it cannot travel through a vacuum.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "waves"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the SI unit of electric current?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0°C"
+      },
+      {
+        "id": "B",
+        "text": "Voltage equals current multiplied by resistance (V = IR)"
+      },
+      {
+        "id": "C",
+        "text": "Ampere"
+      },
+      {
+        "id": "D",
+        "text": "Mass"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Electric current is measured in Amperes (A).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "units",
+      "electricity"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "Which travels faster, light or sound?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Refraction"
+      },
+      {
+        "id": "B",
+        "text": "Light"
+      },
+      {
+        "id": "C",
+        "text": "Mass multiplied by gravitational acceleration multiplied by height (mgh)"
+      },
+      {
+        "id": "D",
+        "text": "Ampere"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Light travels at approximately 3×10⁸ m/s, far faster than sound (about 343 m/s in air).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "waves"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the formula for momentum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hertz"
+      },
+      {
+        "id": "B",
+        "text": "Mass multiplied by velocity"
+      },
+      {
+        "id": "C",
+        "text": "Voltage equals current multiplied by resistance (V = IR)"
+      },
+      {
+        "id": "D",
+        "text": "Light"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Momentum = mass × velocity.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mechanics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What type of lens converges (brings together) light rays?",
+    "options": [
+      {
+        "id": "A",
+        "text": "100°C"
+      },
+      {
+        "id": "B",
+        "text": "Joule"
+      },
+      {
+        "id": "C",
+        "text": "A convex lens"
+      },
+      {
+        "id": "D",
+        "text": "A voltmeter"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A convex (converging) lens bends parallel light rays inward to a focal point.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "optics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the unit used to measure electrical resistance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Light"
+      },
+      {
+        "id": "B",
+        "text": "Solid, liquid, and gas"
+      },
+      {
+        "id": "C",
+        "text": "Work done divided by time"
+      },
+      {
+        "id": "D",
+        "text": "Ohm"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Electrical resistance is measured in Ohms (Ω).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electricity",
+      "units"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "In a series circuit, how does current behave at every point?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0°C"
+      },
+      {
+        "id": "B",
+        "text": "Voltage equals current multiplied by resistance (V = IR)"
+      },
+      {
+        "id": "C",
+        "text": "Work done divided by time"
+      },
+      {
+        "id": "D",
+        "text": "Current is the same at every point in the circuit"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In a series circuit, the same current flows through every component since there is only one path for current.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electricity"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the formula for density?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mass multiplied by velocity"
+      },
+      {
+        "id": "B",
+        "text": "Ohm"
+      },
+      {
+        "id": "C",
+        "text": "Light"
+      },
+      {
+        "id": "D",
+        "text": "Mass divided by volume"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Density = mass / volume.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mechanics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "At standard atmospheric pressure, what is the freezing point of water in Celsius?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reflection"
+      },
+      {
+        "id": "B",
+        "text": "0°C"
+      },
+      {
+        "id": "C",
+        "text": "Mass multiplied by velocity"
+      },
+      {
+        "id": "D",
+        "text": "A convex lens"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pure water freezes at 0°C under standard atmospheric pressure.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "thermal-physics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What law states that energy cannot be created or destroyed, only transformed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The law of conservation of energy"
+      },
+      {
+        "id": "B",
+        "text": "Perpendicular to the surface"
+      },
+      {
+        "id": "C",
+        "text": "Ampere"
+      },
+      {
+        "id": "D",
+        "text": "Refraction"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of conservation of energy states that total energy in an isolated system remains constant — it changes form but is neither created nor destroyed.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "In what direction does the normal force act relative to a surface?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Half of mass multiplied by velocity squared (½mv²)"
+      },
+      {
+        "id": "B",
+        "text": "Current is the same at every point in the circuit"
+      },
+      {
+        "id": "C",
+        "text": "Perpendicular to the surface"
+      },
+      {
+        "id": "D",
+        "text": "A concave lens"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The normal force always acts perpendicular (at 90°) to the surface in contact.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mechanics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the term for the bending of light as it passes from one medium to another?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The voltage across each branch"
+      },
+      {
+        "id": "B",
+        "text": "Half of mass multiplied by velocity squared (½mv²)"
+      },
+      {
+        "id": "C",
+        "text": "Newton"
+      },
+      {
+        "id": "D",
+        "text": "Refraction"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Refraction is the bending of light as it changes speed passing between media of different densities.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "optics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What term describes the amount of matter in an object?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Newton"
+      },
+      {
+        "id": "B",
+        "text": "Mass"
+      },
+      {
+        "id": "C",
+        "text": "Ohm"
+      },
+      {
+        "id": "D",
+        "text": "A convex lens"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Mass is the amount of matter in an object, measured in kilograms, and is distinct from weight.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mechanics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "State Newton's Third Law of Motion.",
+    "options": [
+      {
+        "id": "A",
+        "text": "An ammeter"
+      },
+      {
+        "id": "B",
+        "text": "The law of conservation of energy"
+      },
+      {
+        "id": "C",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "id": "D",
+        "text": "Newton"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Newton's third law states that forces occur in pairs: for every action there is an equal and opposite reaction.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mechanics",
+      "newtons-laws"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What term describes a material's resistance to being bent or deformed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "id": "B",
+        "text": "Rigidity"
+      },
+      {
+        "id": "C",
+        "text": "A voltmeter"
+      },
+      {
+        "id": "D",
+        "text": "Ampere"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rigidity refers to how resistant a material is to bending or deformation under stress.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "materials"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the formula for kinetic energy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, sound needs a material medium"
+      },
+      {
+        "id": "B",
+        "text": "The voltage across each branch"
+      },
+      {
+        "id": "C",
+        "text": "Half of mass multiplied by velocity squared (½mv²)"
+      },
+      {
+        "id": "D",
+        "text": "A concave lens"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kinetic energy = ½mv², where m is mass and v is velocity.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the SI unit of work done?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Current is the same at every point in the circuit"
+      },
+      {
+        "id": "B",
+        "text": "A voltmeter"
+      },
+      {
+        "id": "C",
+        "text": "Joule"
+      },
+      {
+        "id": "D",
+        "text": "Hertz"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Work done is measured in Joules (J).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "units",
+      "energy"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "At standard atmospheric pressure, what is the boiling point of water in Celsius?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rigidity"
+      },
+      {
+        "id": "B",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "id": "C",
+        "text": "Ampere"
+      },
+      {
+        "id": "D",
+        "text": "100°C"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Pure water boils at 100°C under standard atmospheric pressure.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "thermal-physics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the formula for gravitational potential energy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mass multiplied by gravitational acceleration multiplied by height (mgh)"
+      },
+      {
+        "id": "B",
+        "text": "Rigidity"
+      },
+      {
+        "id": "C",
+        "text": "A concave lens"
+      },
+      {
+        "id": "D",
+        "text": "0°C"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gravitational potential energy = mgh, where m is mass, g is gravitational acceleration, and h is height.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What device is used to measure electric current?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Current is the same at every point in the circuit"
+      },
+      {
+        "id": "B",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "id": "C",
+        "text": "An ammeter"
+      },
+      {
+        "id": "D",
+        "text": "Rigidity"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "An ammeter is connected in series in a circuit to measure current.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electricity"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "In a parallel circuit, what stays the same across each branch?",
+    "options": [
+      {
+        "id": "A",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "id": "B",
+        "text": "A voltmeter"
+      },
+      {
+        "id": "C",
+        "text": "Newton"
+      },
+      {
+        "id": "D",
+        "text": "The voltage across each branch"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In a parallel circuit, the voltage across each branch is the same, while current can differ between branches.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electricity"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the formula for power?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hertz"
+      },
+      {
+        "id": "B",
+        "text": "Work done divided by time"
+      },
+      {
+        "id": "C",
+        "text": "0°C"
+      },
+      {
+        "id": "D",
+        "text": "Joule"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Power = Work done / Time taken, measured in Watts.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "energy"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the term for light bouncing off a surface?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The law of conservation of energy"
+      },
+      {
+        "id": "B",
+        "text": "Voltage equals current multiplied by resistance (V = IR)"
+      },
+      {
+        "id": "C",
+        "text": "Newton"
+      },
+      {
+        "id": "D",
+        "text": "Reflection"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reflection occurs when light bounces off a surface rather than passing through it.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "optics"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What is the SI unit of force?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hertz"
+      },
+      {
+        "id": "B",
+        "text": "Newton"
+      },
+      {
+        "id": "C",
+        "text": "Ohm"
+      },
+      {
+        "id": "D",
+        "text": "Voltage equals current multiplied by resistance (V = IR)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Force is measured in Newtons (N) in the SI system.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "units"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "State Ohm's Law.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acceleration"
+      },
+      {
+        "id": "B",
+        "text": "Mass multiplied by velocity"
+      },
+      {
+        "id": "C",
+        "text": "Voltage equals current multiplied by resistance (V = IR)"
+      },
+      {
+        "id": "D",
+        "text": "Current is the same at every point in the circuit"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Ohm's law states that voltage (V) equals current (I) multiplied by resistance (R).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electricity",
+      "ohms-law"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "Name the three common states of matter.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solid, liquid, and gas"
+      },
+      {
+        "id": "B",
+        "text": "Current is the same at every point in the circuit"
+      },
+      {
+        "id": "C",
+        "text": "Mass divided by volume"
+      },
+      {
+        "id": "D",
+        "text": "For every action, there is an equal and opposite reaction"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The three common states of matter are solid, liquid, and gas.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "matter"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "What device is used to measure potential difference (voltage)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perpendicular to the surface"
+      },
+      {
+        "id": "B",
+        "text": "Newton"
+      },
+      {
+        "id": "C",
+        "text": "Mass multiplied by gravitational acceleration multiplied by height (mgh)"
+      },
+      {
+        "id": "D",
+        "text": "A voltmeter"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A voltmeter is connected in parallel across a component to measure voltage.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electricity"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Physics",
+    "questionText": "Which quantity is defined as the rate of change of velocity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A convex lens"
+      },
+      {
+        "id": "B",
+        "text": "Acceleration"
+      },
+      {
+        "id": "C",
+        "text": "100°C"
+      },
+      {
+        "id": "D",
+        "text": "Ohm"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Acceleration is the rate of change of velocity with respect to time.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mechanics"
+    ]
+  }
+]

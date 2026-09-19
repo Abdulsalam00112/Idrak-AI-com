@@ -1,0 +1,1986 @@
+[
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Urban gardens have grown popular in cities worldwide. Beyond providing fresh produce, they create green spaces that improve air quality and offer residents a place to gather. Many city planners now consider them essential, not optional, infrastructure.\" Does the following statement agree with the passage? \"Urban gardens are valued only for the food they produce.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage states benefits go 'beyond providing fresh produce', contradicting the statement that they are valued 'only' for food.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about urban gardens, the word 'essential' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Necessary or indispensable"
+      },
+      {
+        "id": "B",
+        "text": "Optional or unnecessary"
+      },
+      {
+        "id": "C",
+        "text": "Temporary"
+      },
+      {
+        "id": "D",
+        "text": "Expensive"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Essential' means 'necessary or indispensable' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Urban gardens have grown popular in cities worldwide. Beyond providing fresh produce, they create green spaces that improve air quality and offer residents a place to gather. Many city planners now consider them essential, not optional, infrastructure.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Urban gardens"
+      },
+      {
+        "id": "B",
+        "text": "Beekeeping"
+      },
+      {
+        "id": "C",
+        "text": "Coral reefs"
+      },
+      {
+        "id": "D",
+        "text": "Remote work"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage is primarily about urban gardens.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Coral reefs support an estimated quarter of all marine species, despite covering less than one percent of the ocean floor. Rising sea temperatures have caused widespread coral bleaching in recent decades, though some reef systems have shown surprising resilience.\" Does the following statement agree with the passage? \"Coral reefs cover more than half of the ocean floor.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage states reefs cover 'less than one percent' of the ocean floor, contradicting the statement.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about coral reefs, the word 'resilience' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "The ability to recover from difficulty"
+      },
+      {
+        "id": "B",
+        "text": "Complete destruction"
+      },
+      {
+        "id": "C",
+        "text": "Total avoidance"
+      },
+      {
+        "id": "D",
+        "text": "Rapid growth"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Resilience' means 'the ability to recover from difficulty' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Coral reefs support an estimated quarter of all marine species, despite covering less than one percent of the ocean floor. Rising sea temperatures have caused widespread coral bleaching in recent decades, though some reef systems have shown surprising resilience.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Public libraries"
+      },
+      {
+        "id": "B",
+        "text": "Coral reefs"
+      },
+      {
+        "id": "C",
+        "text": "Sleep research"
+      },
+      {
+        "id": "D",
+        "text": "Renewable energy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage is primarily about coral reefs.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Remote work arrangements expanded rapidly in the early 2020s. While many employees report greater flexibility and reduced commuting time, some managers have raised concerns about maintaining team cohesion when staff rarely meet in person.\" Does the following statement agree with the passage? \"All managers are enthusiastic about remote work.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage mentions 'some managers' raised concerns, but does not state the views of 'all' managers either way — this cannot be confirmed from the text.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about remote work, the word 'cohesion' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Working hours"
+      },
+      {
+        "id": "B",
+        "text": "Financial cost"
+      },
+      {
+        "id": "C",
+        "text": "Physical distance"
+      },
+      {
+        "id": "D",
+        "text": "The state of sticking together or being unified"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Cohesion' means 'the state of sticking together or being unified' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Remote work arrangements expanded rapidly in the early 2020s. While many employees report greater flexibility and reduced commuting time, some managers have raised concerns about maintaining team cohesion when staff rarely meet in person.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sleep research"
+      },
+      {
+        "id": "B",
+        "text": "Migratory birds"
+      },
+      {
+        "id": "C",
+        "text": "Urban gardens"
+      },
+      {
+        "id": "D",
+        "text": "Remote work"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The passage is primarily about remote work.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Many migratory bird species travel thousands of kilometres between breeding and wintering grounds each year. Researchers use lightweight tracking devices to study these journeys, revealing routes that were previously unknown even to experienced ornithologists.\" Does the following statement agree with the passage? \"Tracking devices used on birds are heavy and cumbersome.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage explicitly describes the tracking devices as 'lightweight', contradicting the statement.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about migratory birds, the word 'ornithologists' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scientists who study birds"
+      },
+      {
+        "id": "B",
+        "text": "People who track weather patterns"
+      },
+      {
+        "id": "C",
+        "text": "Scientists who study insects"
+      },
+      {
+        "id": "D",
+        "text": "People who build bird cages"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Ornithologists' means 'scientists who study birds' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Many migratory bird species travel thousands of kilometres between breeding and wintering grounds each year. Researchers use lightweight tracking devices to study these journeys, revealing routes that were previously unknown even to experienced ornithologists.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Migratory birds"
+      },
+      {
+        "id": "B",
+        "text": "Remote work"
+      },
+      {
+        "id": "C",
+        "text": "Beekeeping"
+      },
+      {
+        "id": "D",
+        "text": "Sleep research"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage is primarily about migratory birds.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Public libraries have evolved well beyond lending books. Many now offer free internet access, job-search assistance, and community meeting spaces, reflecting a broader shift toward serving as multipurpose community hubs.\" Does the following statement agree with the passage? \"Public libraries today only lend books, as they always have.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage states libraries have 'evolved well beyond lending books', directly contradicting the statement.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about public libraries, the word 'multipurpose' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temporary in nature"
+      },
+      {
+        "id": "B",
+        "text": "Available only to members"
+      },
+      {
+        "id": "C",
+        "text": "Serving several different functions"
+      },
+      {
+        "id": "D",
+        "text": "Serving one function only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Multipurpose' means 'serving several different functions' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Public libraries have evolved well beyond lending books. Many now offer free internet access, job-search assistance, and community meeting spaces, reflecting a broader shift toward serving as multipurpose community hubs.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Urban gardens"
+      },
+      {
+        "id": "B",
+        "text": "Remote work"
+      },
+      {
+        "id": "C",
+        "text": "Public libraries"
+      },
+      {
+        "id": "D",
+        "text": "Beekeeping"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage is primarily about public libraries.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Urban beekeeping has grown in popularity over the last decade, with rooftop hives now common in several major cities. Advocates argue it supports local pollination, though some residents raise concerns about safety in densely populated areas.\" Does the following statement agree with the passage? \"No residents have raised any concerns about urban beekeeping.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage explicitly states 'some residents raise concerns about safety', contradicting the claim that no concerns were raised.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about beekeeping, the word 'advocates' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scientists who study insects"
+      },
+      {
+        "id": "B",
+        "text": "People who oppose a cause"
+      },
+      {
+        "id": "C",
+        "text": "People who publicly support a cause"
+      },
+      {
+        "id": "D",
+        "text": "Government officials"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Advocates' means 'people who publicly support a cause' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Urban beekeeping has grown in popularity over the last decade, with rooftop hives now common in several major cities. Advocates argue it supports local pollination, though some residents raise concerns about safety in densely populated areas.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beekeeping"
+      },
+      {
+        "id": "B",
+        "text": "Sleep research"
+      },
+      {
+        "id": "C",
+        "text": "Migratory birds"
+      },
+      {
+        "id": "D",
+        "text": "Renewable energy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage is primarily about beekeeping.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Recent sleep research suggests that consistent sleep schedules may be as important for health as total sleep duration. Participants who slept the same hours nightly showed better outcomes than those with similar total sleep but irregular timing.\" Does the following statement agree with the passage? \"Total sleep duration is the only factor that affects health outcomes.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage suggests consistency of schedule 'may be as important' as duration, contradicting the claim that duration is the 'only' factor.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about sleep research, the word 'consistent' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Extremely long"
+      },
+      {
+        "id": "B",
+        "text": "Random and variable"
+      },
+      {
+        "id": "C",
+        "text": "Regular and unchanging"
+      },
+      {
+        "id": "D",
+        "text": "Medically supervised"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Consistent' means 'regular and unchanging' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Recent sleep research suggests that consistent sleep schedules may be as important for health as total sleep duration. Participants who slept the same hours nightly showed better outcomes than those with similar total sleep but irregular timing.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Migratory birds"
+      },
+      {
+        "id": "B",
+        "text": "Remote work"
+      },
+      {
+        "id": "C",
+        "text": "Sleep research"
+      },
+      {
+        "id": "D",
+        "text": "Urban gardens"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage is primarily about sleep research.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"The cost of solar panel installation has dropped significantly over the past fifteen years, making renewable energy increasingly competitive with fossil fuels. Some governments now offer additional incentives to accelerate this transition.\" Does the following statement agree with the passage? \"The passage states that solar panel costs have risen over the past fifteen years.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage explicitly states costs have 'dropped significantly', which is the opposite of rising.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about renewable energy, the word 'incentives' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Legal requirements"
+      },
+      {
+        "id": "B",
+        "text": "Scientific measurements"
+      },
+      {
+        "id": "C",
+        "text": "Penalties or fines"
+      },
+      {
+        "id": "D",
+        "text": "Things that encourage a particular action"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Incentives' means 'things that encourage a particular action' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"The cost of solar panel installation has dropped significantly over the past fifteen years, making renewable energy increasingly competitive with fossil fuels. Some governments now offer additional incentives to accelerate this transition.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Public libraries"
+      },
+      {
+        "id": "B",
+        "text": "Renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "Migratory birds"
+      },
+      {
+        "id": "D",
+        "text": "Coral reefs"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage is primarily about renewable energy.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The library will be closed on Monday for maintenance, but will reopen Tuesday at 9 AM instead of the usual 8 AM.\" What time will the library reopen on Tuesday?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 AM"
+      },
+      {
+        "id": "B",
+        "text": "8 AM"
+      },
+      {
+        "id": "C",
+        "text": "Monday"
+      },
+      {
+        "id": "D",
+        "text": "It stays closed"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The transcript states it reopens Tuesday at 9 AM, an hour later than usual.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The library will be closed on Monday for maintenance, but will reopen Tuesday at 9 AM instead of the usual 8 AM.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A museum wing closure"
+      },
+      {
+        "id": "B",
+        "text": "Library hours"
+      },
+      {
+        "id": "C",
+        "text": "A registration briefing"
+      },
+      {
+        "id": "D",
+        "text": "A workshop relocation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The transcript is mainly about library hours.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Today I'll cover three points: how to register, what documents you need, and common mistakes to avoid.\" What is the speaker mainly going to talk about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Registration process and requirements"
+      },
+      {
+        "id": "B",
+        "text": "Exam results"
+      },
+      {
+        "id": "C",
+        "text": "Weather conditions"
+      },
+      {
+        "id": "D",
+        "text": "History of the institution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "All three points listed relate to the registration process and its requirements.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Today I'll cover three points: how to register, what documents you need, and common mistakes to avoid.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A parking permit policy"
+      },
+      {
+        "id": "B",
+        "text": "A registration briefing"
+      },
+      {
+        "id": "C",
+        "text": "A seminar time change"
+      },
+      {
+        "id": "D",
+        "text": "A museum wing closure"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The transcript is mainly about a registration briefing.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The next train to the city centre departs from platform 3 at half past the hour, not platform 2 as originally announced.\" Which platform does the train depart from?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Platform 3"
+      },
+      {
+        "id": "B",
+        "text": "Platform 4"
+      },
+      {
+        "id": "C",
+        "text": "Platform 1"
+      },
+      {
+        "id": "D",
+        "text": "Platform 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The transcript corrects the platform to 3, from the originally announced platform 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The next train to the city centre departs from platform 3 at half past the hour, not platform 2 as originally announced.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A parking permit policy"
+      },
+      {
+        "id": "B",
+        "text": "A parking permit comparison"
+      },
+      {
+        "id": "C",
+        "text": "A train platform change"
+      },
+      {
+        "id": "D",
+        "text": "A workshop relocation"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The transcript is mainly about a train platform change.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Please submit your assignment by Friday. Late submissions will only be accepted with a valid medical certificate.\" Under what condition can a late submission be accepted?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Never, under any condition"
+      },
+      {
+        "id": "B",
+        "text": "Only on Mondays"
+      },
+      {
+        "id": "C",
+        "text": "With a valid medical certificate"
+      },
+      {
+        "id": "D",
+        "text": "If the student asks nicely"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The transcript states late submissions are accepted 'only... with a valid medical certificate'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Please submit your assignment by Friday. Late submissions will only be accepted with a valid medical certificate.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Library hours"
+      },
+      {
+        "id": "B",
+        "text": "A seminar time change"
+      },
+      {
+        "id": "C",
+        "text": "A parking permit policy"
+      },
+      {
+        "id": "D",
+        "text": "A workshop relocation"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The transcript is mainly about a parking permit policy.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The workshop has been moved from the main hall to room 204, but the start time of 2 PM remains unchanged.\" What has changed about the workshop?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only the start time"
+      },
+      {
+        "id": "B",
+        "text": "The location, but not the start time"
+      },
+      {
+        "id": "C",
+        "text": "Both the location and start time"
+      },
+      {
+        "id": "D",
+        "text": "Nothing has changed"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The transcript states the room changed to 204, while explicitly saying the 2 PM start time 'remains unchanged'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The workshop has been moved from the main hall to room 204, but the start time of 2 PM remains unchanged.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A workshop relocation"
+      },
+      {
+        "id": "B",
+        "text": "A registration briefing"
+      },
+      {
+        "id": "C",
+        "text": "A train platform change"
+      },
+      {
+        "id": "D",
+        "text": "A museum wing closure"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The transcript is mainly about a workshop relocation.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Visitors are reminded that the museum's east wing is closed for renovation, but the west wing and gift shop remain fully open.\" Which part of the museum is closed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The west wing"
+      },
+      {
+        "id": "B",
+        "text": "The entire museum"
+      },
+      {
+        "id": "C",
+        "text": "The east wing"
+      },
+      {
+        "id": "D",
+        "text": "The gift shop"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The transcript specifically states the east wing is closed, while the west wing and gift shop remain open.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Visitors are reminded that the museum's east wing is closed for renovation, but the west wing and gift shop remain fully open.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A seminar time change"
+      },
+      {
+        "id": "B",
+        "text": "A train platform change"
+      },
+      {
+        "id": "C",
+        "text": "A workshop relocation"
+      },
+      {
+        "id": "D",
+        "text": "A museum wing closure"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The transcript is mainly about a museum wing closure.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Please note that parking permits purchased online are valid for 30 days, while permits bought at the gate are valid for a single day only.\" How long is an online-purchased parking permit valid for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It never expires"
+      },
+      {
+        "id": "B",
+        "text": "30 days"
+      },
+      {
+        "id": "C",
+        "text": "7 days"
+      },
+      {
+        "id": "D",
+        "text": "A single day"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The transcript states online permits are valid for 30 days, unlike gate permits which are valid for a single day.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"Please note that parking permits purchased online are valid for 30 days, while permits bought at the gate are valid for a single day only.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A parking permit comparison"
+      },
+      {
+        "id": "B",
+        "text": "A parking permit policy"
+      },
+      {
+        "id": "C",
+        "text": "A registration briefing"
+      },
+      {
+        "id": "D",
+        "text": "A seminar time change"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The transcript is mainly about a parking permit comparison.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The seminar originally scheduled for 10 AM has been pushed back by two hours due to a scheduling conflict.\" What time will the seminar now begin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 PM (noon)"
+      },
+      {
+        "id": "B",
+        "text": "2 PM"
+      },
+      {
+        "id": "C",
+        "text": "8 AM"
+      },
+      {
+        "id": "D",
+        "text": "10 AM"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The transcript states the seminar was 'pushed back by two hours' from 10 AM, making the new time 12 PM.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-detail"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Listening",
+    "questionText": "Transcript: \"The seminar originally scheduled for 10 AM has been pushed back by two hours due to a scheduling conflict.\" What is this announcement mainly about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A train platform change"
+      },
+      {
+        "id": "B",
+        "text": "A museum wing closure"
+      },
+      {
+        "id": "C",
+        "text": "Library hours"
+      },
+      {
+        "id": "D",
+        "text": "A seminar time change"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The transcript is mainly about a seminar time change.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "listening-for-gist"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "Which linking phrase best connects two contrasting ideas in a Task 2 essay?",
+    "options": [
+      {
+        "id": "A",
+        "text": "In addition"
+      },
+      {
+        "id": "B",
+        "text": "As a result"
+      },
+      {
+        "id": "C",
+        "text": "For example"
+      },
+      {
+        "id": "D",
+        "text": "On the other hand"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'On the other hand' signals contrast, unlike the other options which signal addition, example, or consequence.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "In IELTS Writing Task 1 (Academic), what should the opening sentence typically do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "List every data point in detail"
+      },
+      {
+        "id": "B",
+        "text": "Paraphrase the question by describing what the chart or graph shows"
+      },
+      {
+        "id": "C",
+        "text": "State a personal opinion on the topic"
+      },
+      {
+        "id": "D",
+        "text": "Ask a rhetorical question"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The opening sentence of Task 1 should paraphrase the question, giving an overview of what the visual data represents.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What does 'lexical resource' refer to in IELTS Writing band descriptors?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The length of the essay"
+      },
+      {
+        "id": "B",
+        "text": "The handwriting quality"
+      },
+      {
+        "id": "C",
+        "text": "The range and accuracy of vocabulary used"
+      },
+      {
+        "id": "D",
+        "text": "The number of paragraphs written"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Lexical resource assesses the range, accuracy, and appropriateness of vocabulary used in the response.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What does 'coherence and cohesion' assess in IELTS Writing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "How many words are used in total"
+      },
+      {
+        "id": "B",
+        "text": "How fast the essay was written"
+      },
+      {
+        "id": "C",
+        "text": "How logically ideas are organized and linked together"
+      },
+      {
+        "id": "D",
+        "text": "Whether the handwriting is neat"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Coherence and cohesion assess the logical organization of ideas and the effective use of linking devices.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "In Task 2, what is generally recommended regarding your own opinion when the question asks for one?",
+    "options": [
+      {
+        "id": "A",
+        "text": "State it clearly and support it consistently throughout the essay"
+      },
+      {
+        "id": "B",
+        "text": "Only state it in the conclusion"
+      },
+      {
+        "id": "C",
+        "text": "Avoid stating any opinion at all"
+      },
+      {
+        "id": "D",
+        "text": "Change your opinion in each paragraph"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "When a question asks for your opinion, it should be stated clearly and supported consistently throughout the essay.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What is a common structural approach for an IELTS Task 2 essay?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only an introduction and conclusion, no body"
+      },
+      {
+        "id": "B",
+        "text": "A single long paragraph with no breaks"
+      },
+      {
+        "id": "C",
+        "text": "Randomly ordered points with no structure"
+      },
+      {
+        "id": "D",
+        "text": "Introduction, body paragraphs each with one main idea, and a conclusion"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A clear structure — introduction, well-organized body paragraphs, and a conclusion — helps coherence and is rewarded by band descriptors.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What is the minimum recommended word count for IELTS Writing Task 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "250 words"
+      },
+      {
+        "id": "B",
+        "text": "100 words"
+      },
+      {
+        "id": "C",
+        "text": "150 words"
+      },
+      {
+        "id": "D",
+        "text": "400 words"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "IELTS Writing Task 2 requires a minimum of 250 words; writing significantly less can be penalized.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What is the minimum recommended word count for IELTS Writing Task 1?",
+    "options": [
+      {
+        "id": "A",
+        "text": "250 words"
+      },
+      {
+        "id": "B",
+        "text": "50 words"
+      },
+      {
+        "id": "C",
+        "text": "100 words"
+      },
+      {
+        "id": "D",
+        "text": "150 words"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "IELTS Writing Task 1 requires a minimum of 150 words.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "In Task 1, which of the following should generally be avoided?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Highlighting key figures"
+      },
+      {
+        "id": "B",
+        "text": "Giving personal opinions about the data"
+      },
+      {
+        "id": "C",
+        "text": "Describing overall trends"
+      },
+      {
+        "id": "D",
+        "text": "Grouping similar data together"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Task 1 is a descriptive/reporting task; personal opinions about the data are not appropriate and don't align with the task's purpose.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What does 'grammatical range and accuracy' assess in IELTS Writing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of paragraphs used"
+      },
+      {
+        "id": "B",
+        "text": "The topic chosen for the essay"
+      },
+      {
+        "id": "C",
+        "text": "The variety of sentence structures used and how accurately grammar is applied"
+      },
+      {
+        "id": "D",
+        "text": "How quickly the essay is completed"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "This criterion looks at both the variety of grammatical structures attempted and how accurately they are used.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "What is 'task achievement' (Task 1) or 'task response' (Task 2) assessing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Whether the handwriting is legible"
+      },
+      {
+        "id": "B",
+        "text": "Whether the response fully and appropriately addresses all parts of the task"
+      },
+      {
+        "id": "C",
+        "text": "Whether the response is exactly 500 words"
+      },
+      {
+        "id": "D",
+        "text": "Whether the essay uses complex vocabulary only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Task achievement/response assesses how completely and appropriately the writer has addressed every part of the task prompt.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Writing",
+    "questionText": "In Task 2, why is it generally advisable to plan briefly before writing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It helps organize ideas logically, improving coherence and cohesion"
+      },
+      {
+        "id": "B",
+        "text": "It is required to be submitted separately"
+      },
+      {
+        "id": "C",
+        "text": "It replaces the need for a conclusion"
+      },
+      {
+        "id": "D",
+        "text": "It guarantees a high vocabulary score"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A brief plan helps ensure ideas are logically organized, which directly supports the coherence and cohesion criterion.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "writing-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "In IELTS Speaking Part 2, which approach best demonstrates good time management during the 2-minute long turn?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using all provided cue-card points with roughly even time across them"
+      },
+      {
+        "id": "B",
+        "text": "Speaking for only 20 seconds"
+      },
+      {
+        "id": "C",
+        "text": "Waiting silently until the examiner interrupts"
+      },
+      {
+        "id": "D",
+        "text": "Only answering the first bullet point in detail"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Good Part 2 responses cover all cue-card points with reasonably balanced timing across the full 2 minutes.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What is the general structure of the IELTS Speaking test?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four separate 10-minute interviews"
+      },
+      {
+        "id": "B",
+        "text": "A written test followed by a short interview"
+      },
+      {
+        "id": "C",
+        "text": "A single 5-minute monologue with no interaction"
+      },
+      {
+        "id": "D",
+        "text": "Three parts: an introduction/interview, a long turn, and a two-way discussion"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "IELTS Speaking has three parts: a short interview, a 1-2 minute long turn based on a cue card, and a deeper two-way discussion.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What does 'fluency and coherence' assess in IELTS Speaking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "How many words you use in total"
+      },
+      {
+        "id": "B",
+        "text": "Your physical posture while speaking"
+      },
+      {
+        "id": "C",
+        "text": "How loudly you speak"
+      },
+      {
+        "id": "D",
+        "text": "How smoothly you speak and how logically your ideas connect"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Fluency and coherence assess how naturally you speak without excessive hesitation, and how logically your ideas are connected.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "In Part 3 of IELTS Speaking, what type of questions are typically asked?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Questions requiring you to read aloud"
+      },
+      {
+        "id": "B",
+        "text": "Simple yes/no questions about your name and age"
+      },
+      {
+        "id": "C",
+        "text": "More abstract, discussion-based questions related to the Part 2 topic"
+      },
+      {
+        "id": "D",
+        "text": "Questions about grammar rules"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Part 3 involves more abstract, analytical discussion questions that extend the theme introduced in Part 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What does 'pronunciation' assess in IELTS Speaking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clarity of speech sounds, stress, rhythm, and intonation"
+      },
+      {
+        "id": "B",
+        "text": "How many different tenses you use"
+      },
+      {
+        "id": "C",
+        "text": "How long your answers are"
+      },
+      {
+        "id": "D",
+        "text": "The topic you choose to speak about"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronunciation assesses how clearly and naturally you produce speech sounds, along with stress, rhythm, and intonation.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "If you don't understand a question in the IELTS Speaking test, what is the best strategy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Politely ask the examiner to repeat or clarify the question"
+      },
+      {
+        "id": "B",
+        "text": "Answer a completely different question instead"
+      },
+      {
+        "id": "C",
+        "text": "Stay silent until the examiner moves on"
+      },
+      {
+        "id": "D",
+        "text": "End the test early"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "It is entirely acceptable, and recommended, to politely ask the examiner to repeat or rephrase a question you didn't understand.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What is a good strategy when you are given the Part 2 cue card and 1 minute of preparation time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jot down brief notes covering each bullet point on the card"
+      },
+      {
+        "id": "B",
+        "text": "Ignore the bullet points entirely"
+      },
+      {
+        "id": "C",
+        "text": "Use the time to relax without planning"
+      },
+      {
+        "id": "D",
+        "text": "Memorize a full pre-written speech unrelated to the topic"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the 1-minute preparation time to jot brief notes on each bullet point helps ensure a well-organized, complete response.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What does 'lexical resource' assess in IELTS Speaking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "How fast you speak"
+      },
+      {
+        "id": "B",
+        "text": "The topic of conversation"
+      },
+      {
+        "id": "C",
+        "text": "Your tone of voice only"
+      },
+      {
+        "id": "D",
+        "text": "The range and appropriateness of vocabulary used while speaking"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Lexical resource in Speaking assesses the range, precision, and appropriateness of vocabulary used in your responses.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What is generally the best way to handle a topic you know little about in IELTS Speaking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Refuse to answer the question"
+      },
+      {
+        "id": "B",
+        "text": "Speak only in your native language"
+      },
+      {
+        "id": "C",
+        "text": "Repeat the question back without answering"
+      },
+      {
+        "id": "D",
+        "text": "Speak honestly about related experiences or knowledge, adapting the topic slightly"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Examiners assess your English ability, not subject expertise — adapting to speak about related experience is an accepted strategy.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "Why is it beneficial to use a range of grammatical structures in IELTS Speaking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It makes the answer longer, which is the only goal"
+      },
+      {
+        "id": "B",
+        "text": "It is not assessed at all"
+      },
+      {
+        "id": "C",
+        "text": "It replaces the need for correct pronunciation"
+      },
+      {
+        "id": "D",
+        "text": "It demonstrates 'grammatical range and accuracy', one of the four assessment criteria"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Grammatical range and accuracy is one of the four official IELTS Speaking band descriptors.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Speaking",
+    "questionText": "What is a helpful habit when answering Part 1 questions in IELTS Speaking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asking the examiner to skip the question"
+      },
+      {
+        "id": "B",
+        "text": "Speaking for over 2 minutes per answer"
+      },
+      {
+        "id": "C",
+        "text": "Answering with a single word wherever possible"
+      },
+      {
+        "id": "D",
+        "text": "Giving a complete answer with a brief reason or example, not just one word"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Part 1 answers should be complete (a sentence or two with a reason/example) rather than minimal one-word replies.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speaking-strategy"
+    ]
+  }
+]

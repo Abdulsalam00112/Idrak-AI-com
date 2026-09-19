@@ -1,0 +1,3214 @@
+[
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 12cm and width 4cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "52"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a rectangle = length × width = 12 × 4 = 48cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 10 and x − y = 6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 8, y = 2"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 8"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 8, y = 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding both equations: 2x = 16, so x = 8. Substituting: 8 + y = 10, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦60,000 for 1 year at 6% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10800"
+      },
+      {
+        "id": "B",
+        "text": "7200"
+      },
+      {
+        "id": "C",
+        "text": "3600"
+      },
+      {
+        "id": "D",
+        "text": "7200"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (60000 × 6 × 1) / 100 = ₦3600.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 10 and 25.",
+    "options": [
+      {
+        "id": "A",
+        "text": "250"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 10 and 25 is 50.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦25,000 for 3 years at 10% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "5000"
+      },
+      {
+        "id": "C",
+        "text": "15000"
+      },
+      {
+        "id": "D",
+        "text": "7500"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (25000 × 10 × 3) / 100 = ₦7500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "If 5x + 12 = 42, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 42 − 12 = 30, so x = 30 ÷ 5 = 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 4:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:10"
+      },
+      {
+        "id": "B",
+        "text": "2:5"
+      },
+      {
+        "id": "C",
+        "text": "2:6"
+      },
+      {
+        "id": "D",
+        "text": "3:5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 4 and 10 is 2. Dividing both terms by 2: 4÷2 : 10÷2 = 2:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦3,000 and wants to make a profit of 25%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4125"
+      },
+      {
+        "id": "B",
+        "text": "3750"
+      },
+      {
+        "id": "C",
+        "text": "4050"
+      },
+      {
+        "id": "D",
+        "text": "3375"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 25% of ₦3000 = ₦750. Selling price = ₦3000 + ₦750 = ₦3750.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 16cm and width 6cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "102"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 16 × 6 = 96cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:35 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "3:7"
+      },
+      {
+        "id": "D",
+        "text": "15:35"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 15 and 35 is 5. Dividing both terms by 5: 15÷5 : 35÷5 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦1,200 and wants to make a profit of 40%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1680"
+      },
+      {
+        "id": "B",
+        "text": "1920"
+      },
+      {
+        "id": "C",
+        "text": "1800"
+      },
+      {
+        "id": "D",
+        "text": "1440"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Profit = 40% of ₦1200 = ₦480. Selling price = ₦1200 + ₦480 = ₦1680.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 73, 21, 16, 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "134"
+      },
+      {
+        "id": "B",
+        "text": "33.5"
+      },
+      {
+        "id": "C",
+        "text": "28.5"
+      },
+      {
+        "id": "D",
+        "text": "38.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Average = sum of numbers ÷ count = 134 ÷ 4 = 33.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "294"
+      },
+      {
+        "id": "B",
+        "text": "21"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 14 and 21 is 42.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 18 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 18 and 24 is 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 13 and x − y = -1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 6, y = 8"
+      },
+      {
+        "id": "B",
+        "text": "x = 6, y = 7"
+      },
+      {
+        "id": "C",
+        "text": "x = 7, y = 6"
+      },
+      {
+        "id": "D",
+        "text": "x = 7, y = 7"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Adding both equations: 2x = 12, so x = 6. Substituting: 6 + y = 13, so y = 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 5cm and 12cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 5² + 12² = 25 + 144 = 169, so hypotenuse = 13cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "384"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 16 and 24 is 48.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 77, 10, 86, 51.",
+    "options": [
+      {
+        "id": "A",
+        "text": "61"
+      },
+      {
+        "id": "B",
+        "text": "51"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "224"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 224 ÷ 4 = 56.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 13cm and width 5cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "70"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 13 × 5 = 65cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 11 and x − y = 7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 9, y = 3"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 9"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 10, y = 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Adding both equations: 2x = 18, so x = 9. Substituting: 9 + y = 11, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 31, 43, 77, 87.",
+    "options": [
+      {
+        "id": "A",
+        "text": "64.5"
+      },
+      {
+        "id": "B",
+        "text": "54.5"
+      },
+      {
+        "id": "C",
+        "text": "59.5"
+      },
+      {
+        "id": "D",
+        "text": "238"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 238 ÷ 4 = 59.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 12cm and 16cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "28"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 12² + 16² = 144 + 256 = 400, so hypotenuse = 20cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 9 and x − y = 1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 5, y = 5"
+      },
+      {
+        "id": "B",
+        "text": "x = 4, y = 5"
+      },
+      {
+        "id": "C",
+        "text": "x = 6, y = 4"
+      },
+      {
+        "id": "D",
+        "text": "x = 5, y = 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Adding both equations: 2x = 10, so x = 5. Substituting: 5 + y = 9, so y = 4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 16 and 24 is 8.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 12 and 18.",
+    "options": [
+      {
+        "id": "A",
+        "text": "216"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "36"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The LCM of 12 and 18 is 36.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 6cm and width 3cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area of a rectangle = length × width = 6 × 3 = 18cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:25 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:5"
+      },
+      {
+        "id": "B",
+        "text": "3:6"
+      },
+      {
+        "id": "C",
+        "text": "15:25"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 15 and 25 is 5. Dividing both terms by 5: 15÷5 : 25÷5 = 3:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 6:8 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:4"
+      },
+      {
+        "id": "B",
+        "text": "3:5"
+      },
+      {
+        "id": "C",
+        "text": "4:4"
+      },
+      {
+        "id": "D",
+        "text": "6:8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 6 and 8 is 2. Dividing both terms by 2: 6÷2 : 8÷2 = 3:4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "If 2x + 4 = 22, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "11"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "2x = 22 − 4 = 18, so x = 18 ÷ 2 = 9.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦2,500 and wants to make a profit of 15%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3125"
+      },
+      {
+        "id": "B",
+        "text": "2875"
+      },
+      {
+        "id": "C",
+        "text": "3062.5"
+      },
+      {
+        "id": "D",
+        "text": "2687.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 15% of ₦2500 = ₦375. Selling price = ₦2500 + ₦375 = ₦2875.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "In a food chain, which organisms occupy the first trophic level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diffusion"
+      },
+      {
+        "id": "B",
+        "text": "The cell"
+      },
+      {
+        "id": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "D",
+        "text": "Producers (green plants)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Producers, typically green plants, are the first trophic level, converting sunlight into chemical energy.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ecology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which two features are characteristic of mammals?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mammary glands and hair/fur"
+      },
+      {
+        "id": "B",
+        "text": "Decomposers"
+      },
+      {
+        "id": "C",
+        "text": "On chromosomes"
+      },
+      {
+        "id": "D",
+        "text": "The cell"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mammals are characterized by having mammary glands (for producing milk) and hair or fur.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "classification"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the term for the movement of particles from a region of higher concentration to lower concentration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mitochondria"
+      },
+      {
+        "id": "B",
+        "text": "Four"
+      },
+      {
+        "id": "C",
+        "text": "About 9 months"
+      },
+      {
+        "id": "D",
+        "text": "Diffusion"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Diffusion is the net movement of particles from an area of higher concentration to an area of lower concentration.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-biology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which human body system is primarily responsible for gas exchange?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The respiratory system"
+      },
+      {
+        "id": "B",
+        "text": "On chromosomes"
+      },
+      {
+        "id": "C",
+        "text": "Insulin"
+      },
+      {
+        "id": "D",
+        "text": "Osmosis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The respiratory system, including the lungs, is responsible for exchanging oxygen and carbon dioxide with the environment.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the basic structural and functional unit of life?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diffusion"
+      },
+      {
+        "id": "B",
+        "text": "Mitosis"
+      },
+      {
+        "id": "C",
+        "text": "The cell"
+      },
+      {
+        "id": "D",
+        "text": "Vertebrates have a backbone; invertebrates do not"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The cell is the basic unit of structure and function in all living organisms.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-biology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What hormone regulates blood sugar (glucose) levels in the body?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Enzymes"
+      },
+      {
+        "id": "C",
+        "text": "Insulin"
+      },
+      {
+        "id": "D",
+        "text": "Chlorophyll"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Insulin, produced by the pancreas, helps regulate blood glucose levels.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "How many chambers does the human heart have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Osmosis"
+      },
+      {
+        "id": "C",
+        "text": "Xylem"
+      },
+      {
+        "id": "D",
+        "text": "Chloroplast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The human heart has four chambers: two atria and two ventricles.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-anatomy"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which plant tissue transports manufactured food (such as sucrose) around the plant?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ecology"
+      },
+      {
+        "id": "B",
+        "text": "Vertebrates have a backbone; invertebrates do not"
+      },
+      {
+        "id": "C",
+        "text": "Phloem"
+      },
+      {
+        "id": "D",
+        "text": "Carbon dioxide"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Phloem tissue transports the products of photosynthesis, such as sucrose, throughout the plant.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "plant-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which organ in the human body produces insulin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mitosis"
+      },
+      {
+        "id": "B",
+        "text": "Producers (green plants)"
+      },
+      {
+        "id": "C",
+        "text": "The pancreas"
+      },
+      {
+        "id": "D",
+        "text": "Ecology"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The pancreas produces insulin, which regulates blood glucose levels.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which organelle is known as the powerhouse of the cell?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carbon dioxide"
+      },
+      {
+        "id": "B",
+        "text": "About 9 months"
+      },
+      {
+        "id": "C",
+        "text": "White blood cells"
+      },
+      {
+        "id": "D",
+        "text": "Mitochondria"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Mitochondria produce ATP through cellular respiration, earning the nickname 'powerhouse of the cell'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-biology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What term describes an organism that cannot make its own food and depends on other organisms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heterotroph"
+      },
+      {
+        "id": "B",
+        "text": "Vertebrates have a backbone; invertebrates do not"
+      },
+      {
+        "id": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "D",
+        "text": "Oxygen"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A heterotroph obtains energy by consuming other organisms, unlike autotrophs which make their own food.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ecology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What type of cell division produces gametes with half the normal chromosome number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The respiratory system"
+      },
+      {
+        "id": "B",
+        "text": "Vitamin C"
+      },
+      {
+        "id": "C",
+        "text": "Meiosis"
+      },
+      {
+        "id": "D",
+        "text": "Decomposers"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Meiosis is a reduction division that produces gametes (sex cells) with half the chromosome number.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-division"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What term describes organisms that break down dead organic matter?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decomposers"
+      },
+      {
+        "id": "B",
+        "text": "Genotype"
+      },
+      {
+        "id": "C",
+        "text": "Autotroph"
+      },
+      {
+        "id": "D",
+        "text": "Carbon dioxide"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Decomposers, such as bacteria and fungi, break down dead organic matter, recycling nutrients.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ecology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What term describes the sequence showing the flow of energy from one organism to the next through feeding?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four"
+      },
+      {
+        "id": "B",
+        "text": "The respiratory system"
+      },
+      {
+        "id": "C",
+        "text": "A food chain"
+      },
+      {
+        "id": "D",
+        "text": "Chlorophyll"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A food chain shows the transfer of energy from one organism to another through a feeding sequence.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ecology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the term for an organism's genetic makeup?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xylem"
+      },
+      {
+        "id": "B",
+        "text": "Decomposers"
+      },
+      {
+        "id": "C",
+        "text": "Four"
+      },
+      {
+        "id": "D",
+        "text": "Genotype"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Genotype refers to the genetic makeup of an organism, as distinct from phenotype (observable characteristics).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "genetics"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the process by which a cell divides to form two genetically identical daughter cells?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chlorophyll"
+      },
+      {
+        "id": "B",
+        "text": "Mitosis"
+      },
+      {
+        "id": "C",
+        "text": "Oxygen"
+      },
+      {
+        "id": "D",
+        "text": "Mammary glands and hair/fur"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Mitosis is cell division producing two daughter cells identical to the parent cell.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-division"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Deficiency of which vitamin causes scurvy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin C"
+      },
+      {
+        "id": "B",
+        "text": "The pancreas"
+      },
+      {
+        "id": "C",
+        "text": "Enzymes"
+      },
+      {
+        "id": "D",
+        "text": "A food chain"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A deficiency of Vitamin C causes scurvy, characterized by bleeding gums and poor wound healing.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "nutrition"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Where are genes located within a cell?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cell"
+      },
+      {
+        "id": "B",
+        "text": "Carbon dioxide"
+      },
+      {
+        "id": "C",
+        "text": "On chromosomes"
+      },
+      {
+        "id": "D",
+        "text": "A food chain"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Genes are segments of DNA located on chromosomes within the nucleus.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "genetics"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which organelle is the site of photosynthesis in plant cells?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phloem"
+      },
+      {
+        "id": "B",
+        "text": "Ecology"
+      },
+      {
+        "id": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "D",
+        "text": "Red blood cells"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Chloroplasts contain chlorophyll and are where photosynthesis takes place.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-biology",
+      "photosynthesis"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which gas is required as a raw material for photosynthesis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autotroph"
+      },
+      {
+        "id": "B",
+        "text": "Carbon dioxide"
+      },
+      {
+        "id": "C",
+        "text": "Four"
+      },
+      {
+        "id": "D",
+        "text": "Deoxyribonucleic acid"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Plants absorb carbon dioxide from the air as a raw material for photosynthesis.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which plant tissue transports water and dissolved minerals from roots to leaves?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The pancreas"
+      },
+      {
+        "id": "B",
+        "text": "Autotroph"
+      },
+      {
+        "id": "C",
+        "text": "Xylem"
+      },
+      {
+        "id": "D",
+        "text": "Diffusion"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Xylem tissue transports water and minerals upward from the roots to the rest of the plant.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "plant-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the functional unit of the kidney called?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red blood cells"
+      },
+      {
+        "id": "B",
+        "text": "Vertebrates have a backbone; invertebrates do not"
+      },
+      {
+        "id": "C",
+        "text": "Osmosis"
+      },
+      {
+        "id": "D",
+        "text": "The nephron"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The nephron is the microscopic structural and functional unit of the kidney responsible for filtering blood.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-anatomy"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What distinguishes vertebrates from invertebrates?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vertebrates have a backbone; invertebrates do not"
+      },
+      {
+        "id": "B",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "C",
+        "text": "Enzymes"
+      },
+      {
+        "id": "D",
+        "text": "Genotype"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Vertebrates possess a vertebral column (backbone), while invertebrates lack one.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "classification"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the term for water loss through the leaves of a plant?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transpiration"
+      },
+      {
+        "id": "B",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "C",
+        "text": "Heterotroph"
+      },
+      {
+        "id": "D",
+        "text": "Diffusion"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Transpiration is the process by which water evaporates from plant leaves, mainly through stomata.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "plant-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which blood cells primarily help the body fight infection?",
+    "options": [
+      {
+        "id": "A",
+        "text": "White blood cells"
+      },
+      {
+        "id": "B",
+        "text": "On chromosomes"
+      },
+      {
+        "id": "C",
+        "text": "Meiosis"
+      },
+      {
+        "id": "D",
+        "text": "Xylem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "White blood cells are part of the immune system and help defend the body against infection.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What term describes biological catalysts that speed up reactions in living organisms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heterotroph"
+      },
+      {
+        "id": "B",
+        "text": "Vitamin C"
+      },
+      {
+        "id": "C",
+        "text": "Ecology"
+      },
+      {
+        "id": "D",
+        "text": "Enzymes"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Enzymes are proteins that act as biological catalysts, speeding up biochemical reactions.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "biochemistry"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What does DNA stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transpiration"
+      },
+      {
+        "id": "B",
+        "text": "The pancreas"
+      },
+      {
+        "id": "C",
+        "text": "Deoxyribonucleic acid"
+      },
+      {
+        "id": "D",
+        "text": "Vitamin C"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "DNA stands for Deoxyribonucleic Acid, the molecule carrying genetic information.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "genetics"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which gas is released as a by-product of photosynthesis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The respiratory system"
+      },
+      {
+        "id": "B",
+        "text": "Decomposers"
+      },
+      {
+        "id": "C",
+        "text": "Oxygen"
+      },
+      {
+        "id": "D",
+        "text": "The nephron"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Photosynthesis converts carbon dioxide and water into glucose and oxygen, releasing oxygen.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the term for the movement of water across a semi-permeable membrane from a region of higher water potential to lower water potential?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chlorophyll"
+      },
+      {
+        "id": "B",
+        "text": "Osmosis"
+      },
+      {
+        "id": "C",
+        "text": "Ecology"
+      },
+      {
+        "id": "D",
+        "text": "About 9 months"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Osmosis is the diffusion of water molecules across a semi-permeable membrane from high to low water potential.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "cell-biology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the study of interactions between organisms and their environment called?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ecology"
+      },
+      {
+        "id": "B",
+        "text": "The respiratory system"
+      },
+      {
+        "id": "C",
+        "text": "Diffusion"
+      },
+      {
+        "id": "D",
+        "text": "Decomposers"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Ecology is the branch of biology studying interactions between organisms and their environment.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ecology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What is the green pigment in plants that absorbs light for photosynthesis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mitosis"
+      },
+      {
+        "id": "B",
+        "text": "Transpiration"
+      },
+      {
+        "id": "C",
+        "text": "Xylem"
+      },
+      {
+        "id": "D",
+        "text": "Chlorophyll"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Chlorophyll is the green pigment in chloroplasts that absorbs light energy for photosynthesis.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Which blood cells are primarily responsible for transporting oxygen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xylem"
+      },
+      {
+        "id": "B",
+        "text": "Red blood cells"
+      },
+      {
+        "id": "C",
+        "text": "Osmosis"
+      },
+      {
+        "id": "D",
+        "text": "Insulin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Red blood cells contain haemoglobin, which binds and transports oxygen around the body.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Deficiency of which vitamin can cause rickets in children?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin D"
+      },
+      {
+        "id": "B",
+        "text": "About 9 months"
+      },
+      {
+        "id": "C",
+        "text": "Oxygen"
+      },
+      {
+        "id": "D",
+        "text": "Enzymes"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Vitamin D deficiency impairs calcium absorption and can cause rickets, a bone-softening disease in children.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "nutrition"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "What term describes an organism that makes its own food using light or chemical energy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "B",
+        "text": "Autotroph"
+      },
+      {
+        "id": "C",
+        "text": "Deoxyribonucleic acid"
+      },
+      {
+        "id": "D",
+        "text": "Meiosis"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "An autotroph, such as a green plant, produces its own food using light (photosynthesis) or chemical energy.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ecology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Biology",
+    "questionText": "Approximately how long is the human gestation period?",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 9 months"
+      },
+      {
+        "id": "B",
+        "text": "Meiosis"
+      },
+      {
+        "id": "C",
+        "text": "Oxygen"
+      },
+      {
+        "id": "D",
+        "text": "Osmosis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The average human gestation period is approximately 9 months (about 40 weeks).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-physiology"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "A solution with a pH less than 7 is described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acidic"
+      },
+      {
+        "id": "B",
+        "text": "They have a full outer electron shell"
+      },
+      {
+        "id": "C",
+        "text": "Fluorine"
+      },
+      {
+        "id": "D",
+        "text": "CO2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A pH value below 7 indicates an acidic solution.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "acids-and-bases"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the range of the pH scale?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral"
+      },
+      {
+        "id": "B",
+        "text": "An endothermic reaction"
+      },
+      {
+        "id": "C",
+        "text": "0 to 14"
+      },
+      {
+        "id": "D",
+        "text": "The number of protons in its nucleus"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The pH scale ranges from 0 (strongly acidic) to 14 (strongly alkaline), with 7 being neutral.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "acids-and-bases"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the common name for Group 0 (or Group 8) elements on the periodic table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CO2"
+      },
+      {
+        "id": "B",
+        "text": "An exothermic reaction"
+      },
+      {
+        "id": "C",
+        "text": "Ionic bond"
+      },
+      {
+        "id": "D",
+        "text": "Noble gases"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Group 0/8 elements, such as helium and neon, are known as the noble gases.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "periodic-table"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the chemical symbol for iron?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fe"
+      },
+      {
+        "id": "B",
+        "text": "CH4"
+      },
+      {
+        "id": "C",
+        "text": "Sodium hydroxide"
+      },
+      {
+        "id": "D",
+        "text": "Neutral"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The chemical symbol for iron is Fe, derived from its Latin name 'ferrum'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-symbols"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "Which element is generally considered the most electronegative?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ionic bond"
+      },
+      {
+        "id": "B",
+        "text": "Fluorine"
+      },
+      {
+        "id": "C",
+        "text": "An exothermic reaction"
+      },
+      {
+        "id": "D",
+        "text": "Sodium hydroxide"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Fluorine has the highest electronegativity of all elements on the periodic table.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "periodic-table"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is a catalyst?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "Oxygen and water"
+      },
+      {
+        "id": "C",
+        "text": "They have a full outer electron shell"
+      },
+      {
+        "id": "D",
+        "text": "A substance that speeds up a reaction without being consumed by it"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A catalyst increases the rate of a chemical reaction without itself being permanently changed or used up.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-reactions"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the chemical symbol for sodium?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CH4"
+      },
+      {
+        "id": "B",
+        "text": "Na"
+      },
+      {
+        "id": "C",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "id": "D",
+        "text": "CO2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The chemical symbol for sodium is Na, derived from its Latin name 'natrium'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-symbols"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What separation technique uses heating to vaporize a liquid and then condensing the vapour?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An exothermic reaction"
+      },
+      {
+        "id": "B",
+        "text": "Distillation"
+      },
+      {
+        "id": "C",
+        "text": "A substance that speeds up a reaction without being consumed by it"
+      },
+      {
+        "id": "D",
+        "text": "The number of protons in its nucleus"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Distillation separates a liquid from a mixture by heating it to vapour and condensing it back into a purified liquid.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "separation-techniques"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "A solution with a pH greater than 7 is described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distillation"
+      },
+      {
+        "id": "B",
+        "text": "Alkaline (basic)"
+      },
+      {
+        "id": "C",
+        "text": "H2O"
+      },
+      {
+        "id": "D",
+        "text": "An exothermic reaction"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A pH value above 7 indicates an alkaline (basic) solution.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "acids-and-bases"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What determines the atomic number of an element?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of protons in its nucleus"
+      },
+      {
+        "id": "B",
+        "text": "A substance that speeds up a reaction without being consumed by it"
+      },
+      {
+        "id": "C",
+        "text": "Fe"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The atomic number of an element equals the number of protons found in the nucleus of its atoms.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "atomic-structure"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What type of chemical bond involves the sharing of electrons between atoms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An endothermic reaction"
+      },
+      {
+        "id": "B",
+        "text": "Filtration"
+      },
+      {
+        "id": "C",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "D",
+        "text": "Covalent bond"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A covalent bond forms when two atoms share one or more pairs of electrons.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "bonding"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What are isotopes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of protons in its nucleus"
+      },
+      {
+        "id": "B",
+        "text": "Atoms of the same element with different numbers of neutrons"
+      },
+      {
+        "id": "C",
+        "text": "K"
+      },
+      {
+        "id": "D",
+        "text": "1"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Isotopes are atoms of the same element (same protons) that have different numbers of neutrons.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "atomic-structure"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What type of reaction absorbs heat from the surroundings?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Halogens"
+      },
+      {
+        "id": "B",
+        "text": "Covalent bond"
+      },
+      {
+        "id": "C",
+        "text": "0 to 14"
+      },
+      {
+        "id": "D",
+        "text": "An endothermic reaction"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "An endothermic reaction absorbs energy (heat) from its surroundings.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "thermochemistry"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the chemical formula of water?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fluorine"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "H2O"
+      },
+      {
+        "id": "D",
+        "text": "Distillation"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Water is composed of two hydrogen atoms bonded to one oxygen atom, giving the formula H2O.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-formulae"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the chemical symbol for potassium?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alkaline (basic)"
+      },
+      {
+        "id": "B",
+        "text": "0 to 14"
+      },
+      {
+        "id": "C",
+        "text": "K"
+      },
+      {
+        "id": "D",
+        "text": "Alkali metals"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The chemical symbol for potassium is K, derived from its Latin name 'kalium'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-symbols"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the valency of oxygen in most of its compounds?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of protons in its nucleus"
+      },
+      {
+        "id": "B",
+        "text": "They have a full outer electron shell"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "1"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Oxygen typically has a valency of 2, forming two bonds, as in H2O and CO2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "valency"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "How many valence electrons does a carbon atom have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of protons in its nucleus"
+      },
+      {
+        "id": "B",
+        "text": "0 to 14"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "Halogens"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Carbon has 4 valence electrons, making it tetravalent and able to form four covalent bonds.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "atomic-structure"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What type of reaction releases heat to the surroundings?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0 to 14"
+      },
+      {
+        "id": "B",
+        "text": "Distillation"
+      },
+      {
+        "id": "C",
+        "text": "An exothermic reaction"
+      },
+      {
+        "id": "D",
+        "text": "Neutral"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "An exothermic reaction releases energy (heat) to its surroundings.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "thermochemistry"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the common name for Group 1 elements on the periodic table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "K"
+      },
+      {
+        "id": "D",
+        "text": "Ionic bond"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Group 1 elements, such as sodium and potassium, are known as the alkali metals.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "periodic-table"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "Which of these is classified as a strong acid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "Neutral"
+      },
+      {
+        "id": "C",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "id": "D",
+        "text": "Ionic bond"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Hydrochloric acid fully ionizes in water, making it a strong acid.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "acids-and-bases"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the chemical formula of carbon dioxide?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "B",
+        "text": "CO2"
+      },
+      {
+        "id": "C",
+        "text": "Filtration"
+      },
+      {
+        "id": "D",
+        "text": "K"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Carbon dioxide consists of one carbon atom bonded to two oxygen atoms, giving the formula CO2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-formulae"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "Which of these is a strong alkali (base)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0 to 14"
+      },
+      {
+        "id": "B",
+        "text": "Na"
+      },
+      {
+        "id": "C",
+        "text": "Sodium hydroxide"
+      },
+      {
+        "id": "D",
+        "text": "CH4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Sodium hydroxide (NaOH) fully dissociates in water, making it a strong base.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "acids-and-bases"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the chemical formula of methane?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sodium hydroxide"
+      },
+      {
+        "id": "B",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "C",
+        "text": "CH4"
+      },
+      {
+        "id": "D",
+        "text": "H2O"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Methane consists of one carbon atom bonded to four hydrogen atoms, giving the formula CH4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-formulae"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What separation technique separates insoluble solids from a liquid using a porous barrier?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ionic bond"
+      },
+      {
+        "id": "B",
+        "text": "Alkaline (basic)"
+      },
+      {
+        "id": "C",
+        "text": "Filtration"
+      },
+      {
+        "id": "D",
+        "text": "H2O"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Filtration separates insoluble solid particles from a liquid by passing the mixture through a filter.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "separation-techniques"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What two substances are required, along with iron, for rusting to occur?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oxygen and water"
+      },
+      {
+        "id": "B",
+        "text": "They have a full outer electron shell"
+      },
+      {
+        "id": "C",
+        "text": "CH4"
+      },
+      {
+        "id": "D",
+        "text": "The number of protons in its nucleus"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rusting is an oxidation reaction that requires both oxygen and water (moisture) to occur.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "chemical-reactions"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "A solution with a pH of exactly 7 is described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "id": "B",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "C",
+        "text": "Fe"
+      },
+      {
+        "id": "D",
+        "text": "Neutral"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A pH of exactly 7 indicates a neutral solution, neither acidic nor alkaline.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "acids-and-bases"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What type of chemical bond involves the transfer of electrons from one atom to another?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CO2"
+      },
+      {
+        "id": "B",
+        "text": "Noble gases"
+      },
+      {
+        "id": "C",
+        "text": "Ionic bond"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "An ionic bond forms when electrons are transferred from one atom to another, creating oppositely charged ions that attract.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "bonding"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "Why are noble gases generally unreactive?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of protons in its nucleus"
+      },
+      {
+        "id": "B",
+        "text": "CO2"
+      },
+      {
+        "id": "C",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "D",
+        "text": "They have a full outer electron shell"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Noble gases have a complete outer electron shell, making them chemically stable and largely unreactive.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "periodic-table"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the valency of hydrogen in most of its compounds?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "C",
+        "text": "Noble gases"
+      },
+      {
+        "id": "D",
+        "text": "Fe"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Hydrogen typically has a valency of 1, forming a single bond, as in H2O and HCl.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "valency"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Chemistry",
+    "questionText": "What is the common name for Group 7 elements on the periodic table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Halogens"
+      },
+      {
+        "id": "B",
+        "text": "Alkali metals"
+      },
+      {
+        "id": "C",
+        "text": "Atoms of the same element with different numbers of neutrons"
+      },
+      {
+        "id": "D",
+        "text": "Covalent bond"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Group 7 elements, such as chlorine and fluorine, are known as the halogens.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "periodic-table"
+    ]
+  }
+]

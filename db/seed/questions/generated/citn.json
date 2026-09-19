@@ -1,0 +1,3209 @@
+[
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which Act governs Value Added Tax (VAT) in Nigeria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Companies Income Tax Act (CITA)"
+      },
+      {
+        "id": "B",
+        "text": "The Value Added Tax Act"
+      },
+      {
+        "id": "C",
+        "text": "A tax levied on goods or services, which can be shifted to another party, such as VAT"
+      },
+      {
+        "id": "D",
+        "text": "A reduction in the amount of tax payable, often through allowances or deductions"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "VAT in Nigeria is governed by the Value Added Tax Act.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is pioneer status, as a Nigerian tax incentive?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax holiday granted to qualifying companies for a specified period"
+      },
+      {
+        "id": "B",
+        "text": "The Federal Inland Revenue Service (FIRS)"
+      },
+      {
+        "id": "C",
+        "text": "Income or persons specifically excluded from tax liability by law"
+      },
+      {
+        "id": "D",
+        "text": "Tax arising from temporary differences between accounting and tax treatment of items"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pioneer status grants qualifying companies a tax holiday (exemption from Companies Income Tax) for a specified period.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-incentives"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which body typically administers Personal Income Tax for individuals resident in a Nigerian state?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "B",
+        "text": "It ensures companies with little or no taxable profit still pay some tax"
+      },
+      {
+        "id": "C",
+        "text": "A Tax Identification Number (TIN)"
+      },
+      {
+        "id": "D",
+        "text": "A reduction in the amount of tax payable, often through allowances or deductions"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Personal Income Tax for individuals is generally administered by the State Internal Revenue Service of their state of residence.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is presumptive tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An examination of a taxpayer's records to verify the accuracy of tax returns"
+      },
+      {
+        "id": "B",
+        "text": "The Joint Tax Board (JTB)"
+      },
+      {
+        "id": "C",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "D",
+        "text": "A simplified method of estimating tax liability, often used for small businesses"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Presumptive tax uses simplified methods (rather than detailed accounts) to estimate the tax liability of certain taxpayers, often small businesses.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is input VAT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A progressive tax system"
+      },
+      {
+        "id": "B",
+        "text": "The Personal Income Tax Act (PITA)"
+      },
+      {
+        "id": "C",
+        "text": "A tax holiday granted to qualifying companies for a specified period"
+      },
+      {
+        "id": "D",
+        "text": "VAT paid by a business on its purchases"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Input VAT refers to the VAT a business pays when purchasing goods or services for its operations.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is customs duty?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax system that applies the same rate to all taxpayers regardless of income level"
+      },
+      {
+        "id": "B",
+        "text": "A tax levied on goods imported into a country"
+      },
+      {
+        "id": "C",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "D",
+        "text": "A tax on goods produced domestically, such as certain manufactured goods"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Customs duty is a tax imposed on goods brought into a country from abroad.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "customs-duty"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "How does a VAT-registered business typically determine the VAT it remits to the tax authority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax system that applies the same rate to all taxpayers regardless of income level"
+      },
+      {
+        "id": "B",
+        "text": "Tertiary Education Tax"
+      },
+      {
+        "id": "C",
+        "text": "By offsetting input VAT against output VAT"
+      },
+      {
+        "id": "D",
+        "text": "An advance payment of tax deducted at source, creditable against final tax liability"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A VAT-registered business generally remits the difference between output VAT collected and input VAT paid.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is excise duty?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Who ultimately bears the economic burden of the tax"
+      },
+      {
+        "id": "B",
+        "text": "A tax calculated as a percentage of the value of a transaction or property"
+      },
+      {
+        "id": "C",
+        "text": "A tax on goods produced domestically, such as certain manufactured goods"
+      },
+      {
+        "id": "D",
+        "text": "The State Internal Revenue Service (SIRS)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Excise duty is a tax levied on goods manufactured or produced within a country.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "excise-duty"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is a flat tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Petroleum Profits Tax"
+      },
+      {
+        "id": "B",
+        "text": "A tax system that applies the same rate to all taxpayers regardless of income level"
+      },
+      {
+        "id": "C",
+        "text": "Tax deductions granted for wear and tear on qualifying capital assets"
+      },
+      {
+        "id": "D",
+        "text": "The Companies Income Tax Act (CITA)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A flat tax charges a single, uniform rate to all taxpayers irrespective of their income level.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What relief is granted to individual taxpayers under Nigeria's personal income tax system to reduce taxable income?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The consolidated relief allowance"
+      },
+      {
+        "id": "B",
+        "text": "A tax holiday granted to qualifying companies for a specified period"
+      },
+      {
+        "id": "C",
+        "text": "The Joint Tax Board (JTB)"
+      },
+      {
+        "id": "D",
+        "text": "When the same income is taxed in two different jurisdictions"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The consolidated relief allowance is a statutory relief granted to individual taxpayers under Nigeria's Personal Income Tax Act.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "personal-income-tax"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is an indirect tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax levied on goods or services, which can be shifted to another party, such as VAT"
+      },
+      {
+        "id": "B",
+        "text": "A tax levied directly on income or wealth, such as personal income tax"
+      },
+      {
+        "id": "C",
+        "text": "Using legitimate means to legally minimize tax liability"
+      },
+      {
+        "id": "D",
+        "text": "The Personal Income Tax Act (PITA)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "An indirect tax is levied on goods or services and can be passed on from the seller to the buyer, such as VAT.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which body coordinates tax administration between federal and state tax authorities in Nigeria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Joint Tax Board (JTB)"
+      },
+      {
+        "id": "B",
+        "text": "A tax system that applies the same rate to all taxpayers regardless of income level"
+      },
+      {
+        "id": "C",
+        "text": "The portion of income subject to tax after allowable deductions and reliefs"
+      },
+      {
+        "id": "D",
+        "text": "Vatable goods and services"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Joint Tax Board coordinates and resolves disputes in tax administration between federal and state authorities.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which Act primarily governs Personal Income Tax in Nigeria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Legally arranging one's financial affairs to minimize tax liability"
+      },
+      {
+        "id": "B",
+        "text": "The Personal Income Tax Act (PITA)"
+      },
+      {
+        "id": "C",
+        "text": "When the same income is taxed in two different jurisdictions"
+      },
+      {
+        "id": "D",
+        "text": "The Value Added Tax Act"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Personal Income Tax in Nigeria is primarily governed by the Personal Income Tax Act (PITA).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is a tax audit?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The year in which tax is assessed and collected on the income of the preceding year"
+      },
+      {
+        "id": "B",
+        "text": "A jurisdiction offering very low or no taxes, often used for tax planning"
+      },
+      {
+        "id": "C",
+        "text": "An examination of a taxpayer's records to verify the accuracy of tax returns"
+      },
+      {
+        "id": "D",
+        "text": "Who ultimately bears the economic burden of the tax"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A tax audit is a review carried out by tax authorities to verify that a taxpayer's declared tax liability is accurate.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is deferred tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "B",
+        "text": "The Federal Inland Revenue Service (FIRS)"
+      },
+      {
+        "id": "C",
+        "text": "Tax arising from temporary differences between accounting and tax treatment of items"
+      },
+      {
+        "id": "D",
+        "text": "A tax levied directly on income or wealth, such as personal income tax"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Deferred tax reflects timing differences between how items are treated for accounting purposes versus tax purposes.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "deferred-tax"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What are tax incentives?",
+    "options": [
+      {
+        "id": "A",
+        "text": "When the same income is taxed in two different jurisdictions"
+      },
+      {
+        "id": "B",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "C",
+        "text": "The Joint Tax Board (JTB)"
+      },
+      {
+        "id": "D",
+        "text": "Government measures that reduce tax burden to encourage certain economic activities"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Tax incentives are deliberate measures, such as exemptions or reduced rates, used by government to encourage specific investments or activities.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-incentives"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What term describes a tax system that charges higher rates on higher income brackets?",
+    "options": [
+      {
+        "id": "A",
+        "text": "By offsetting input VAT against output VAT"
+      },
+      {
+        "id": "B",
+        "text": "To relieve or eliminate double taxation of the same income"
+      },
+      {
+        "id": "C",
+        "text": "A progressive tax system"
+      },
+      {
+        "id": "D",
+        "text": "The year in which tax is assessed and collected on the income of the preceding year"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A progressive tax system applies increasing tax rates as a taxpayer's income rises.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What are capital allowances?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax charged on certain legal documents or instruments"
+      },
+      {
+        "id": "B",
+        "text": "Tax deductions granted for wear and tear on qualifying capital assets"
+      },
+      {
+        "id": "C",
+        "text": "The Federal Inland Revenue Service (FIRS)"
+      },
+      {
+        "id": "D",
+        "text": "A Tax Identification Number (TIN)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Capital allowances are deductions allowed against taxable profit to account for the depreciation of qualifying capital assets.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "capital-allowances"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is Capital Gains Tax charged on?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A jurisdiction offering very low or no taxes, often used for tax planning"
+      },
+      {
+        "id": "B",
+        "text": "Gains arising from the disposal of chargeable assets"
+      },
+      {
+        "id": "C",
+        "text": "A progressive tax system"
+      },
+      {
+        "id": "D",
+        "text": "Petroleum Profits Tax"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Capital Gains Tax is levied on the profit or gain realized from the disposal of a chargeable asset.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "capital-gains-tax"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is stamp duty?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A jurisdiction offering very low or no taxes, often used for tax planning"
+      },
+      {
+        "id": "B",
+        "text": "The final consumer"
+      },
+      {
+        "id": "C",
+        "text": "A tax charged on certain legal documents or instruments"
+      },
+      {
+        "id": "D",
+        "text": "Tax arising from temporary differences between accounting and tax treatment of items"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Stamp duty is a tax levied on specific legal documents and instruments, such as agreements and share transfers.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "stamp-duty"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is tax avoidance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using legitimate means to legally minimize tax liability"
+      },
+      {
+        "id": "B",
+        "text": "A fixed amount of tax charged per unit of a good, regardless of its price"
+      },
+      {
+        "id": "C",
+        "text": "Tax deductions granted for wear and tear on qualifying capital assets"
+      },
+      {
+        "id": "D",
+        "text": "Petroleum Profits Tax"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Tax avoidance involves legally arranging one's affairs to minimize tax liability, unlike the illegal act of tax evasion.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which tax applies specifically to companies engaged in petroleum operations in Nigeria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Petroleum Profits Tax"
+      },
+      {
+        "id": "B",
+        "text": "A tax charged on certain legal documents or instruments"
+      },
+      {
+        "id": "C",
+        "text": "The illegal act of deliberately not paying tax that is owed"
+      },
+      {
+        "id": "D",
+        "text": "The Federal Inland Revenue Service (FIRS)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Petroleum Profits Tax is a tax specifically applicable to companies engaged in petroleum exploration and production in Nigeria.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "petroleum-tax"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is withholding tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They must file annual tax returns with the relevant tax authority"
+      },
+      {
+        "id": "B",
+        "text": "Profit shifting through mispriced transactions between related parties"
+      },
+      {
+        "id": "C",
+        "text": "An advance payment of tax deducted at source, creditable against final tax liability"
+      },
+      {
+        "id": "D",
+        "text": "It is charged as a percentage added to the price of most goods and services"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Withholding tax is deducted at source as an advance payment of tax, later credited against the taxpayer's final liability.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "withholding-tax"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What does self-assessment require of a taxpayer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Value Added Tax Act"
+      },
+      {
+        "id": "B",
+        "text": "By offsetting input VAT against output VAT"
+      },
+      {
+        "id": "C",
+        "text": "To calculate and report their own tax liability"
+      },
+      {
+        "id": "D",
+        "text": "An examination of a taxpayer's records to verify the accuracy of tax returns"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Under self-assessment, taxpayers are required to compute and declare their own tax liability to the tax authority.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is a direct tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Joint Tax Board (JTB)"
+      },
+      {
+        "id": "B",
+        "text": "A tax levied directly on income or wealth, such as personal income tax"
+      },
+      {
+        "id": "C",
+        "text": "An advance payment of tax deducted at source, creditable against final tax liability"
+      },
+      {
+        "id": "D",
+        "text": "Petroleum Profits Tax"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A direct tax is imposed directly on the income or wealth of the taxpayer, such as personal income tax.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is a tax exemption?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Income or persons specifically excluded from tax liability by law"
+      },
+      {
+        "id": "B",
+        "text": "To relieve or eliminate double taxation of the same income"
+      },
+      {
+        "id": "C",
+        "text": "A tax system that applies the same rate to all taxpayers regardless of income level"
+      },
+      {
+        "id": "D",
+        "text": "The Joint Tax Board (JTB)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A tax exemption refers to income, transactions, or persons that the law specifically excludes from taxation.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is tax relief?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using legitimate means to legally minimize tax liability"
+      },
+      {
+        "id": "B",
+        "text": "Legally arranging one's financial affairs to minimize tax liability"
+      },
+      {
+        "id": "C",
+        "text": "A reduction in the amount of tax payable, often through allowances or deductions"
+      },
+      {
+        "id": "D",
+        "text": "1 January to 31 December"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tax relief reduces a taxpayer's tax liability, typically through allowances, deductions, or credits provided by law.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is double taxation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax on goods produced domestically, such as certain manufactured goods"
+      },
+      {
+        "id": "B",
+        "text": "When the same income is taxed in two different jurisdictions"
+      },
+      {
+        "id": "C",
+        "text": "They must file annual tax returns with the relevant tax authority"
+      },
+      {
+        "id": "D",
+        "text": "A tax levied on goods imported into a country"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Double taxation occurs when the same income of a taxpayer is subject to tax in more than one jurisdiction.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "double-taxation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What condition must generally be satisfied for related-party transactions to be acceptable for tax purposes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Federal Inland Revenue Service (FIRS)"
+      },
+      {
+        "id": "B",
+        "text": "They must generally be conducted at arm's length"
+      },
+      {
+        "id": "C",
+        "text": "A tax calculated as a percentage of the value of a transaction or property"
+      },
+      {
+        "id": "D",
+        "text": "The Companies Income Tax Act (CITA)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Related-party transactions are generally required to be priced as if between unrelated/independent parties (at arm's length) for tax purposes.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "transfer-pricing"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is chargeable income?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They must generally be conducted at arm's length"
+      },
+      {
+        "id": "B",
+        "text": "The portion of income subject to tax after allowable deductions and reliefs"
+      },
+      {
+        "id": "C",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "D",
+        "text": "Profit shifting through mispriced transactions between related parties"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Chargeable income is the amount of income remaining, and subject to tax, after allowable deductions and reliefs are applied.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is tax planning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using legitimate means to legally minimize tax liability"
+      },
+      {
+        "id": "B",
+        "text": "A tax on goods produced domestically, such as certain manufactured goods"
+      },
+      {
+        "id": "C",
+        "text": "Legally arranging one's financial affairs to minimize tax liability"
+      },
+      {
+        "id": "D",
+        "text": "Tax deductions granted for wear and tear on qualifying capital assets"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tax planning involves the legal structuring of one's finances and transactions to minimize tax liability within the law.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What term describes goods and services on which VAT is charged in Nigeria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax levied on goods imported into a country"
+      },
+      {
+        "id": "B",
+        "text": "A tax charged on certain legal documents or instruments"
+      },
+      {
+        "id": "C",
+        "text": "A tax calculated as a percentage of the value of a transaction or property"
+      },
+      {
+        "id": "D",
+        "text": "Vatable goods and services"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Vatable goods and services are those on which Value Added Tax is chargeable under the VAT Act, as opposed to exempt items.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is output VAT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax calculated as a percentage of the value of a transaction or property"
+      },
+      {
+        "id": "B",
+        "text": "VAT charged by a business on its sales"
+      },
+      {
+        "id": "C",
+        "text": "Tax deductions granted for wear and tear on qualifying capital assets"
+      },
+      {
+        "id": "D",
+        "text": "The consolidated relief allowance"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Output VAT refers to the VAT a business charges its customers on the goods or services it sells.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What does the incidence of a tax refer to?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The final consumer"
+      },
+      {
+        "id": "B",
+        "text": "Who ultimately bears the economic burden of the tax"
+      },
+      {
+        "id": "C",
+        "text": "A tax levied directly on income or wealth, such as personal income tax"
+      },
+      {
+        "id": "D",
+        "text": "A tax levied on goods imported into a country"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tax incidence refers to the analysis of which party (buyer, seller, or another) ultimately bears the economic cost of a tax.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What is a trial balance primarily used to check?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "B",
+        "text": "A bank reconciliation statement"
+      },
+      {
+        "id": "C",
+        "text": "A control account"
+      },
+      {
+        "id": "D",
+        "text": "The statement of profit or loss (income statement)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A trial balance checks that total debits equal total credits, confirming the arithmetical accuracy of the ledger.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "trial-balance"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What financial statement shows the movement of cash into and out of a business over a period?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The statement of financial position (balance sheet)"
+      },
+      {
+        "id": "B",
+        "text": "Assets = Liabilities + Capital"
+      },
+      {
+        "id": "C",
+        "text": "A bank reconciliation statement"
+      },
+      {
+        "id": "D",
+        "text": "The statement of cash flows"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The statement of cash flows shows cash inflows and outflows from operating, investing, and financing activities over a period.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "financial-statements"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What accounting concept requires expenses to be recorded in the same period as the revenue they help generate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "First-In-First-Out (FIFO)"
+      },
+      {
+        "id": "B",
+        "text": "A control account"
+      },
+      {
+        "id": "C",
+        "text": "The statement of cash flows"
+      },
+      {
+        "id": "D",
+        "text": "The matching concept"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The matching concept requires expenses to be matched against the revenue they helped generate, in the same accounting period.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What term describes the process of recording daily transactions in a book of original entry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Last-In-First-Out (LIFO)"
+      },
+      {
+        "id": "B",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "C",
+        "text": "A control account"
+      },
+      {
+        "id": "D",
+        "text": "Journalizing"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Journalizing is the process of initially recording transactions in a journal (book of original entry) before posting to ledger accounts.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "bookkeeping"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Under the double-entry system, an increase in an asset account is recorded as a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debit"
+      },
+      {
+        "id": "B",
+        "text": "The matching concept"
+      },
+      {
+        "id": "C",
+        "text": "Journalizing"
+      },
+      {
+        "id": "D",
+        "text": "The materiality concept"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Asset accounts increase with debit entries and decrease with credit entries under the double-entry system.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "double-entry"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What financial statement shows a business's assets, liabilities, and capital at a specific point in time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The statement of financial position (balance sheet)"
+      },
+      {
+        "id": "B",
+        "text": "The matching concept"
+      },
+      {
+        "id": "C",
+        "text": "The accrual basis"
+      },
+      {
+        "id": "D",
+        "text": "The reducing balance method"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The statement of financial position (balance sheet) shows a business's assets, liabilities, and capital at a specific date.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "financial-statements"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What accounting concept requires anticipating losses but not anticipating unrealized gains?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The prudence concept"
+      },
+      {
+        "id": "B",
+        "text": "The matching concept"
+      },
+      {
+        "id": "C",
+        "text": "Credit"
+      },
+      {
+        "id": "D",
+        "text": "Debit"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The prudence concept requires accountants to exercise caution, recognizing losses as soon as anticipated but gains only when realized.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What accounting concept holds that only information significant enough to influence decisions needs to be disclosed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "B",
+        "text": "Assets = Liabilities + Capital"
+      },
+      {
+        "id": "C",
+        "text": "The materiality concept"
+      },
+      {
+        "id": "D",
+        "text": "Journalizing"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The materiality concept means only information significant enough to affect users' decisions needs to be separately disclosed.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What financial statement shows a business's revenue and expenses over a period, resulting in profit or loss?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "B",
+        "text": "A control account"
+      },
+      {
+        "id": "C",
+        "text": "The statement of profit or loss (income statement)"
+      },
+      {
+        "id": "D",
+        "text": "The statement of financial position (balance sheet)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The statement of profit or loss shows revenue and expenses over a period, arriving at a net profit or loss.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "financial-statements"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What accounting concept records assets at their original purchase cost rather than current market value?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debit"
+      },
+      {
+        "id": "B",
+        "text": "The straight-line method"
+      },
+      {
+        "id": "C",
+        "text": "The historical cost concept"
+      },
+      {
+        "id": "D",
+        "text": "Credit"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The historical cost concept records assets and transactions at their original acquisition cost.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What accounting concept assumes a business will continue operating for the foreseeable future?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The prudence concept"
+      },
+      {
+        "id": "B",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "C",
+        "text": "The statement of cash flows"
+      },
+      {
+        "id": "D",
+        "text": "The going concern concept"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The going concern concept assumes a business will continue its operations for the foreseeable future, unless there is evidence otherwise.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Which depreciation method charges an equal amount of expense each year over an asset's useful life?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assets = Liabilities + Capital"
+      },
+      {
+        "id": "B",
+        "text": "The straight-line method"
+      },
+      {
+        "id": "C",
+        "text": "The going concern concept"
+      },
+      {
+        "id": "D",
+        "text": "The accrual basis"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The straight-line method spreads an asset's depreciable cost evenly over its useful life.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What is the correct form of the accounting equation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Journalizing"
+      },
+      {
+        "id": "B",
+        "text": "A bank reconciliation statement"
+      },
+      {
+        "id": "C",
+        "text": "Assets = Liabilities + Capital"
+      },
+      {
+        "id": "D",
+        "text": "Debit"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The fundamental accounting equation states that Assets = Liabilities + Capital (Owner's Equity).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-equation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What basis of accounting records transactions when they occur, rather than when cash changes hands?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The going concern concept"
+      },
+      {
+        "id": "B",
+        "text": "Journalizing"
+      },
+      {
+        "id": "C",
+        "text": "The reducing balance method"
+      },
+      {
+        "id": "D",
+        "text": "The accrual basis"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The accrual basis records revenue and expenses when they are earned or incurred, regardless of when cash is received or paid.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Which inventory valuation method assumes the earliest goods purchased are the first ones sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The going concern concept"
+      },
+      {
+        "id": "B",
+        "text": "The statement of profit or loss (income statement)"
+      },
+      {
+        "id": "C",
+        "text": "The materiality concept"
+      },
+      {
+        "id": "D",
+        "text": "First-In-First-Out (FIFO)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "FIFO (First-In-First-Out) assumes the oldest inventory items are sold first, leaving newer costs in ending inventory.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "inventory-valuation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Which inventory valuation method assumes the most recently purchased goods are sold first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Last-In-First-Out (LIFO)"
+      },
+      {
+        "id": "B",
+        "text": "The prudence concept"
+      },
+      {
+        "id": "C",
+        "text": "The reducing balance method"
+      },
+      {
+        "id": "D",
+        "text": "The statement of cash flows"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LIFO (Last-In-First-Out) assumes the most recently acquired inventory items are sold first.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "inventory-valuation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "What type of account is used to record total amounts of a group of individual accounts, such as trade receivables?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The prudence concept"
+      },
+      {
+        "id": "B",
+        "text": "The reducing balance method"
+      },
+      {
+        "id": "C",
+        "text": "A control account"
+      },
+      {
+        "id": "D",
+        "text": "The statement of cash flows"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A control account (e.g. sales ledger control account) summarizes the total balance of a group of related individual accounts.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "control-accounts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Which depreciation method charges a higher depreciation expense in the earlier years of an asset's life?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "B",
+        "text": "Journalizing"
+      },
+      {
+        "id": "C",
+        "text": "The reducing balance method"
+      },
+      {
+        "id": "D",
+        "text": "Last-In-First-Out (LIFO)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The reducing balance method applies a fixed percentage to the asset's remaining (net book) value each year, charging more depreciation earlier.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Goods are sold for ₦20,000 before VAT. If VAT is charged at 7.5%, calculate the VAT amount.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,000"
+      },
+      {
+        "id": "B",
+        "text": "1,500"
+      },
+      {
+        "id": "C",
+        "text": "2,000"
+      },
+      {
+        "id": "D",
+        "text": "23,000"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "VAT = 7.5% × ₦20,000 = ₦1,500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat",
+      "computation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "An asset costing ₦500,000 with an estimated salvage value of ₦0 has a useful life of 8 years. Using the straight-line method, calculate the annual depreciation charge.",
+    "options": [
+      {
+        "id": "A",
+        "text": "62,500"
+      },
+      {
+        "id": "B",
+        "text": "125,000"
+      },
+      {
+        "id": "C",
+        "text": "62,500"
+      },
+      {
+        "id": "D",
+        "text": "62,500"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Annual depreciation = (Cost − Salvage value) ÷ Useful life = (₦500,000 − ₦0) ÷ 8 = ₦62,500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation",
+      "straight-line"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "An asset costing ₦100,000 with an estimated salvage value of ₦50,000 has a useful life of 10 years. Using the straight-line method, calculate the annual depreciation charge.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10,000"
+      },
+      {
+        "id": "B",
+        "text": "55,000"
+      },
+      {
+        "id": "C",
+        "text": "10,000"
+      },
+      {
+        "id": "D",
+        "text": "5,000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Annual depreciation = (Cost − Salvage value) ÷ Useful life = (₦100,000 − ₦50,000) ÷ 10 = ₦5,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation",
+      "straight-line"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has gross profit of ₦500,000 and total operating expenses of ₦50,000. Calculate the net profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "550,000"
+      },
+      {
+        "id": "B",
+        "text": "50,000"
+      },
+      {
+        "id": "C",
+        "text": "475,000"
+      },
+      {
+        "id": "D",
+        "text": "450,000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Net profit = Gross profit − Operating expenses = ₦500,000 − ₦50,000 = ₦450,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "net-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has gross profit of ₦600,000 and total operating expenses of ₦120,000. Calculate the net profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "720,000"
+      },
+      {
+        "id": "B",
+        "text": "120,000"
+      },
+      {
+        "id": "C",
+        "text": "540,000"
+      },
+      {
+        "id": "D",
+        "text": "480,000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Net profit = Gross profit − Operating expenses = ₦600,000 − ₦120,000 = ₦480,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "net-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has gross profit of ₦300,000 and total operating expenses of ₦100,000. Calculate the net profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "400,000"
+      },
+      {
+        "id": "B",
+        "text": "100,000"
+      },
+      {
+        "id": "C",
+        "text": "200,000"
+      },
+      {
+        "id": "D",
+        "text": "250,000"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Net profit = Gross profit − Operating expenses = ₦300,000 − ₦100,000 = ₦200,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "net-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has gross profit of ₦400,000 and total operating expenses of ₦150,000. Calculate the net profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "325,000"
+      },
+      {
+        "id": "B",
+        "text": "150,000"
+      },
+      {
+        "id": "C",
+        "text": "250,000"
+      },
+      {
+        "id": "D",
+        "text": "550,000"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Net profit = Gross profit − Operating expenses = ₦400,000 − ₦150,000 = ₦250,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "net-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Goods are sold for ₦10,000 before VAT. If VAT is charged at 7.5%, calculate the VAT amount.",
+    "options": [
+      {
+        "id": "A",
+        "text": "500"
+      },
+      {
+        "id": "B",
+        "text": "11,500"
+      },
+      {
+        "id": "C",
+        "text": "1,000"
+      },
+      {
+        "id": "D",
+        "text": "750"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "VAT = 7.5% × ₦10,000 = ₦750.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat",
+      "computation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has gross profit of ₦300,000 and total operating expenses of ₦120,000. Calculate the net profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "180,000"
+      },
+      {
+        "id": "B",
+        "text": "120,000"
+      },
+      {
+        "id": "C",
+        "text": "420,000"
+      },
+      {
+        "id": "D",
+        "text": "240,000"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Net profit = Gross profit − Operating expenses = ₦300,000 − ₦120,000 = ₦180,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "net-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has gross profit of ₦500,000 and total operating expenses of ₦100,000. Calculate the net profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "600,000"
+      },
+      {
+        "id": "B",
+        "text": "450,000"
+      },
+      {
+        "id": "C",
+        "text": "400,000"
+      },
+      {
+        "id": "D",
+        "text": "100,000"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Net profit = Gross profit − Operating expenses = ₦500,000 − ₦100,000 = ₦400,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "net-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business has total assets of ₦500,000 and total liabilities of ₦400,000. Calculate the owner's capital.",
+    "options": [
+      {
+        "id": "A",
+        "text": "100,000"
+      },
+      {
+        "id": "B",
+        "text": "900,000"
+      },
+      {
+        "id": "C",
+        "text": "500,000"
+      },
+      {
+        "id": "D",
+        "text": "600,000"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Capital = Assets − Liabilities = ₦500,000 − ₦400,000 = ₦100,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-equation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "Goods are sold for ₦150,000 before VAT. If VAT is charged at 7.5%, calculate the VAT amount.",
+    "options": [
+      {
+        "id": "A",
+        "text": "15,000"
+      },
+      {
+        "id": "B",
+        "text": "11,250"
+      },
+      {
+        "id": "C",
+        "text": "7,500"
+      },
+      {
+        "id": "D",
+        "text": "172,500"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "VAT = 7.5% × ₦150,000 = ₦11,250.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat",
+      "computation"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "An asset costing ₦300,000 with an estimated salvage value of ₦50,000 has a useful life of 5 years. Using the straight-line method, calculate the annual depreciation charge.",
+    "options": [
+      {
+        "id": "A",
+        "text": "100,000"
+      },
+      {
+        "id": "B",
+        "text": "60,000"
+      },
+      {
+        "id": "C",
+        "text": "50,000"
+      },
+      {
+        "id": "D",
+        "text": "100,000"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Annual depreciation = (Cost − Salvage value) ÷ Useful life = (₦300,000 − ₦50,000) ÷ 5 = ₦50,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation",
+      "straight-line"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "A business had sales of ₦500,000 and cost of goods sold of ₦400,000. Calculate the gross profit.",
+    "options": [
+      {
+        "id": "A",
+        "text": "140,000"
+      },
+      {
+        "id": "B",
+        "text": "900,000"
+      },
+      {
+        "id": "C",
+        "text": "400,000"
+      },
+      {
+        "id": "D",
+        "text": "100,000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Gross profit = Sales − Cost of goods sold = ₦500,000 − ₦400,000 = ₦100,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "gross-profit"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Financial Accounting",
+    "questionText": "An asset costing ₦100,000 with an estimated salvage value of ₦20,000 has a useful life of 10 years. Using the straight-line method, calculate the annual depreciation charge.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8,000"
+      },
+      {
+        "id": "B",
+        "text": "10,000"
+      },
+      {
+        "id": "C",
+        "text": "16,000"
+      },
+      {
+        "id": "D",
+        "text": "28,000"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Annual depreciation = (Cost − Salvage value) ÷ Useful life = (₦100,000 − ₦20,000) ÷ 10 = ₦8,000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation",
+      "straight-line"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "Which landmark case established the doctrine of separate legal personality for companies?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only parties to a contract can sue or be sued upon it"
+      },
+      {
+        "id": "B",
+        "text": "A contract that remains valid until one party elects to avoid it"
+      },
+      {
+        "id": "C",
+        "text": "Salomon v Salomon & Co"
+      },
+      {
+        "id": "D",
+        "text": "Often a non-binding statement of intent between parties"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Salomon v Salomon & Co (1897) established that a properly incorporated company is a distinct legal entity from its owners.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "company-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a guarantee, in the context of contract law?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A promise to answer for the debt or default of another person"
+      },
+      {
+        "id": "B",
+        "text": "A contract that has no legal effect from the outset"
+      },
+      {
+        "id": "C",
+        "text": "Winding up (liquidation)"
+      },
+      {
+        "id": "D",
+        "text": "A breach of contract"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A guarantee is a contractual promise by one party (the guarantor) to be responsible for another's debt or obligation if they default.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "security-interests"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What occurs when an employee is dismissed in a way that breaches their employment contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Employment law"
+      },
+      {
+        "id": "B",
+        "text": "Wrongful dismissal"
+      },
+      {
+        "id": "C",
+        "text": "Vicarious liability"
+      },
+      {
+        "id": "D",
+        "text": "New inventions, protected for a limited period"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Wrongful dismissal occurs when an employer terminates an employee's contract in breach of its terms.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "employment-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "Name the three main types of authority an agent may have.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A fundamental term of a contract, whose breach allows the injured party to terminate"
+      },
+      {
+        "id": "B",
+        "text": "Fiduciary duties"
+      },
+      {
+        "id": "C",
+        "text": "A process where a neutral third party helps disputing parties reach a voluntary settlement"
+      },
+      {
+        "id": "D",
+        "text": "Actual authority, apparent authority, and ratified authority"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "An agent's authority may be actual (expressly or impliedly given), apparent (as it appears to third parties), or later ratified by the principal.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "agency-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is the general test used by courts to determine whether a duty of care exists in negligence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It can be transferred from one person to another, carrying rights to payment"
+      },
+      {
+        "id": "B",
+        "text": "Whether harm to the claimant was a reasonably foreseeable consequence of the defendant's conduct"
+      },
+      {
+        "id": "C",
+        "text": "Damages"
+      },
+      {
+        "id": "D",
+        "text": "An association of two or more persons carrying on business together with a view to profit"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Courts generally ask whether it was reasonably foreseeable that the defendant's conduct could cause harm to the claimant.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tort-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What does a trademark protect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An unconditional order in writing to pay a specified sum of money"
+      },
+      {
+        "id": "B",
+        "text": "Limited to the amount unpaid on their shares"
+      },
+      {
+        "id": "C",
+        "text": "A method of resolving disputes outside the courts, using a neutral arbitrator"
+      },
+      {
+        "id": "D",
+        "text": "Brand names, logos, and symbols used to distinguish goods or services"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A trademark protects distinctive brand names, logos, or symbols used to identify goods or services in the marketplace.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "intellectual-property"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a void contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A contract that has no legal effect from the outset"
+      },
+      {
+        "id": "B",
+        "text": "The legal ability of a party to enter into a binding contract"
+      },
+      {
+        "id": "C",
+        "text": "Salomon v Salomon & Co"
+      },
+      {
+        "id": "D",
+        "text": "A public limited company can offer its shares to the general public"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A void contract is treated as if it never existed and has no legal effect from the start.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a voidable contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It may make the contract voidable"
+      },
+      {
+        "id": "B",
+        "text": "A contract that remains valid until one party elects to avoid it"
+      },
+      {
+        "id": "C",
+        "text": "An unconditional order in writing to pay a specified sum of money"
+      },
+      {
+        "id": "D",
+        "text": "Employment law"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A voidable contract is valid and enforceable unless and until the party entitled to avoid it chooses to do so.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What three elements must generally be proven to establish negligence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A duty of care, breach of that duty, and resulting damage"
+      },
+      {
+        "id": "B",
+        "text": "A contract that remains valid until one party elects to avoid it"
+      },
+      {
+        "id": "C",
+        "text": "Offer, acceptance, consideration, intention to create legal relations, and capacity"
+      },
+      {
+        "id": "D",
+        "text": "A contract that has no legal effect from the outset"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Negligence requires proof of a duty of care owed, a breach of that duty, and damage caused by the breach.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tort-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What does copyright protect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Original literary, artistic, and other creative works"
+      },
+      {
+        "id": "B",
+        "text": "Fiduciary duties"
+      },
+      {
+        "id": "C",
+        "text": "Brand names, logos, and symbols used to distinguish goods or services"
+      },
+      {
+        "id": "D",
+        "text": "Salomon v Salomon & Co"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Copyright protects original creative works such as books, music, and art from unauthorized copying or use.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "intellectual-property"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What does a patent protect, and for how long is protection typically granted?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vicarious liability"
+      },
+      {
+        "id": "B",
+        "text": "Offer, acceptance, consideration, intention to create legal relations, and capacity"
+      },
+      {
+        "id": "C",
+        "text": "New inventions, protected for a limited period"
+      },
+      {
+        "id": "D",
+        "text": "A public limited company can offer its shares to the general public"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A patent grants the inventor exclusive rights over a new invention for a limited period, in exchange for public disclosure.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "intellectual-property"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is meant by 'capacity' as an element of a valid contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A definite proposal to contract on certain terms"
+      },
+      {
+        "id": "B",
+        "text": "Fiduciary duties"
+      },
+      {
+        "id": "C",
+        "text": "The legal ability of a party to enter into a binding contract"
+      },
+      {
+        "id": "D",
+        "text": "Whether harm to the claimant was a reasonably foreseeable consequence of the defendant's conduct"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Capacity refers to a party's legal competence to enter into and be bound by a contract (e.g. being of full age and sound mind).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "capacity"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What document governs the internal management of a company?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A relationship where one person (the agent) acts on behalf of another (the principal)"
+      },
+      {
+        "id": "B",
+        "text": "The Articles of Association"
+      },
+      {
+        "id": "C",
+        "text": "Wrongful dismissal"
+      },
+      {
+        "id": "D",
+        "text": "Often a non-binding statement of intent between parties"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Articles of Association set out rules for a company's internal governance and management.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "company-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "Name four types of intellectual property.",
+    "options": [
+      {
+        "id": "A",
+        "text": "An association of two or more persons carrying on business together with a view to profit"
+      },
+      {
+        "id": "B",
+        "text": "New inventions, protected for a limited period"
+      },
+      {
+        "id": "C",
+        "text": "A promise to answer for the debt or default of another person"
+      },
+      {
+        "id": "D",
+        "text": "Patents, trademarks, copyrights, and trade secrets"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Intellectual property broadly includes patents, trademarks, copyrights, and trade secrets, each protecting different types of creations.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "intellectual-property"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is the process of formally bringing a company's existence to an end called?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Unlimited liability"
+      },
+      {
+        "id": "B",
+        "text": "A contract that remains valid until one party elects to avoid it"
+      },
+      {
+        "id": "C",
+        "text": "Winding up (liquidation)"
+      },
+      {
+        "id": "D",
+        "text": "A duty of care, breach of that duty, and resulting damage"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Winding up, or liquidation, is the legal process of dissolving a company and distributing its assets.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "company-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What area of law governs the relationship between employers and employees?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A duty of care, breach of that duty, and resulting damage"
+      },
+      {
+        "id": "B",
+        "text": "Employment law"
+      },
+      {
+        "id": "C",
+        "text": "Patents, trademarks, copyrights, and trade secrets"
+      },
+      {
+        "id": "D",
+        "text": "The duty of utmost good faith (uberrimae fidei)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Employment law governs the rights and obligations arising from the relationship between employers and employees.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "employment-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What effect can misrepresentation have on a contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A fundamental term of a contract, whose breach allows the injured party to terminate"
+      },
+      {
+        "id": "B",
+        "text": "Damages"
+      },
+      {
+        "id": "C",
+        "text": "A contract that remains valid until one party elects to avoid it"
+      },
+      {
+        "id": "D",
+        "text": "It may make the contract voidable"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A contract induced by misrepresentation is generally voidable at the option of the misled party.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What type of duties do company directors owe to the company they serve?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A public limited company can offer its shares to the general public"
+      },
+      {
+        "id": "B",
+        "text": "Employment law"
+      },
+      {
+        "id": "C",
+        "text": "It can make the contract voidable"
+      },
+      {
+        "id": "D",
+        "text": "Fiduciary duties"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Directors owe fiduciary duties to the company, requiring them to act in good faith and in the company's best interests.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "company-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a negotiable instrument, such as a cheque, used for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The legal ability of a party to enter into a binding contract"
+      },
+      {
+        "id": "B",
+        "text": "A process where a neutral third party helps disputing parties reach a voluntary settlement"
+      },
+      {
+        "id": "C",
+        "text": "Unlimited liability"
+      },
+      {
+        "id": "D",
+        "text": "It can be transferred from one person to another, carrying rights to payment"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A negotiable instrument, like a cheque, can be transferred between parties, carrying with it the right to receive payment.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "negotiable-instruments"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What does the doctrine of privity of contract state?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Memorandum of Association"
+      },
+      {
+        "id": "B",
+        "text": "Brand names, logos, and symbols used to distinguish goods or services"
+      },
+      {
+        "id": "C",
+        "text": "Only parties to a contract can sue or be sued upon it"
+      },
+      {
+        "id": "D",
+        "text": "Employment law"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Privity of contract means that only the parties who made a contract can enforce its terms or be bound by them.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a 'warranty' in contract law, as distinct from a condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A minor term of a contract, whose breach only allows a claim for damages"
+      },
+      {
+        "id": "B",
+        "text": "A relationship where one person (the agent) acts on behalf of another (the principal)"
+      },
+      {
+        "id": "C",
+        "text": "Vicarious liability"
+      },
+      {
+        "id": "D",
+        "text": "A fundamental term of a contract, whose breach allows the injured party to terminate"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A warranty is a less significant contractual term; its breach only entitles the innocent party to damages, not termination.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is an offer, in contract law?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The duty of utmost good faith (uberrimae fidei)"
+      },
+      {
+        "id": "B",
+        "text": "New inventions, protected for a limited period"
+      },
+      {
+        "id": "C",
+        "text": "Coercion that vitiates a party's genuine consent to a contract"
+      },
+      {
+        "id": "D",
+        "text": "A definite proposal to contract on certain terms"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "An offer is a clear and definite proposal made by one party, capable of being accepted to form a binding contract.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is duress, in the context of contract law?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It transfers ownership of goods from seller to buyer for a price"
+      },
+      {
+        "id": "B",
+        "text": "New inventions, protected for a limited period"
+      },
+      {
+        "id": "C",
+        "text": "Coercion that vitiates a party's genuine consent to a contract"
+      },
+      {
+        "id": "D",
+        "text": "Specific performance"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Duress involves improper threats or coercion that undermine a party's free consent to enter a contract.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "Does a minor generally have full capacity to enter into a binding contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patents, trademarks, copyrights, and trade secrets"
+      },
+      {
+        "id": "B",
+        "text": "No, minors generally lack full contractual capacity, with limited exceptions such as necessaries"
+      },
+      {
+        "id": "C",
+        "text": "An association of two or more persons carrying on business together with a view to profit"
+      },
+      {
+        "id": "D",
+        "text": "A relationship where one person (the agent) acts on behalf of another (the principal)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Minors generally lack full contractual capacity, though contracts for necessaries are typically an exception.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "capacity"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What does a contract for the sale of goods do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A relationship where one person (the agent) acts on behalf of another (the principal)"
+      },
+      {
+        "id": "B",
+        "text": "A business owned and controlled by one person, with unlimited liability"
+      },
+      {
+        "id": "C",
+        "text": "A process where a neutral third party helps disputing parties reach a voluntary settlement"
+      },
+      {
+        "id": "D",
+        "text": "It transfers ownership of goods from seller to buyer for a price"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A contract of sale of goods transfers ownership (property) in goods from the seller to the buyer in exchange for a price.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "sale-of-goods"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a memorandum of understanding (MOU) generally understood to be?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A method of resolving disputes outside the courts, using a neutral arbitrator"
+      },
+      {
+        "id": "B",
+        "text": "The legal ability of a party to enter into a binding contract"
+      },
+      {
+        "id": "C",
+        "text": "It can make the contract voidable"
+      },
+      {
+        "id": "D",
+        "text": "Often a non-binding statement of intent between parties"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "An MOU typically records the parties' intentions and understanding, and is often (though not always) non-binding.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a bill of exchange?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It must be unconditional and communicated to the offeror"
+      },
+      {
+        "id": "B",
+        "text": "A public limited company can offer its shares to the general public"
+      },
+      {
+        "id": "C",
+        "text": "It may make the contract voidable"
+      },
+      {
+        "id": "D",
+        "text": "An unconditional order in writing to pay a specified sum of money"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A bill of exchange is a written, unconditional order directing one party to pay a fixed sum of money to another.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "negotiable-instruments"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a sole proprietorship?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A business owned and controlled by one person, with unlimited liability"
+      },
+      {
+        "id": "B",
+        "text": "Something of value given in exchange for a promise"
+      },
+      {
+        "id": "C",
+        "text": "Original literary, artistic, and other creative works"
+      },
+      {
+        "id": "D",
+        "text": "New inventions, protected for a limited period"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A sole proprietorship is a business run by a single owner who bears full, unlimited personal liability.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "business-organizations"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is a 'condition' in contract law, as distinct from a warranty?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Winding up (liquidation)"
+      },
+      {
+        "id": "B",
+        "text": "A fundamental term of a contract, whose breach allows the injured party to terminate"
+      },
+      {
+        "id": "C",
+        "text": "An insurable interest"
+      },
+      {
+        "id": "D",
+        "text": "The Memorandum of Association"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A condition is an essential term of a contract; breaching it entitles the innocent party to terminate the contract and/or claim damages.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What effect does undue influence have on a contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It may make the contract voidable"
+      },
+      {
+        "id": "B",
+        "text": "A process where a neutral third party helps disputing parties reach a voluntary settlement"
+      },
+      {
+        "id": "C",
+        "text": "An insurable interest"
+      },
+      {
+        "id": "D",
+        "text": "It can make the contract voidable"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A contract entered into as a result of undue influence (improper pressure) can be voidable at the option of the influenced party.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What is the most common remedy for breach of contract, aimed at compensating the injured party?",
+    "options": [
+      {
+        "id": "A",
+        "text": "New inventions, protected for a limited period"
+      },
+      {
+        "id": "B",
+        "text": "Brand names, logos, and symbols used to distinguish goods or services"
+      },
+      {
+        "id": "C",
+        "text": "Damages"
+      },
+      {
+        "id": "D",
+        "text": "Winding up (liquidation)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Damages are a monetary remedy intended to compensate the injured party for loss suffered due to breach of contract.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "remedies"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What special duty applies to parties entering an insurance contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The duty of utmost good faith (uberrimae fidei)"
+      },
+      {
+        "id": "B",
+        "text": "Fiduciary duties"
+      },
+      {
+        "id": "C",
+        "text": "An association of two or more persons carrying on business together with a view to profit"
+      },
+      {
+        "id": "D",
+        "text": "Only parties to a contract can sue or be sued upon it"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Insurance contracts require utmost good faith, meaning both parties must disclose all material facts honestly.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "insurance-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Business Law",
+    "questionText": "What condition must acceptance of an offer satisfy to form a valid contract?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coercion that vitiates a party's genuine consent to a contract"
+      },
+      {
+        "id": "B",
+        "text": "Original literary, artistic, and other creative works"
+      },
+      {
+        "id": "C",
+        "text": "Brand names, logos, and symbols used to distinguish goods or services"
+      },
+      {
+        "id": "D",
+        "text": "It must be unconditional and communicated to the offeror"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Acceptance must mirror the terms of the offer exactly (be unconditional) and must be communicated to the offeror.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "contract-law"
+    ]
+  }
+]

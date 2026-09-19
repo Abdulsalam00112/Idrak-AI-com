@@ -1,0 +1,3212 @@
+[
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "According to the law of supply, what happens to quantity supplied when price increases, other things being equal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deflation"
+      },
+      {
+        "id": "B",
+        "text": "It increases"
+      },
+      {
+        "id": "C",
+        "text": "A public good"
+      },
+      {
+        "id": "D",
+        "text": "A regressive tax"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The law of supply describes a direct relationship between price and quantity supplied.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "supply"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes a sustained fall in the general price level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deflation"
+      },
+      {
+        "id": "B",
+        "text": "It increases"
+      },
+      {
+        "id": "C",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "D",
+        "text": "Division of labour"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Deflation refers to a sustained decrease in the general price level over time.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "inflation"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What economic law states that additional satisfaction from consuming more units of a good decreases?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cost of borrowing money, or the reward for saving"
+      },
+      {
+        "id": "B",
+        "text": "A regressive tax"
+      },
+      {
+        "id": "C",
+        "text": "A cartel"
+      },
+      {
+        "id": "D",
+        "text": "The law of diminishing marginal utility"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The law of diminishing marginal utility states that each additional unit consumed yields less additional satisfaction than the previous one.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "consumer-behaviour"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term refers to the skills, knowledge, and experience possessed by workers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Many buyers and sellers, homogeneous products, and free entry and exit"
+      },
+      {
+        "id": "B",
+        "text": "Human capital"
+      },
+      {
+        "id": "C",
+        "text": "Government spending and taxation"
+      },
+      {
+        "id": "D",
+        "text": "People who are willing and able to work but cannot find a job"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Human capital refers to the accumulated skills, knowledge, and experience that make workers productive.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "production"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What are the four factors of production?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cost of borrowing money, or the reward for saving"
+      },
+      {
+        "id": "B",
+        "text": "Land, labour, capital, and entrepreneurship"
+      },
+      {
+        "id": "C",
+        "text": "The law of diminishing marginal utility"
+      },
+      {
+        "id": "D",
+        "text": "A cartel"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The four factors of production are land, labour, capital, and entrepreneurship.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "production"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What economic principle explains increased productivity through workers specializing in specific tasks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Division of labour"
+      },
+      {
+        "id": "B",
+        "text": "People who are willing and able to work but cannot find a job"
+      },
+      {
+        "id": "C",
+        "text": "A command economy"
+      },
+      {
+        "id": "D",
+        "text": "Monopoly"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Division of labour increases productivity by allowing workers to specialize in specific tasks they perform efficiently.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "production"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What type of tax takes a higher percentage of income from higher earners?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A progressive tax"
+      },
+      {
+        "id": "B",
+        "text": "It increases"
+      },
+      {
+        "id": "C",
+        "text": "A command economy"
+      },
+      {
+        "id": "D",
+        "text": "The value of the next best alternative forgone"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A progressive tax system charges a higher percentage of tax as income increases.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "taxation"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is a subsidy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A cartel"
+      },
+      {
+        "id": "B",
+        "text": "Scarcity"
+      },
+      {
+        "id": "C",
+        "text": "Division of labour"
+      },
+      {
+        "id": "D",
+        "text": "A payment by government to reduce the cost of production or consumption of a good"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A subsidy is financial assistance from the government aimed at lowering the cost of producing or consuming a good.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "government-policy"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is the basic economic problem arising from unlimited wants and limited resources?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monopoly"
+      },
+      {
+        "id": "B",
+        "text": "The balance of payments"
+      },
+      {
+        "id": "C",
+        "text": "A public good"
+      },
+      {
+        "id": "D",
+        "text": "Scarcity"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Scarcity is the fundamental economic problem: resources are limited relative to unlimited human wants.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "basic-concepts"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is opportunity cost?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imports"
+      },
+      {
+        "id": "B",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "C",
+        "text": "The central bank"
+      },
+      {
+        "id": "D",
+        "text": "A budget deficit"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Opportunity cost is what is given up (the next best alternative) when a choice is made.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "basic-concepts"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What type of economy combines both private and public sector participation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "B",
+        "text": "A mixed economy"
+      },
+      {
+        "id": "C",
+        "text": "Economic growth"
+      },
+      {
+        "id": "D",
+        "text": "Deflation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A mixed economy has both private enterprise and government (public sector) involvement in economic activity.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "economic-systems"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is barter?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax imposed on imported goods"
+      },
+      {
+        "id": "B",
+        "text": "Many buyers and sellers, homogeneous products, and free entry and exit"
+      },
+      {
+        "id": "C",
+        "text": "The direct exchange of goods or services without the use of money"
+      },
+      {
+        "id": "D",
+        "text": "A cartel"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Barter is a system of trade where goods or services are exchanged directly for other goods or services without money.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "money-and-banking"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is interest, in economic terms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deflation"
+      },
+      {
+        "id": "B",
+        "text": "It decreases"
+      },
+      {
+        "id": "C",
+        "text": "The direct exchange of goods or services without the use of money"
+      },
+      {
+        "id": "D",
+        "text": "The cost of borrowing money, or the reward for saving"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Interest is the cost paid for borrowing money or the reward received for saving/lending money.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "money-and-banking"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "Which institution is typically responsible for a country's monetary policy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Land, labour, capital, and entrepreneurship"
+      },
+      {
+        "id": "B",
+        "text": "The central bank"
+      },
+      {
+        "id": "C",
+        "text": "A cartel"
+      },
+      {
+        "id": "D",
+        "text": "Deflation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Monetary policy, involving tools such as interest rates and money supply, is typically controlled by the central bank.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "government-policy"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes a sustained rise in the general price level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarcity"
+      },
+      {
+        "id": "B",
+        "text": "Government spending and taxation"
+      },
+      {
+        "id": "C",
+        "text": "Real GDP is adjusted for inflation; nominal GDP is measured at current prices"
+      },
+      {
+        "id": "D",
+        "text": "Inflation"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Inflation refers to a sustained increase in the general price level of goods and services over time.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "inflation"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What market structure is characterized by a single firm dominating supply of a good or service?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A cartel"
+      },
+      {
+        "id": "B",
+        "text": "Human capital"
+      },
+      {
+        "id": "C",
+        "text": "It increases"
+      },
+      {
+        "id": "D",
+        "text": "Monopoly"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A monopoly exists when a single firm is the sole supplier of a good or service in a market.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "market-structures"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What does GDP stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cost of borrowing money, or the reward for saving"
+      },
+      {
+        "id": "B",
+        "text": "Exports"
+      },
+      {
+        "id": "C",
+        "text": "Gross Domestic Product"
+      },
+      {
+        "id": "D",
+        "text": "Imports"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "GDP (Gross Domestic Product) is the total value of goods and services produced within a country in a given period.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "national-income"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is a tariff?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax imposed on imported goods"
+      },
+      {
+        "id": "B",
+        "text": "It decreases"
+      },
+      {
+        "id": "C",
+        "text": "Real GDP is adjusted for inflation; nominal GDP is measured at current prices"
+      },
+      {
+        "id": "D",
+        "text": "The direct exchange of goods or services without the use of money"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A tariff is a tax or duty imposed by a government on goods imported from other countries.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "international-trade"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes goods and services sold to other countries?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Free trade"
+      },
+      {
+        "id": "B",
+        "text": "A regressive tax"
+      },
+      {
+        "id": "C",
+        "text": "A cartel"
+      },
+      {
+        "id": "D",
+        "text": "Exports"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Exports are goods and services produced domestically and sold to other countries.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "international-trade"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes a group of firms that collude to control prices or output?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inflation"
+      },
+      {
+        "id": "B",
+        "text": "A cartel"
+      },
+      {
+        "id": "C",
+        "text": "Human capital"
+      },
+      {
+        "id": "D",
+        "text": "A regressive tax"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A cartel is a group of independent firms that collude to control prices or restrict output for mutual benefit.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "market-structures"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "How is unemployment generally defined?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarcity"
+      },
+      {
+        "id": "B",
+        "text": "Deflation"
+      },
+      {
+        "id": "C",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "D",
+        "text": "People who are willing and able to work but cannot find a job"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Unemployment refers to individuals who are willing and able to work but are unable to find employment.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "labour-market"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "According to the law of demand, what happens to quantity demanded when price increases, other things being equal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monopoly"
+      },
+      {
+        "id": "B",
+        "text": "It increases"
+      },
+      {
+        "id": "C",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "D",
+        "text": "It decreases"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The law of demand describes an inverse relationship between price and quantity demanded.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "demand"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What occurs when government spending exceeds government revenue in a given period?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A budget deficit"
+      },
+      {
+        "id": "B",
+        "text": "A public good"
+      },
+      {
+        "id": "C",
+        "text": "A progressive tax"
+      },
+      {
+        "id": "D",
+        "text": "The cost of borrowing money, or the reward for saving"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A budget deficit occurs when a government's spending exceeds its revenue in a given period.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "public-finance"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes a good that is non-excludable and non-rivalrous, such as street lighting?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A public good"
+      },
+      {
+        "id": "B",
+        "text": "Human capital"
+      },
+      {
+        "id": "C",
+        "text": "Monopoly"
+      },
+      {
+        "id": "D",
+        "text": "Real GDP is adjusted for inflation; nominal GDP is measured at current prices"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A public good is one that is non-excludable (everyone can use it) and non-rivalrous (one person's use doesn't reduce availability to others).",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "market-failure"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What is the difference between nominal GDP and real GDP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It decreases"
+      },
+      {
+        "id": "B",
+        "text": "Real GDP is adjusted for inflation; nominal GDP is measured at current prices"
+      },
+      {
+        "id": "C",
+        "text": "Free trade"
+      },
+      {
+        "id": "D",
+        "text": "Imports"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Nominal GDP uses current prices, while real GDP adjusts for inflation to reflect true changes in output.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "national-income"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes trade between countries without tariffs or restrictions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A command economy"
+      },
+      {
+        "id": "B",
+        "text": "Government spending and taxation"
+      },
+      {
+        "id": "C",
+        "text": "Free trade"
+      },
+      {
+        "id": "D",
+        "text": "Imports"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Free trade refers to international trade conducted without tariffs, quotas, or other restrictions.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "international-trade"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes an increase in a country's output of goods and services over time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A payment by government to reduce the cost of production or consumption of a good"
+      },
+      {
+        "id": "B",
+        "text": "The responsiveness of quantity demanded to a change in price"
+      },
+      {
+        "id": "C",
+        "text": "Economic growth"
+      },
+      {
+        "id": "D",
+        "text": "Land, labour, capital, and entrepreneurship"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Economic growth refers to a sustained increase in a country's output of goods and services over time.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "national-income"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What are the characteristics of a perfectly competitive market?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Many buyers and sellers, homogeneous products, and free entry and exit"
+      },
+      {
+        "id": "B",
+        "text": "Land, labour, capital, and entrepreneurship"
+      },
+      {
+        "id": "C",
+        "text": "Exports"
+      },
+      {
+        "id": "D",
+        "text": "Economic growth"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Perfect competition is characterized by many buyers/sellers, identical products, and no barriers to entry or exit.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "market-structures"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "Fiscal policy primarily involves which two government tools?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cost of borrowing money, or the reward for saving"
+      },
+      {
+        "id": "B",
+        "text": "A command economy"
+      },
+      {
+        "id": "C",
+        "text": "A tax imposed on imported goods"
+      },
+      {
+        "id": "D",
+        "text": "Government spending and taxation"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Fiscal policy involves the use of government spending and taxation to influence the economy.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "government-policy"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "Demand is described as price inelastic when:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Free trade"
+      },
+      {
+        "id": "B",
+        "text": "The percentage change in quantity demanded is less than the percentage change in price"
+      },
+      {
+        "id": "C",
+        "text": "Inflation"
+      },
+      {
+        "id": "D",
+        "text": "A budget deficit"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Inelastic demand means quantity demanded responds proportionally less than the change in price.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "elasticity"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What type of tax takes a higher percentage of income from lower earners relative to higher earners?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inflation"
+      },
+      {
+        "id": "B",
+        "text": "The responsiveness of quantity demanded to a change in price"
+      },
+      {
+        "id": "C",
+        "text": "A regressive tax"
+      },
+      {
+        "id": "D",
+        "text": "Exports"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A regressive tax takes a proportionally larger share of income from low-income earners than high-income earners.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "taxation"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What record shows a country's transactions with the rest of the world?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarcity"
+      },
+      {
+        "id": "B",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "C",
+        "text": "Exports"
+      },
+      {
+        "id": "D",
+        "text": "The balance of payments"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The balance of payments records all economic transactions between a country and the rest of the world.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "international-trade"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What does elasticity of demand measure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The percentage change in quantity demanded is less than the percentage change in price"
+      },
+      {
+        "id": "B",
+        "text": "Inflation"
+      },
+      {
+        "id": "C",
+        "text": "Division of labour"
+      },
+      {
+        "id": "D",
+        "text": "The responsiveness of quantity demanded to a change in price"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Price elasticity of demand measures how much quantity demanded changes in response to a change in price.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "elasticity"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes goods and services purchased from other countries?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A mixed economy"
+      },
+      {
+        "id": "B",
+        "text": "Imports"
+      },
+      {
+        "id": "C",
+        "text": "A regressive tax"
+      },
+      {
+        "id": "D",
+        "text": "The percentage change in quantity demanded is less than the percentage change in price"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Imports are goods and services purchased from other countries.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "international-trade"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What type of economy is centrally planned and controlled by the government?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarcity"
+      },
+      {
+        "id": "B",
+        "text": "Real GDP is adjusted for inflation; nominal GDP is measured at current prices"
+      },
+      {
+        "id": "C",
+        "text": "A command economy"
+      },
+      {
+        "id": "D",
+        "text": "The responsiveness of quantity demanded to a change in price"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "In a command economy, economic decisions are centrally planned and controlled by the government.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "economic-systems"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term refers to the supreme authority of a state to govern itself without external interference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Executive"
+      },
+      {
+        "id": "B",
+        "text": "Sovereignty"
+      },
+      {
+        "id": "C",
+        "text": "Public opinion"
+      },
+      {
+        "id": "D",
+        "text": "Separation of powers"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sovereignty refers to a state's supreme authority to govern itself, free from external control.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "political-concepts"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is Nigeria's national legislature called?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The President"
+      },
+      {
+        "id": "B",
+        "text": "An ambassador"
+      },
+      {
+        "id": "C",
+        "text": "Law made by a body other than the legislature, under authority granted by the legislature"
+      },
+      {
+        "id": "D",
+        "text": "The National Assembly"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Nigeria's National Assembly comprises the Senate and the House of Representatives.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "nigerian-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes the transfer of certain government powers/functions to a lower level of government?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A unitary system"
+      },
+      {
+        "id": "B",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "C",
+        "text": "Decentralization"
+      },
+      {
+        "id": "D",
+        "text": "A referendum"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Decentralization is the process of transferring authority and responsibilities from central to lower levels of government.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What electoral system awards a seat/win to the candidate with the most votes, without requiring a majority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A unicameral legislature"
+      },
+      {
+        "id": "B",
+        "text": "The Judiciary"
+      },
+      {
+        "id": "C",
+        "text": "First-past-the-post"
+      },
+      {
+        "id": "D",
+        "text": "By birth, by registration, or by naturalization"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "In a first-past-the-post system, the candidate with the most votes wins, even without an absolute majority.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electoral-systems"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What group consists of ministers or secretaries who each head a government ministry or department?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three: federal, state, and local"
+      },
+      {
+        "id": "B",
+        "text": "Separation of powers"
+      },
+      {
+        "id": "C",
+        "text": "The Executive"
+      },
+      {
+        "id": "D",
+        "text": "The cabinet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The cabinet consists of ministers or secretaries responsible for heading various government ministries or departments.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "executive"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What electoral system allocates seats to parties in proportion to the votes they receive?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proportional representation"
+      },
+      {
+        "id": "B",
+        "text": "The Judiciary"
+      },
+      {
+        "id": "C",
+        "text": "A referendum"
+      },
+      {
+        "id": "D",
+        "text": "A group that seeks to influence government policy without seeking political power directly"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Proportional representation allocates parliamentary seats in proportion to the share of votes each party receives.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "electoral-systems"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What system of government divides power between a central government and regional/state governments?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A federal system"
+      },
+      {
+        "id": "B",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "C",
+        "text": "The cabinet"
+      },
+      {
+        "id": "D",
+        "text": "The constitution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A federal system of government shares power between a central (federal) government and constituent states or regions.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "systems-of-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "In a parliamentary system, who typically serves as Head of Government while a monarch or president is Head of State?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Executive, the Legislature, and the Judiciary"
+      },
+      {
+        "id": "B",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "C",
+        "text": "Sovereignty"
+      },
+      {
+        "id": "D",
+        "text": "An ambassador"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "In many parliamentary systems, the Prime Minister is the Head of Government, while a separate monarch or president is Head of State.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "executive"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What document is considered the supreme law of a country?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Law made by a body other than the legislature, under authority granted by the legislature"
+      },
+      {
+        "id": "B",
+        "text": "The constitution"
+      },
+      {
+        "id": "C",
+        "text": "A bicameral legislature"
+      },
+      {
+        "id": "D",
+        "text": "A unicameral legislature"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The constitution is the supreme law of a country, establishing its structure of government and fundamental rights.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "constitution"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "Which arm of government is primarily responsible for interpreting laws and administering justice?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A referendum"
+      },
+      {
+        "id": "B",
+        "text": "The Judiciary"
+      },
+      {
+        "id": "C",
+        "text": "An organization that seeks to gain and exercise political power through elections"
+      },
+      {
+        "id": "D",
+        "text": "The Executive"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Judiciary interprets the law and administers justice through the court system.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "arms-of-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes a direct vote by citizens on a specific issue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A federal system"
+      },
+      {
+        "id": "B",
+        "text": "A referendum"
+      },
+      {
+        "id": "C",
+        "text": "Separation of powers"
+      },
+      {
+        "id": "D",
+        "text": "The cabinet"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A referendum allows citizens to vote directly on a specific policy question or issue.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "democracy"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is the third and closest tier of government to the people, below federal and state levels in a federation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Law made by a body other than the legislature, under authority granted by the legislature"
+      },
+      {
+        "id": "B",
+        "text": "A bicameral legislature"
+      },
+      {
+        "id": "C",
+        "text": "Local government"
+      },
+      {
+        "id": "D",
+        "text": "The constitution"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Local government is generally the tier of government closest to citizens, handling matters at the community level.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "local-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What principle prevents the concentration of power in a single arm of government?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cabinet"
+      },
+      {
+        "id": "B",
+        "text": "The constitution"
+      },
+      {
+        "id": "C",
+        "text": "Separation of powers"
+      },
+      {
+        "id": "D",
+        "text": "An organization that seeks to gain and exercise political power through elections"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Separation of powers divides government authority among the executive, legislature, and judiciary to prevent abuse of power.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "separation-of-powers"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes the right of all adult citizens to vote?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cabinet"
+      },
+      {
+        "id": "B",
+        "text": "Universal adult suffrage"
+      },
+      {
+        "id": "C",
+        "text": "Separation of powers"
+      },
+      {
+        "id": "D",
+        "text": "Right to life, dignity of the person, and personal liberty"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Universal adult suffrage means that all adult citizens, regardless of status, have the right to vote.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "democracy"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is a political party?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A bicameral legislature"
+      },
+      {
+        "id": "B",
+        "text": "Decentralization"
+      },
+      {
+        "id": "C",
+        "text": "An organization that seeks to gain and exercise political power through elections"
+      },
+      {
+        "id": "D",
+        "text": "Law made by a body other than the legislature, under authority granted by the legislature"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A political party seeks to win elections and exercise political power, unlike a pressure group.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "political-groups"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "Name three fundamental human rights typically guaranteed by a constitution.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Legislature"
+      },
+      {
+        "id": "B",
+        "text": "Right to life, dignity of the person, and personal liberty"
+      },
+      {
+        "id": "C",
+        "text": "Public opinion"
+      },
+      {
+        "id": "D",
+        "text": "It ensures fair and impartial administration of justice, free from political interference"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Constitutions typically guarantee fundamental human rights including the right to life, dignity of the person, and personal liberty.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "human-rights"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes a government formed by two or more parties when no single party has a majority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "B",
+        "text": "A coalition government"
+      },
+      {
+        "id": "C",
+        "text": "It ensures fair and impartial administration of justice, free from political interference"
+      },
+      {
+        "id": "D",
+        "text": "The Executive"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A coalition government forms when multiple political parties combine to form a government due to no single party having a majority.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "government-formation"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "How is democracy generally defined?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A referendum"
+      },
+      {
+        "id": "B",
+        "text": "Government by the people, for the people"
+      },
+      {
+        "id": "C",
+        "text": "A bicameral legislature"
+      },
+      {
+        "id": "D",
+        "text": "The Judiciary"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Democracy is commonly defined as a system of government by the people, for the people, typically through elected representatives.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "democracy"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is the term for a country's official representative abroad, promoting diplomatic relations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sovereignty"
+      },
+      {
+        "id": "B",
+        "text": "An ambassador"
+      },
+      {
+        "id": "C",
+        "text": "Public opinion"
+      },
+      {
+        "id": "D",
+        "text": "The President"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "An ambassador is an official representative of a country in a foreign nation, responsible for diplomatic relations.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "international-relations"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes the collective views of citizens on public issues?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A unitary system"
+      },
+      {
+        "id": "B",
+        "text": "Public opinion"
+      },
+      {
+        "id": "C",
+        "text": "The President"
+      },
+      {
+        "id": "D",
+        "text": "By birth, by registration, or by naturalization"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Public opinion refers to the collective attitudes and views held by citizens on political and social issues.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "political-concepts"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "In a presidential system of government, who serves as both Head of State and Head of Government?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A referendum"
+      },
+      {
+        "id": "B",
+        "text": "A unicameral legislature"
+      },
+      {
+        "id": "C",
+        "text": "Universal adult suffrage"
+      },
+      {
+        "id": "D",
+        "text": "The President"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In a presidential system, the President combines the ceremonial role of Head of State with the practical role of Head of Government.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "executive"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is the process for removing a public official from office for misconduct while in office?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A unicameral legislature"
+      },
+      {
+        "id": "B",
+        "text": "Impeachment"
+      },
+      {
+        "id": "C",
+        "text": "First-past-the-post"
+      },
+      {
+        "id": "D",
+        "text": "A bicameral legislature"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Impeachment is a formal process for charging and potentially removing a public official for misconduct.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accountability"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What system allows each arm of government to limit the powers of the others?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Checks and balances"
+      },
+      {
+        "id": "B",
+        "text": "The National Assembly"
+      },
+      {
+        "id": "C",
+        "text": "Public opinion"
+      },
+      {
+        "id": "D",
+        "text": "A referendum"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Checks and balances is a system where each arm of government can limit or check the powers of the other arms.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "separation-of-powers"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "How many tiers of government does Nigeria practice under its federal system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Separation of powers"
+      },
+      {
+        "id": "B",
+        "text": "A bicameral legislature"
+      },
+      {
+        "id": "C",
+        "text": "Three: federal, state, and local"
+      },
+      {
+        "id": "D",
+        "text": "Decentralization"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Nigeria's federal system operates with three tiers of government: federal, state, and local.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "nigerian-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes a legislature with two chambers or houses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It ensures fair and impartial administration of justice, free from political interference"
+      },
+      {
+        "id": "B",
+        "text": "A coalition government"
+      },
+      {
+        "id": "C",
+        "text": "The constitution"
+      },
+      {
+        "id": "D",
+        "text": "A bicameral legislature"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A bicameral legislature has two chambers, such as a Senate and a House of Representatives.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "legislature"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What principle holds that everyone, including the government, is subject to the law?",
+    "options": [
+      {
+        "id": "A",
+        "text": "First-past-the-post"
+      },
+      {
+        "id": "B",
+        "text": "Checks and balances"
+      },
+      {
+        "id": "C",
+        "text": "The Executive"
+      },
+      {
+        "id": "D",
+        "text": "The rule of law"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The rule of law means that no one, including government officials, is above the law.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "rule-of-law"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "Which arm of government is primarily responsible for making laws?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Legislature"
+      },
+      {
+        "id": "B",
+        "text": "The rule of law"
+      },
+      {
+        "id": "C",
+        "text": "By birth, by registration, or by naturalization"
+      },
+      {
+        "id": "D",
+        "text": "The National Assembly"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Legislature (e.g. a parliament or National Assembly) is responsible for making laws.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "arms-of-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What are the three arms of government?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A group that seeks to influence government policy without seeking political power directly"
+      },
+      {
+        "id": "B",
+        "text": "First-past-the-post"
+      },
+      {
+        "id": "C",
+        "text": "A federal system"
+      },
+      {
+        "id": "D",
+        "text": "The Executive, the Legislature, and the Judiciary"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Government is typically divided into three arms: the Executive, the Legislature, and the Judiciary.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "arms-of-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What term describes a legislature with only one chamber?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It ensures fair and impartial administration of justice, free from political interference"
+      },
+      {
+        "id": "B",
+        "text": "A unitary system"
+      },
+      {
+        "id": "C",
+        "text": "The constitution"
+      },
+      {
+        "id": "D",
+        "text": "A unicameral legislature"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A unicameral legislature has only a single chamber or house.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "legislature"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is a delegated legislation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The rule of law"
+      },
+      {
+        "id": "B",
+        "text": "A coalition government"
+      },
+      {
+        "id": "C",
+        "text": "Law made by a body other than the legislature, under authority granted by the legislature"
+      },
+      {
+        "id": "D",
+        "text": "The constitution"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Delegated (or subordinate) legislation is law-making power granted by the legislature to another body, such as a government ministry.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "legislature"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "Name three ways citizenship can generally be acquired.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sovereignty"
+      },
+      {
+        "id": "B",
+        "text": "Impeachment"
+      },
+      {
+        "id": "C",
+        "text": "The National Assembly"
+      },
+      {
+        "id": "D",
+        "text": "By birth, by registration, or by naturalization"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Citizenship of a country can typically be acquired by birth, registration, or naturalization.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "citizenship"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "Why is judicial independence considered essential?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decentralization"
+      },
+      {
+        "id": "B",
+        "text": "An ambassador"
+      },
+      {
+        "id": "C",
+        "text": "The Executive, the Legislature, and the Judiciary"
+      },
+      {
+        "id": "D",
+        "text": "It ensures fair and impartial administration of justice, free from political interference"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Judicial independence is essential to ensure the judiciary can administer justice fairly, without undue influence from other arms of government.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "judiciary"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What system of government concentrates power at the central government level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An ambassador"
+      },
+      {
+        "id": "B",
+        "text": "A coalition government"
+      },
+      {
+        "id": "C",
+        "text": "A unitary system"
+      },
+      {
+        "id": "D",
+        "text": "Public opinion"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "In a unitary system, power is concentrated at the centre, with regional bodies exercising only delegated authority.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "systems-of-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "Which arm of government is primarily responsible for implementing and enforcing laws?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decentralization"
+      },
+      {
+        "id": "B",
+        "text": "The President"
+      },
+      {
+        "id": "C",
+        "text": "The Executive"
+      },
+      {
+        "id": "D",
+        "text": "Right to life, dignity of the person, and personal liberty"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Executive is responsible for implementing and enforcing the laws made by the legislature.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "arms-of-government"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Government",
+    "questionText": "What is a pressure group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The rule of law"
+      },
+      {
+        "id": "B",
+        "text": "A group that seeks to influence government policy without seeking political power directly"
+      },
+      {
+        "id": "C",
+        "text": "An ambassador"
+      },
+      {
+        "id": "D",
+        "text": "The Executive, the Legislature, and the Judiciary"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A pressure group aims to influence government decisions and policy but does not seek to govern directly.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "political-groups"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 12cm and width 4cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "52"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a rectangle = length × width = 12 × 4 = 48cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 10 and x − y = 6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 8, y = 2"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 8"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 8, y = 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding both equations: 2x = 16, so x = 8. Substituting: 8 + y = 10, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦60,000 for 1 year at 6% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10800"
+      },
+      {
+        "id": "B",
+        "text": "7200"
+      },
+      {
+        "id": "C",
+        "text": "3600"
+      },
+      {
+        "id": "D",
+        "text": "7200"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (60000 × 6 × 1) / 100 = ₦3600.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 10 and 25.",
+    "options": [
+      {
+        "id": "A",
+        "text": "250"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 10 and 25 is 50.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦25,000 for 3 years at 10% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "5000"
+      },
+      {
+        "id": "C",
+        "text": "15000"
+      },
+      {
+        "id": "D",
+        "text": "7500"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (25000 × 10 × 3) / 100 = ₦7500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "If 5x + 12 = 42, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 42 − 12 = 30, so x = 30 ÷ 5 = 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 4:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:10"
+      },
+      {
+        "id": "B",
+        "text": "2:5"
+      },
+      {
+        "id": "C",
+        "text": "2:6"
+      },
+      {
+        "id": "D",
+        "text": "3:5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 4 and 10 is 2. Dividing both terms by 2: 4÷2 : 10÷2 = 2:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦3,000 and wants to make a profit of 25%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4125"
+      },
+      {
+        "id": "B",
+        "text": "3750"
+      },
+      {
+        "id": "C",
+        "text": "4050"
+      },
+      {
+        "id": "D",
+        "text": "3375"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 25% of ₦3000 = ₦750. Selling price = ₦3000 + ₦750 = ₦3750.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 16cm and width 6cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "102"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 16 × 6 = 96cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:35 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "3:7"
+      },
+      {
+        "id": "D",
+        "text": "15:35"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 15 and 35 is 5. Dividing both terms by 5: 15÷5 : 35÷5 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦1,200 and wants to make a profit of 40%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1680"
+      },
+      {
+        "id": "B",
+        "text": "1920"
+      },
+      {
+        "id": "C",
+        "text": "1800"
+      },
+      {
+        "id": "D",
+        "text": "1440"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Profit = 40% of ₦1200 = ₦480. Selling price = ₦1200 + ₦480 = ₦1680.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 73, 21, 16, 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "134"
+      },
+      {
+        "id": "B",
+        "text": "33.5"
+      },
+      {
+        "id": "C",
+        "text": "28.5"
+      },
+      {
+        "id": "D",
+        "text": "38.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Average = sum of numbers ÷ count = 134 ÷ 4 = 33.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "294"
+      },
+      {
+        "id": "B",
+        "text": "21"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 14 and 21 is 42.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 18 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 18 and 24 is 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 13 and x − y = -1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 6, y = 8"
+      },
+      {
+        "id": "B",
+        "text": "x = 6, y = 7"
+      },
+      {
+        "id": "C",
+        "text": "x = 7, y = 6"
+      },
+      {
+        "id": "D",
+        "text": "x = 7, y = 7"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Adding both equations: 2x = 12, so x = 6. Substituting: 6 + y = 13, so y = 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 5cm and 12cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 5² + 12² = 25 + 144 = 169, so hypotenuse = 13cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "384"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 16 and 24 is 48.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 77, 10, 86, 51.",
+    "options": [
+      {
+        "id": "A",
+        "text": "61"
+      },
+      {
+        "id": "B",
+        "text": "51"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "224"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 224 ÷ 4 = 56.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 13cm and width 5cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "70"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 13 × 5 = 65cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 11 and x − y = 7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 9, y = 3"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 9"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 10, y = 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Adding both equations: 2x = 18, so x = 9. Substituting: 9 + y = 11, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 31, 43, 77, 87.",
+    "options": [
+      {
+        "id": "A",
+        "text": "64.5"
+      },
+      {
+        "id": "B",
+        "text": "54.5"
+      },
+      {
+        "id": "C",
+        "text": "59.5"
+      },
+      {
+        "id": "D",
+        "text": "238"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 238 ÷ 4 = 59.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 12cm and 16cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "28"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 12² + 16² = 144 + 256 = 400, so hypotenuse = 20cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 9 and x − y = 1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 5, y = 5"
+      },
+      {
+        "id": "B",
+        "text": "x = 4, y = 5"
+      },
+      {
+        "id": "C",
+        "text": "x = 6, y = 4"
+      },
+      {
+        "id": "D",
+        "text": "x = 5, y = 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Adding both equations: 2x = 10, so x = 5. Substituting: 5 + y = 9, so y = 4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 16 and 24 is 8.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 12 and 18.",
+    "options": [
+      {
+        "id": "A",
+        "text": "216"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "36"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The LCM of 12 and 18 is 36.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  }
+]

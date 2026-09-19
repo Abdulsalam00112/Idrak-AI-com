@@ -1,0 +1,26 @@
+{
+  "$comment": "Shape expected by db/seed/questions/import.ts. A file is a JSON array of question objects.",
+  "example": [
+    {
+      "examCode": "WAEC",
+      "subjectName": "Mathematics",
+      "topicId": null,
+      "questionText": "If x^2 - 5x + 6 = 0, what are the values of x?",
+      "options": [
+        { "id": "A", "text": "2 and 3" },
+        { "id": "B", "text": "1 and 6" },
+        { "id": "C", "text": "-2 and -3" },
+        { "id": "D", "text": "2 and -3" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Factors as (x-2)(x-3)=0.",
+      "explanationSource": "idrak_generated",
+      "difficulty": "easy",
+      "contentType": "real",
+      "sourceReference": "WAEC 2019 Paper 1, Q3",
+      "year": 2019,
+      "isHighYield": false,
+      "tags": ["algebra", "quadratics"]
+    }
+  ]
+}

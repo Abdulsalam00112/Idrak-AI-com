@@ -1,0 +1,181 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #faf7f2;
+  --color-cream-dark: #f5f0e8;
+  --color-navy: #0f0f23;
+  --color-navy-soft: #1a1a2e;
+  --color-coral: #ff6b4a;
+  --color-coral-soft: #ff8b6f;
+  --color-lavender: #b8a4e8;
+  --color-lavender-deep: #8b6fc0;
+  --color-lavender-light: #e8e0f5;
+  --color-yellow: #ffd93d;
+  --color-yellow-soft: #fff3b0;
+  --color-mint: #4ecdc4;
+  --color-mint-soft: #a8e6e0;
+  --color-ink: #2d2d3d;
+  --color-ink-soft: #5a5a72;
+  --color-ink-mute: #8a8aa0;
+  --color-line: #e8e4dd;
+  --color-white: #ffffff;
+
+  --font-display: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
+  --radius-3xl: 2.5rem;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--color-cream);
+  color: var(--color-navy);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-line);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ink-mute);
+}
+
+/* Utility classes */
+.text-balance {
+  text-wrap: balance;
+}
+
+.grain-bg {
+  background-image: radial-gradient(circle at 1px 1px, rgba(15, 15, 35, 0.03) 1px, transparent 0);
+  background-size: 20px 20px;
+}
+
+.dotted-grid {
+  background-image: radial-gradient(circle, rgba(184, 164, 232, 0.15) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.card-shadow {
+  box-shadow: 0 1px 2px rgba(15, 15, 35, 0.04), 0 4px 16px rgba(15, 15, 35, 0.06);
+}
+
+.card-shadow-lg {
+  box-shadow: 0 2px 4px rgba(15, 15, 35, 0.04), 0 12px 32px rgba(15, 15, 35, 0.08);
+}
+
+.coral-glow {
+  box-shadow: 0 8px 24px rgba(255, 107, 74, 0.25);
+}
+
+.lavender-glow {
+  box-shadow: 0 8px 24px rgba(184, 164, 232, 0.35);
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-12px) rotate(1deg); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(2deg); }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+.animate-float-slow {
+  animation: float-slow 6s ease-in-out infinite;
+}
+.animate-pulse-soft {
+  animation: pulse-soft 3s ease-in-out infinite;
+}
+.animate-slide-up {
+  animation: slide-up 0.5s ease-out forwards;
+}
+.animate-wiggle {
+  animation: wiggle 2s ease-in-out infinite;
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--color-cream-dark) 25%, var(--color-line) 50%, var(--color-cream-dark) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-load 1.5s infinite;
+}
+
+@keyframes skeleton-load {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* Markdown-ish styling for tutor content */
+.tutor-content p { margin-bottom: 0.75rem; line-height: 1.7; }
+.tutor-content strong { color: var(--color-navy); font-weight: 700; }
+.tutor-content em { color: var(--color-coral); font-style: italic; }
+.tutor-content ul { list-style: disc; margin-left: 1.25rem; margin-bottom: 0.75rem; }
+.tutor-content ol { list-style: decimal; margin-left: 1.25rem; margin-bottom: 0.75rem; }
+.tutor-content li { margin-bottom: 0.25rem; }
+.tutor-content code { background: var(--color-lavender-light); padding: 0.15rem 0.4rem; border-radius: 0.35rem; font-size: 0.9em; font-weight: 500; }
+.tutor-content .formula { display: inline-block; background: var(--color-cream-dark); padding: 0.5rem 1rem; border-radius: 0.75rem; font-family: 'Courier New', monospace; font-weight: 600; margin: 0.5rem 0; }
+.tutor-content .step { background: var(--color-white); border-left: 3px solid var(--color-coral); padding: 0.75rem 1rem; border-radius: 0 0.75rem 0.75rem 0; margin-bottom: 0.5rem; }
+.tutor-content .definition { background: var(--color-yellow-soft); padding: 0.75rem 1rem; border-radius: 0.75rem; margin-bottom: 0.75rem; }
+.tutor-content .example { background: var(--color-lavender-light); padding: 1rem; border-radius: 0.75rem; margin-bottom: 0.75rem; }
+.tutor-content .hint-level-1 { background: var(--color-mint-soft); padding: 0.75rem 1rem; border-radius: 0.75rem; margin-bottom: 0.75rem; }
+
+/* Focus styles */
+*:focus-visible {
+  outline: 2px solid var(--color-coral);
+  outline-offset: 2px;
+}
+
+button, a {
+  touch-action: manipulation;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

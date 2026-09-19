@@ -1,0 +1,3260 @@
+[
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'diminish'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "increase"
+      },
+      {
+        "id": "B",
+        "text": "gloomy"
+      },
+      {
+        "id": "C",
+        "text": "indifferent"
+      },
+      {
+        "id": "D",
+        "text": "plain"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Diminish' means 'decrease'; its opposite is 'increase'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'meager'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "consistent"
+      },
+      {
+        "id": "B",
+        "text": "scanty and insufficient"
+      },
+      {
+        "id": "C",
+        "text": "hardworking"
+      },
+      {
+        "id": "D",
+        "text": "sudden"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Meager' means 'scanty and insufficient'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'benevolent'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "turbulent"
+      },
+      {
+        "id": "B",
+        "text": "abundant"
+      },
+      {
+        "id": "C",
+        "text": "cruel"
+      },
+      {
+        "id": "D",
+        "text": "inarticulate"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Benevolent' means 'kind'; its opposite is 'cruel'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'wary'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "plentiful"
+      },
+      {
+        "id": "B",
+        "text": "tough and adaptable"
+      },
+      {
+        "id": "C",
+        "text": "cautious"
+      },
+      {
+        "id": "D",
+        "text": "suppress"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Wary' means 'cautious'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'keen'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "divided"
+      },
+      {
+        "id": "B",
+        "text": "reputable"
+      },
+      {
+        "id": "C",
+        "text": "reluctant"
+      },
+      {
+        "id": "D",
+        "text": "friendly"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Keen' means 'eager'; its opposite is 'reluctant'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'frugal'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "rare"
+      },
+      {
+        "id": "B",
+        "text": "eager"
+      },
+      {
+        "id": "C",
+        "text": "thrifty"
+      },
+      {
+        "id": "D",
+        "text": "hardship"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Frugal' means 'thrifty'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'languid'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sluggish"
+      },
+      {
+        "id": "B",
+        "text": "scanty and insufficient"
+      },
+      {
+        "id": "C",
+        "text": "random and unreasoned"
+      },
+      {
+        "id": "D",
+        "text": "suppress"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Languid' means 'sluggish'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'cordial'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "hostile"
+      },
+      {
+        "id": "B",
+        "text": "turbulent"
+      },
+      {
+        "id": "C",
+        "text": "dynamic"
+      },
+      {
+        "id": "D",
+        "text": "strict"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Cordial' means 'friendly'; its opposite is 'hostile'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'opulent'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "luxurious"
+      },
+      {
+        "id": "B",
+        "text": "calm and peaceful"
+      },
+      {
+        "id": "C",
+        "text": "unwilling"
+      },
+      {
+        "id": "D",
+        "text": "gloomy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Opulent' means 'luxurious'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to be under the weather' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to initiate conversation in a social setting"
+      },
+      {
+        "id": "B",
+        "text": "to feel slightly unwell"
+      },
+      {
+        "id": "C",
+        "text": "to become nervous about doing something planned"
+      },
+      {
+        "id": "D",
+        "text": "to join a popular activity or trend"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'To be under the weather' means to feel slightly unwell.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'impartial'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "kind"
+      },
+      {
+        "id": "B",
+        "text": "authentic"
+      },
+      {
+        "id": "C",
+        "text": "calm and peaceful"
+      },
+      {
+        "id": "D",
+        "text": "unbiased"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Impartial' means 'unbiased'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to beat around the bush' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to be very expensive"
+      },
+      {
+        "id": "B",
+        "text": "to reveal a secret"
+      },
+      {
+        "id": "C",
+        "text": "to avoid getting to the point"
+      },
+      {
+        "id": "D",
+        "text": "to summarize briefly"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'To beat around the bush' means to avoid getting to the point.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'brittle'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "childish"
+      },
+      {
+        "id": "B",
+        "text": "suppress"
+      },
+      {
+        "id": "C",
+        "text": "fragile"
+      },
+      {
+        "id": "D",
+        "text": "obstruct"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Brittle' means 'fragile'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'jubilant'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "joyful"
+      },
+      {
+        "id": "B",
+        "text": "tough and adaptable"
+      },
+      {
+        "id": "C",
+        "text": "unconcerned"
+      },
+      {
+        "id": "D",
+        "text": "ignite or inspire"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Jubilant' means 'joyful'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'gullible'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "skeptical"
+      },
+      {
+        "id": "B",
+        "text": "interesting"
+      },
+      {
+        "id": "C",
+        "text": "divided"
+      },
+      {
+        "id": "D",
+        "text": "willing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Gullible' means 'easily deceived'; its opposite is 'skeptical'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the correct option: She is interested ___ learning new languages.",
+    "options": [
+      {
+        "id": "A",
+        "text": "for"
+      },
+      {
+        "id": "B",
+        "text": "in"
+      },
+      {
+        "id": "C",
+        "text": "on"
+      },
+      {
+        "id": "D",
+        "text": "at"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Interested' is correctly followed by the preposition 'in'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'bleak'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "biased"
+      },
+      {
+        "id": "B",
+        "text": "cheerful"
+      },
+      {
+        "id": "C",
+        "text": "impossible"
+      },
+      {
+        "id": "D",
+        "text": "indifferent"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Bleak' means 'gloomy'; its opposite is 'cheerful'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'vigilant'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "impossible"
+      },
+      {
+        "id": "B",
+        "text": "abundant"
+      },
+      {
+        "id": "C",
+        "text": "careless"
+      },
+      {
+        "id": "D",
+        "text": "tough"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Vigilant' means 'watchful'; its opposite is 'careless'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'candid'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "misleading"
+      },
+      {
+        "id": "B",
+        "text": "ordinary"
+      },
+      {
+        "id": "C",
+        "text": "honest and frank"
+      },
+      {
+        "id": "D",
+        "text": "childish"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Candid' means 'honest and frank'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'immense'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "goodwill"
+      },
+      {
+        "id": "B",
+        "text": "incite"
+      },
+      {
+        "id": "C",
+        "text": "wasteful"
+      },
+      {
+        "id": "D",
+        "text": "tiny"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Immense' means 'huge'; its opposite is 'tiny'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'tranquil'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "articulate"
+      },
+      {
+        "id": "B",
+        "text": "tough and adaptable"
+      },
+      {
+        "id": "C",
+        "text": "calm and peaceful"
+      },
+      {
+        "id": "D",
+        "text": "gloomy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Tranquil' means 'calm and peaceful'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to get cold feet' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to endure a painful situation bravely"
+      },
+      {
+        "id": "B",
+        "text": "to be very expensive"
+      },
+      {
+        "id": "C",
+        "text": "to become nervous about doing something planned"
+      },
+      {
+        "id": "D",
+        "text": "to stop doing something for the day"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'To get cold feet' means to become nervous about doing something planned.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'cautious'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "skeptical"
+      },
+      {
+        "id": "B",
+        "text": "reckless"
+      },
+      {
+        "id": "C",
+        "text": "extinguish"
+      },
+      {
+        "id": "D",
+        "text": "careless"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Cautious' means 'careful'; its opposite is 'reckless'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'wary'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "careless"
+      },
+      {
+        "id": "B",
+        "text": "fragile"
+      },
+      {
+        "id": "C",
+        "text": "abundant"
+      },
+      {
+        "id": "D",
+        "text": "simple"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Wary' means 'cautious'; its opposite is 'careless'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'concise'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "brief"
+      },
+      {
+        "id": "B",
+        "text": "random and unreasoned"
+      },
+      {
+        "id": "C",
+        "text": "scanty and insufficient"
+      },
+      {
+        "id": "D",
+        "text": "kind"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Concise' means 'brief'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'tedious'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "careless"
+      },
+      {
+        "id": "B",
+        "text": "interesting"
+      },
+      {
+        "id": "C",
+        "text": "mature"
+      },
+      {
+        "id": "D",
+        "text": "modern"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Tedious' means 'boring'; its opposite is 'interesting'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to keep an eye on something' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to watch it closely"
+      },
+      {
+        "id": "B",
+        "text": "to reveal a secret"
+      },
+      {
+        "id": "C",
+        "text": "to achieve two things with a single action"
+      },
+      {
+        "id": "D",
+        "text": "to describe exactly what is causing a situation"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'To keep an eye on something' means to watch it closely.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'kindle'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ignite or inspire"
+      },
+      {
+        "id": "B",
+        "text": "unbiased"
+      },
+      {
+        "id": "C",
+        "text": "detailed"
+      },
+      {
+        "id": "D",
+        "text": "hardworking"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Kindle' means 'ignite or inspire'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'unanimous'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "honest"
+      },
+      {
+        "id": "B",
+        "text": "scarce"
+      },
+      {
+        "id": "C",
+        "text": "gloomy"
+      },
+      {
+        "id": "D",
+        "text": "divided"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Unanimous' means 'agreed by all'; its opposite is 'divided'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to hit the nail on the head' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to reveal a secret"
+      },
+      {
+        "id": "B",
+        "text": "to make a greater effort than expected"
+      },
+      {
+        "id": "C",
+        "text": "to join a popular activity or trend"
+      },
+      {
+        "id": "D",
+        "text": "to describe exactly what is causing a situation"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'To hit the nail on the head' means to describe exactly what is causing a situation.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the correct option: He is good ___ mathematics.",
+    "options": [
+      {
+        "id": "A",
+        "text": "in"
+      },
+      {
+        "id": "B",
+        "text": "at"
+      },
+      {
+        "id": "C",
+        "text": "for"
+      },
+      {
+        "id": "D",
+        "text": "on"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Good' is correctly followed by the preposition 'at' when referring to a skill or subject.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'scarce'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ill will"
+      },
+      {
+        "id": "B",
+        "text": "unconcerned"
+      },
+      {
+        "id": "C",
+        "text": "obstruct"
+      },
+      {
+        "id": "D",
+        "text": "rare"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Scarce' means 'rare'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to break the ice' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to join a popular activity or trend"
+      },
+      {
+        "id": "B",
+        "text": "to initiate conversation in a social setting"
+      },
+      {
+        "id": "C",
+        "text": "to achieve two things with a single action"
+      },
+      {
+        "id": "D",
+        "text": "to feel slightly unwell"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'To break the ice' means to initiate conversation in a social setting.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "What does the idiom 'to call it a day' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to join a popular activity or trend"
+      },
+      {
+        "id": "B",
+        "text": "to describe exactly what is causing a situation"
+      },
+      {
+        "id": "C",
+        "text": "to initiate conversation in a social setting"
+      },
+      {
+        "id": "D",
+        "text": "to stop doing something for the day"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'To call it a day' means to stop doing something for the day.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'jubilant'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "mature"
+      },
+      {
+        "id": "B",
+        "text": "reckless"
+      },
+      {
+        "id": "C",
+        "text": "interesting"
+      },
+      {
+        "id": "D",
+        "text": "sad"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Jubilant' means 'joyful'; its opposite is 'sad'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'hinder'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "obstruct"
+      },
+      {
+        "id": "B",
+        "text": "kind"
+      },
+      {
+        "id": "C",
+        "text": "eager"
+      },
+      {
+        "id": "D",
+        "text": "consistent"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Hinder' means 'obstruct'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'immense'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "luxurious"
+      },
+      {
+        "id": "B",
+        "text": "huge"
+      },
+      {
+        "id": "C",
+        "text": "obstruct"
+      },
+      {
+        "id": "D",
+        "text": "sudden"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Immense' means 'huge'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'tranquil'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "inarticulate"
+      },
+      {
+        "id": "B",
+        "text": "skeptical"
+      },
+      {
+        "id": "C",
+        "text": "turbulent"
+      },
+      {
+        "id": "D",
+        "text": "hostile"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Tranquil' means 'calm and peaceful'; its opposite is 'turbulent'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'hasty'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "kind"
+      },
+      {
+        "id": "B",
+        "text": "hurried"
+      },
+      {
+        "id": "C",
+        "text": "cheerful"
+      },
+      {
+        "id": "D",
+        "text": "brief"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Hasty' means 'hurried'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the correct option: If I ___ you, I would apologize.",
+    "options": [
+      {
+        "id": "A",
+        "text": "was"
+      },
+      {
+        "id": "B",
+        "text": "am"
+      },
+      {
+        "id": "C",
+        "text": "will be"
+      },
+      {
+        "id": "D",
+        "text": "were"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "This is a hypothetical (subjunctive) conditional, which conventionally uses 'were' regardless of subject.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'genuine'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "cruel"
+      },
+      {
+        "id": "B",
+        "text": "cheerful"
+      },
+      {
+        "id": "C",
+        "text": "verbose"
+      },
+      {
+        "id": "D",
+        "text": "fake"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Genuine' means 'authentic'; its opposite is 'fake'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'plausible'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "possible and practicable"
+      },
+      {
+        "id": "B",
+        "text": "watchful"
+      },
+      {
+        "id": "C",
+        "text": "believable"
+      },
+      {
+        "id": "D",
+        "text": "cheerful"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Plausible' means 'believable'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'uniform'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "misleading"
+      },
+      {
+        "id": "B",
+        "text": "unconcerned"
+      },
+      {
+        "id": "C",
+        "text": "easily deceived"
+      },
+      {
+        "id": "D",
+        "text": "consistent"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Uniform' means 'consistent'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'bleak'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "detailed"
+      },
+      {
+        "id": "B",
+        "text": "gloomy"
+      },
+      {
+        "id": "C",
+        "text": "motionless and inactive"
+      },
+      {
+        "id": "D",
+        "text": "boring"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Bleak' means 'gloomy'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'meticulous'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "tiny"
+      },
+      {
+        "id": "B",
+        "text": "inarticulate"
+      },
+      {
+        "id": "C",
+        "text": "wasteful"
+      },
+      {
+        "id": "D",
+        "text": "careless"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Meticulous' means 'careful and precise'; its opposite is 'careless'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'hostile'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "practical"
+      },
+      {
+        "id": "B",
+        "text": "hardship"
+      },
+      {
+        "id": "C",
+        "text": "unfriendly"
+      },
+      {
+        "id": "D",
+        "text": "cautious"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Hostile' means 'unfriendly'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'languid'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "varied"
+      },
+      {
+        "id": "B",
+        "text": "goodwill"
+      },
+      {
+        "id": "C",
+        "text": "energetic"
+      },
+      {
+        "id": "D",
+        "text": "fragile"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Languid' means 'sluggish'; its opposite is 'energetic'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'quell'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "suppress"
+      },
+      {
+        "id": "B",
+        "text": "cautious"
+      },
+      {
+        "id": "C",
+        "text": "sudden"
+      },
+      {
+        "id": "D",
+        "text": "cheerful"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Quell' means 'suppress'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'deceptive'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "biased"
+      },
+      {
+        "id": "B",
+        "text": "honest"
+      },
+      {
+        "id": "C",
+        "text": "abundant"
+      },
+      {
+        "id": "D",
+        "text": "unbelievable"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Deceptive' means 'misleading'; its opposite is 'honest'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'malice'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ill will"
+      },
+      {
+        "id": "B",
+        "text": "articulate"
+      },
+      {
+        "id": "C",
+        "text": "motionless and inactive"
+      },
+      {
+        "id": "D",
+        "text": "watchful"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Malice' means 'ill will'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 12cm and width 4cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "52"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a rectangle = length × width = 12 × 4 = 48cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 10 and x − y = 6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 8, y = 2"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 8"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 8, y = 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding both equations: 2x = 16, so x = 8. Substituting: 8 + y = 10, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦60,000 for 1 year at 6% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10800"
+      },
+      {
+        "id": "B",
+        "text": "7200"
+      },
+      {
+        "id": "C",
+        "text": "3600"
+      },
+      {
+        "id": "D",
+        "text": "7200"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (60000 × 6 × 1) / 100 = ₦3600.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 10 and 25.",
+    "options": [
+      {
+        "id": "A",
+        "text": "250"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 10 and 25 is 50.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦25,000 for 3 years at 10% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "5000"
+      },
+      {
+        "id": "C",
+        "text": "15000"
+      },
+      {
+        "id": "D",
+        "text": "7500"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (25000 × 10 × 3) / 100 = ₦7500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "If 5x + 12 = 42, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 42 − 12 = 30, so x = 30 ÷ 5 = 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 4:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:10"
+      },
+      {
+        "id": "B",
+        "text": "2:5"
+      },
+      {
+        "id": "C",
+        "text": "2:6"
+      },
+      {
+        "id": "D",
+        "text": "3:5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 4 and 10 is 2. Dividing both terms by 2: 4÷2 : 10÷2 = 2:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦3,000 and wants to make a profit of 25%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4125"
+      },
+      {
+        "id": "B",
+        "text": "3750"
+      },
+      {
+        "id": "C",
+        "text": "4050"
+      },
+      {
+        "id": "D",
+        "text": "3375"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 25% of ₦3000 = ₦750. Selling price = ₦3000 + ₦750 = ₦3750.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 16cm and width 6cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "102"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 16 × 6 = 96cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:35 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "3:7"
+      },
+      {
+        "id": "D",
+        "text": "15:35"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 15 and 35 is 5. Dividing both terms by 5: 15÷5 : 35÷5 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦1,200 and wants to make a profit of 40%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1680"
+      },
+      {
+        "id": "B",
+        "text": "1920"
+      },
+      {
+        "id": "C",
+        "text": "1800"
+      },
+      {
+        "id": "D",
+        "text": "1440"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Profit = 40% of ₦1200 = ₦480. Selling price = ₦1200 + ₦480 = ₦1680.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 73, 21, 16, 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "134"
+      },
+      {
+        "id": "B",
+        "text": "33.5"
+      },
+      {
+        "id": "C",
+        "text": "28.5"
+      },
+      {
+        "id": "D",
+        "text": "38.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Average = sum of numbers ÷ count = 134 ÷ 4 = 33.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "294"
+      },
+      {
+        "id": "B",
+        "text": "21"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 14 and 21 is 42.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 18 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 18 and 24 is 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 13 and x − y = -1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 6, y = 8"
+      },
+      {
+        "id": "B",
+        "text": "x = 6, y = 7"
+      },
+      {
+        "id": "C",
+        "text": "x = 7, y = 6"
+      },
+      {
+        "id": "D",
+        "text": "x = 7, y = 7"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Adding both equations: 2x = 12, so x = 6. Substituting: 6 + y = 13, so y = 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 5cm and 12cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 5² + 12² = 25 + 144 = 169, so hypotenuse = 13cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "384"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The LCM of 16 and 24 is 48.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 77, 10, 86, 51.",
+    "options": [
+      {
+        "id": "A",
+        "text": "61"
+      },
+      {
+        "id": "B",
+        "text": "51"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "224"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 224 ÷ 4 = 56.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 13cm and width 5cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "70"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Area of a rectangle = length × width = 13 × 5 = 65cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 11 and x − y = 7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 9, y = 3"
+      },
+      {
+        "id": "B",
+        "text": "x = 2, y = 9"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 10, y = 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Adding both equations: 2x = 18, so x = 9. Substituting: 9 + y = 11, so y = 2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 31, 43, 77, 87.",
+    "options": [
+      {
+        "id": "A",
+        "text": "64.5"
+      },
+      {
+        "id": "B",
+        "text": "54.5"
+      },
+      {
+        "id": "C",
+        "text": "59.5"
+      },
+      {
+        "id": "D",
+        "text": "238"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average = sum of numbers ÷ count = 238 ÷ 4 = 59.5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 12cm and 16cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "28"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 12² + 16² = 144 + 256 = 400, so hypotenuse = 20cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 9 and x − y = 1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 5, y = 5"
+      },
+      {
+        "id": "B",
+        "text": "x = 4, y = 5"
+      },
+      {
+        "id": "C",
+        "text": "x = 6, y = 4"
+      },
+      {
+        "id": "D",
+        "text": "x = 5, y = 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Adding both equations: 2x = 10, so x = 5. Substituting: 5 + y = 9, so y = 4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 16 and 24.",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The HCF of 16 and 24 is 8.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 12 and 18.",
+    "options": [
+      {
+        "id": "A",
+        "text": "216"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "36"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The LCM of 12 and 18 is 36.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 6cm and width 3cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area of a rectangle = length × width = 6 × 3 = 18cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 15:25 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:5"
+      },
+      {
+        "id": "B",
+        "text": "3:6"
+      },
+      {
+        "id": "C",
+        "text": "15:25"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 15 and 25 is 5. Dividing both terms by 5: 15÷5 : 25÷5 = 3:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 6:8 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:4"
+      },
+      {
+        "id": "B",
+        "text": "3:5"
+      },
+      {
+        "id": "C",
+        "text": "4:4"
+      },
+      {
+        "id": "D",
+        "text": "6:8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 6 and 8 is 2. Dividing both terms by 2: 6÷2 : 8÷2 = 3:4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "If 2x + 4 = 22, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "11"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "2x = 22 − 4 = 18, so x = 18 ÷ 2 = 9.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦2,500 and wants to make a profit of 15%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3125"
+      },
+      {
+        "id": "B",
+        "text": "2875"
+      },
+      {
+        "id": "C",
+        "text": "3062.5"
+      },
+      {
+        "id": "D",
+        "text": "2687.5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 15% of ₦2500 = ₦375. Selling price = ₦2500 + ₦375 = ₦2875.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 18 and x − y = 0.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 10, y = 9"
+      },
+      {
+        "id": "B",
+        "text": "x = 9, y = 10"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 9"
+      },
+      {
+        "id": "D",
+        "text": "x = 9, y = 9"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Adding both equations: 2x = 18, so x = 9. Substituting: 9 + y = 18, so y = 9.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 8 and x − y = 2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 5, y = 3"
+      },
+      {
+        "id": "B",
+        "text": "x = 5, y = 4"
+      },
+      {
+        "id": "C",
+        "text": "x = 6, y = 3"
+      },
+      {
+        "id": "D",
+        "text": "x = 3, y = 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding both equations: 2x = 10, so x = 5. Substituting: 5 + y = 8, so y = 3.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 2:4 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1:3"
+      },
+      {
+        "id": "B",
+        "text": "1:2"
+      },
+      {
+        "id": "C",
+        "text": "2:4"
+      },
+      {
+        "id": "D",
+        "text": "2:2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The HCF of 2 and 4 is 2. Dividing both terms by 2: 2÷2 : 4÷2 = 1:2.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "If 5x + 10 = 40, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 40 − 10 = 30, so x = 30 ÷ 5 = 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦1,200 and wants to make a profit of 20%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1560"
+      },
+      {
+        "id": "B",
+        "text": "1320"
+      },
+      {
+        "id": "C",
+        "text": "1440"
+      },
+      {
+        "id": "D",
+        "text": "1560"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Profit = 20% of ₦1200 = ₦240. Selling price = ₦1200 + ₦240 = ₦1440.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the area of a rectangle with length 5cm and width 2cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "10"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a rectangle = length × width = 5 × 2 = 10cm².",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "mensuration"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the simple interest on ₦15,000 for 2 years at 10% per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4500"
+      },
+      {
+        "id": "B",
+        "text": "6000"
+      },
+      {
+        "id": "C",
+        "text": "1500"
+      },
+      {
+        "id": "D",
+        "text": "3000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (15000 × 10 × 2) / 100 = ₦3000.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "simple-interest"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 12 and 18.",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 18 is 6.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A right-angled triangle has legs 9cm and 12cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "15"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "By Pythagoras' theorem: hypotenuse² = 9² + 12² = 81 + 144 = 225, so hypotenuse = 15cm.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "geometry",
+      "pythagoras"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "If 4x + 15 = 31, find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "4x = 31 − 15 = 16, so x = 16 ÷ 4 = 4.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A car travels at a constant speed of 80km/h for 5 hours. How far does it travel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "480"
+      },
+      {
+        "id": "B",
+        "text": "320"
+      },
+      {
+        "id": "C",
+        "text": "85"
+      },
+      {
+        "id": "D",
+        "text": "400"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Distance = Speed × Time = 80 × 5 = 400km.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "speed-distance-time"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the average of the numbers 43, 26, 54, 18.",
+    "options": [
+      {
+        "id": "A",
+        "text": "35.25"
+      },
+      {
+        "id": "B",
+        "text": "30.25"
+      },
+      {
+        "id": "C",
+        "text": "141"
+      },
+      {
+        "id": "D",
+        "text": "40.25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Average = sum of numbers ÷ count = 141 ÷ 4 = 35.25.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "averages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "A trader bought an item for ₦3,000 and wants to make a profit of 50%. At what price should the item be sold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5250"
+      },
+      {
+        "id": "B",
+        "text": "4500"
+      },
+      {
+        "id": "C",
+        "text": "4800"
+      },
+      {
+        "id": "D",
+        "text": "3750"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit = 50% of ₦3000 = ₦1500. Selling price = ₦3000 + ₦1500 = ₦4500.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "commercial-maths",
+      "percentages"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 9 and 15.",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "54"
+      },
+      {
+        "id": "C",
+        "text": "135"
+      },
+      {
+        "id": "D",
+        "text": "45"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 9 and 15 is 45.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Mathematics",
+    "questionText": "Solve the simultaneous equations: x + y = 12 and x − y = -6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 3, y = 9"
+      },
+      {
+        "id": "B",
+        "text": "x = 3, y = 10"
+      },
+      {
+        "id": "C",
+        "text": "x = 9, y = 3"
+      },
+      {
+        "id": "D",
+        "text": "x = 4, y = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding both equations: 2x = 6, so x = 3. Substituting: 3 + y = 12, so y = 9.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "algebra",
+      "simultaneous-equations"
+    ]
+  }
+]
