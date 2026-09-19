@@ -1,0 +1,1279 @@
+[
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "JAMB",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "WAEC",
+    "subjectName": "Mathematics",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "According to the law of supply, what happens to quantity supplied when price increases, other things being equal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deflation"
+      },
+      {
+        "id": "B",
+        "text": "It increases"
+      },
+      {
+        "id": "C",
+        "text": "A public good"
+      },
+      {
+        "id": "D",
+        "text": "A regressive tax"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The law of supply describes a direct relationship between price and quantity supplied.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "supply"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term describes a sustained fall in the general price level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deflation"
+      },
+      {
+        "id": "B",
+        "text": "It increases"
+      },
+      {
+        "id": "C",
+        "text": "The value of the next best alternative forgone"
+      },
+      {
+        "id": "D",
+        "text": "Division of labour"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Deflation refers to a sustained decrease in the general price level over time.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "inflation"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What economic law states that additional satisfaction from consuming more units of a good decreases?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cost of borrowing money, or the reward for saving"
+      },
+      {
+        "id": "B",
+        "text": "A regressive tax"
+      },
+      {
+        "id": "C",
+        "text": "A cartel"
+      },
+      {
+        "id": "D",
+        "text": "The law of diminishing marginal utility"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The law of diminishing marginal utility states that each additional unit consumed yields less additional satisfaction than the previous one.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "consumer-behaviour"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What term refers to the skills, knowledge, and experience possessed by workers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Many buyers and sellers, homogeneous products, and free entry and exit"
+      },
+      {
+        "id": "B",
+        "text": "Human capital"
+      },
+      {
+        "id": "C",
+        "text": "Government spending and taxation"
+      },
+      {
+        "id": "D",
+        "text": "People who are willing and able to work but cannot find a job"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Human capital refers to the accumulated skills, knowledge, and experience that make workers productive.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "production"
+    ]
+  },
+  {
+    "examCode": "NECO",
+    "subjectName": "Economics",
+    "questionText": "What are the four factors of production?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The cost of borrowing money, or the reward for saving"
+      },
+      {
+        "id": "B",
+        "text": "Land, labour, capital, and entrepreneurship"
+      },
+      {
+        "id": "C",
+        "text": "The law of diminishing marginal utility"
+      },
+      {
+        "id": "D",
+        "text": "A cartel"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The four factors of production are land, labour, capital, and entrepreneurship.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "production"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'diminish'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "increase"
+      },
+      {
+        "id": "B",
+        "text": "gloomy"
+      },
+      {
+        "id": "C",
+        "text": "indifferent"
+      },
+      {
+        "id": "D",
+        "text": "plain"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Diminish' means 'decrease'; its opposite is 'increase'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'meager'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "consistent"
+      },
+      {
+        "id": "B",
+        "text": "scanty and insufficient"
+      },
+      {
+        "id": "C",
+        "text": "hardworking"
+      },
+      {
+        "id": "D",
+        "text": "sudden"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Meager' means 'scanty and insufficient'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'benevolent'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "turbulent"
+      },
+      {
+        "id": "B",
+        "text": "abundant"
+      },
+      {
+        "id": "C",
+        "text": "cruel"
+      },
+      {
+        "id": "D",
+        "text": "inarticulate"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Benevolent' means 'kind'; its opposite is 'cruel'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase nearest in meaning to 'wary'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "plentiful"
+      },
+      {
+        "id": "B",
+        "text": "tough and adaptable"
+      },
+      {
+        "id": "C",
+        "text": "cautious"
+      },
+      {
+        "id": "D",
+        "text": "suppress"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Wary' means 'cautious'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "synonyms"
+    ]
+  },
+  {
+    "examCode": "POST-UTME",
+    "subjectName": "Use of English",
+    "questionText": "Choose the word or phrase most nearly opposite in meaning to 'keen'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "divided"
+      },
+      {
+        "id": "B",
+        "text": "reputable"
+      },
+      {
+        "id": "C",
+        "text": "reluctant"
+      },
+      {
+        "id": "D",
+        "text": "friendly"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Keen' means 'eager'; its opposite is 'reluctant'.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary",
+      "antonyms"
+    ]
+  },
+  {
+    "examCode": "SAT",
+    "subjectName": "Math",
+    "questionText": "Find the Lowest Common Multiple (LCM) of 8 and 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "96"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The LCM of 8 and 12 is 24.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "SAT",
+    "subjectName": "Math",
+    "questionText": "Simplify the ratio 12:15 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:5"
+      },
+      {
+        "id": "B",
+        "text": "12:15"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "4:5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 15 is 3. Dividing both terms by 3: 12÷3 : 15÷3 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "SAT",
+    "subjectName": "Math",
+    "questionText": "Find the Highest Common Factor (HCF) of 14 and 21.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 14 and 21 is 7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "hcf-lcm"
+    ]
+  },
+  {
+    "examCode": "SAT",
+    "subjectName": "Math",
+    "questionText": "Simplify the ratio 8:10 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:5"
+      },
+      {
+        "id": "B",
+        "text": "8:10"
+      },
+      {
+        "id": "C",
+        "text": "4:6"
+      },
+      {
+        "id": "D",
+        "text": "5:5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The HCF of 8 and 10 is 2. Dividing both terms by 2: 8÷2 : 10÷2 = 4:5.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "SAT",
+    "subjectName": "Math",
+    "questionText": "Simplify the ratio 12:28 to its lowest terms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:8"
+      },
+      {
+        "id": "B",
+        "text": "4:7"
+      },
+      {
+        "id": "C",
+        "text": "12:28"
+      },
+      {
+        "id": "D",
+        "text": "3:7"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The HCF of 12 and 28 is 4. Dividing both terms by 4: 12÷4 : 28÷4 = 3:7.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Urban gardens have grown popular in cities worldwide. Beyond providing fresh produce, they create green spaces that improve air quality and offer residents a place to gather. Many city planners now consider them essential, not optional, infrastructure.\" Does the following statement agree with the passage? \"Urban gardens are valued only for the food they produce.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage states benefits go 'beyond providing fresh produce', contradicting the statement that they are valued 'only' for food.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about urban gardens, the word 'essential' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Necessary or indispensable"
+      },
+      {
+        "id": "B",
+        "text": "Optional or unnecessary"
+      },
+      {
+        "id": "C",
+        "text": "Temporary"
+      },
+      {
+        "id": "D",
+        "text": "Expensive"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Essential' means 'necessary or indispensable' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Urban gardens have grown popular in cities worldwide. Beyond providing fresh produce, they create green spaces that improve air quality and offer residents a place to gather. Many city planners now consider them essential, not optional, infrastructure.\" What is this passage primarily about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Urban gardens"
+      },
+      {
+        "id": "B",
+        "text": "Beekeeping"
+      },
+      {
+        "id": "C",
+        "text": "Coral reefs"
+      },
+      {
+        "id": "D",
+        "text": "Remote work"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage is primarily about urban gardens.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "Passage: \"Coral reefs support an estimated quarter of all marine species, despite covering less than one percent of the ocean floor. Rising sea temperatures have caused widespread coral bleaching in recent decades, though some reef systems have shown surprising resilience.\" Does the following statement agree with the passage? \"Coral reefs cover more than half of the ocean floor.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Not Given"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage states reefs cover 'less than one percent' of the ocean floor, contradicting the statement.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "true-false-not-given"
+    ]
+  },
+  {
+    "examCode": "IELTS",
+    "subjectName": "Reading",
+    "questionText": "In the passage about coral reefs, the word 'resilience' most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "The ability to recover from difficulty"
+      },
+      {
+        "id": "B",
+        "text": "Complete destruction"
+      },
+      {
+        "id": "C",
+        "text": "Total avoidance"
+      },
+      {
+        "id": "D",
+        "text": "Rapid growth"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Resilience' means 'the ability to recover from difficulty' in this context.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vocabulary-in-context"
+    ]
+  },
+  {
+    "examCode": "ICAN",
+    "subjectName": "Financial Accounting (Foundation)",
+    "questionText": "Which depreciation method charges an equal amount of expense each year over an asset's useful life?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The arithmetical accuracy of double-entry postings"
+      },
+      {
+        "id": "B",
+        "text": "A bank reconciliation statement"
+      },
+      {
+        "id": "C",
+        "text": "The straight-line method"
+      },
+      {
+        "id": "D",
+        "text": "Debit"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The straight-line method spreads an asset's depreciable cost evenly over its useful life.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "depreciation"
+    ]
+  },
+  {
+    "examCode": "ICAN",
+    "subjectName": "Financial Accounting (Foundation)",
+    "questionText": "Which inventory valuation method assumes the most recently purchased goods are sold first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "First-In-First-Out (FIFO)"
+      },
+      {
+        "id": "B",
+        "text": "Assets = Liabilities + Capital"
+      },
+      {
+        "id": "C",
+        "text": "A bank reconciliation statement"
+      },
+      {
+        "id": "D",
+        "text": "Last-In-First-Out (LIFO)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "LIFO (Last-In-First-Out) assumes the most recently acquired inventory items are sold first.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "inventory-valuation"
+    ]
+  },
+  {
+    "examCode": "ICAN",
+    "subjectName": "Financial Accounting (Foundation)",
+    "questionText": "What financial statement shows a business's revenue and expenses over a period, resulting in profit or loss?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Credit"
+      },
+      {
+        "id": "B",
+        "text": "First-In-First-Out (FIFO)"
+      },
+      {
+        "id": "C",
+        "text": "The statement of profit or loss (income statement)"
+      },
+      {
+        "id": "D",
+        "text": "The reducing balance method"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The statement of profit or loss shows revenue and expenses over a period, arriving at a net profit or loss.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "financial-statements"
+    ]
+  },
+  {
+    "examCode": "ICAN",
+    "subjectName": "Financial Accounting (Foundation)",
+    "questionText": "What term describes the process of recording daily transactions in a book of original entry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Last-In-First-Out (LIFO)"
+      },
+      {
+        "id": "B",
+        "text": "The historical cost concept"
+      },
+      {
+        "id": "C",
+        "text": "Journalizing"
+      },
+      {
+        "id": "D",
+        "text": "Debit"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Journalizing is the process of initially recording transactions in a journal (book of original entry) before posting to ledger accounts.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "easy",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "bookkeeping"
+    ]
+  },
+  {
+    "examCode": "ICAN",
+    "subjectName": "Financial Accounting (Foundation)",
+    "questionText": "What accounting concept requires anticipating losses but not anticipating unrealized gains?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The statement of cash flows"
+      },
+      {
+        "id": "B",
+        "text": "The prudence concept"
+      },
+      {
+        "id": "C",
+        "text": "The matching concept"
+      },
+      {
+        "id": "D",
+        "text": "Credit"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The prudence concept requires accountants to exercise caution, recognizing losses as soon as anticipated but gains only when realized.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "accounting-concepts"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which Act governs Value Added Tax (VAT) in Nigeria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Companies Income Tax Act (CITA)"
+      },
+      {
+        "id": "B",
+        "text": "The Value Added Tax Act"
+      },
+      {
+        "id": "C",
+        "text": "A tax levied on goods or services, which can be shifted to another party, such as VAT"
+      },
+      {
+        "id": "D",
+        "text": "A reduction in the amount of tax payable, often through allowances or deductions"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "VAT in Nigeria is governed by the Value Added Tax Act.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-law"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is pioneer status, as a Nigerian tax incentive?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A tax holiday granted to qualifying companies for a specified period"
+      },
+      {
+        "id": "B",
+        "text": "The Federal Inland Revenue Service (FIRS)"
+      },
+      {
+        "id": "C",
+        "text": "Income or persons specifically excluded from tax liability by law"
+      },
+      {
+        "id": "D",
+        "text": "Tax arising from temporary differences between accounting and tax treatment of items"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pioneer status grants qualifying companies a tax holiday (exemption from Companies Income Tax) for a specified period.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-incentives"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "Which body typically administers Personal Income Tax for individuals resident in a Nigerian state?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "B",
+        "text": "It ensures companies with little or no taxable profit still pay some tax"
+      },
+      {
+        "id": "C",
+        "text": "A Tax Identification Number (TIN)"
+      },
+      {
+        "id": "D",
+        "text": "A reduction in the amount of tax payable, often through allowances or deductions"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Personal Income Tax for individuals is generally administered by the State Internal Revenue Service of their state of residence.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is presumptive tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An examination of a taxpayer's records to verify the accuracy of tax returns"
+      },
+      {
+        "id": "B",
+        "text": "The Joint Tax Board (JTB)"
+      },
+      {
+        "id": "C",
+        "text": "The State Internal Revenue Service (SIRS)"
+      },
+      {
+        "id": "D",
+        "text": "A simplified method of estimating tax liability, often used for small businesses"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Presumptive tax uses simplified methods (rather than detailed accounts) to estimate the tax liability of certain taxpayers, often small businesses.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "hard",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "tax-administration"
+    ]
+  },
+  {
+    "examCode": "CITN",
+    "subjectName": "Principles and Practice of Taxation",
+    "questionText": "What is input VAT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A progressive tax system"
+      },
+      {
+        "id": "B",
+        "text": "The Personal Income Tax Act (PITA)"
+      },
+      {
+        "id": "C",
+        "text": "A tax holiday granted to qualifying companies for a specified period"
+      },
+      {
+        "id": "D",
+        "text": "VAT paid by a business on its purchases"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Input VAT refers to the VAT a business pays when purchasing goods or services for its operations.",
+    "explanationSource": "idrak_generated",
+    "difficulty": "medium",
+    "contentType": "generated",
+    "isHighYield": false,
+    "tags": [
+      "vat"
+    ]
+  }
+]
