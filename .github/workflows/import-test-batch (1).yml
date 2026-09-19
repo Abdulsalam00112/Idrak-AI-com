@@ -36,4 +36,4 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: |
-          node db/seed/questions/import.ts db/seed/questions/test-batch-40.json
+          npx tsx db/seed/questions/import.ts db/seed/questions/test-batch-40.json
